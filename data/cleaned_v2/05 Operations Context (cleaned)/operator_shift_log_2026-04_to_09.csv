@@ -1,0 +1,952 @@
+timestamp,plant,shift,author_role,entry
+2026-04-01 02:43,Plant B,Night,Maintenance Lead,Weekly standby exercise on C-4 complete.
+2026-04-01 03:02,Plant A,Night,Night Operator,Engine room checks OK. Oil levels good on all machines.
+2026-04-01 05:54,Plant B,Night,Shift Supervisor,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-01 06:16,Plant B,Night,Day Refrigeration Tech,Nothing to report.
+2026-04-01 09:40,Plant A,Day,Shift Supervisor,Ammonia detector bump test passed (GD-A-02).
+2026-04-01 14:56,Plant A,Day,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-05).
+2026-04-01 21:17,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-04-02 03:05,Plant A,Night,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-04-02 09:21,Plant C,Day,Day Refrigeration Tech,Sanitation done 06:35.
+2026-04-02 14:27,Plant B,Day,Shift Supervisor,Spirals started 04:33. Pulled down OK.
+2026-04-02 17:31,Plant C,Day,Maintenance Lead,Sanitation done 04:04.
+2026-04-02 21:03,Plant C,Night,Night Operator,Rounds complete.
+2026-04-02 21:18,Plant B,Night,Night Operator,Engine room checks OK.
+2026-04-03 09:10,Plant C,Day,Night Operator,Rounds complete.
+2026-04-03 09:14,Plant B,Day,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-04-03 09:25,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-04-03 21:27,Plant A,Night,Maintenance Lead,RTE rooms warm during washdown as usual.
+2026-04-03 21:49,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-04-03 21:56,Plant A,Night,Maintenance Lead,Sanitation complete 04:33. Pre-weigh recovering.
+2026-04-04 02:44,Plant A,Night,Day Refrigeration Tech,"Truck at D3 early, held at yard until appointment."
+2026-04-04 06:02,Plant A,Night,Night Operator,Ammonia detector bump test passed (GD-A-02).
+2026-04-04 09:47,Plant C,Day,Maintenance Lead,Blast freezer loaded 08:57.
+2026-04-04 09:58,Plant B,Day,Maintenance Lead,Engine room checks OK.
+2026-04-04 14:16,Plant B,Day,Shift Supervisor,Drained oil pots on C-3.
+2026-04-04 18:23,Plant A,Day,Maintenance Lead,"Checked condenser fans, all running."
+2026-04-05 05:51,Plant B,Night,Maintenance Lead,Spirals started 08:12. Pulled down OK.
+2026-04-05 09:25,Plant C,Day,Night Operator,Blast freezer loaded 07:04.
+2026-04-05 09:35,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-04-05 17:44,Plant A,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-04-05 18:20,Plant C,Day,Day Refrigeration Tech,Rounds complete.
+2026-04-05 21:02,Plant A,Night,Night Operator,Ammonia detector bump test passed (GD-A-01).
+2026-04-05 21:21,Plant C,Night,Maintenance Lead,Bulk coolers steady.
+2026-04-06 02:49,Plant B,Night,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-04-06 05:49,Plant B,Night,Shift Supervisor,Spirals started 08:50. Pulled down OK.
+2026-04-06 06:14,Plant B,Night,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-06 09:56,Plant C,Day,Night Operator,Sanitation done 05:56.
+2026-04-06 17:56,Plant C,Day,Day Refrigeration Tech,Rounds complete.
+2026-04-06 18:07,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-04-07 06:10,Plant C,Night,Night Operator,"Dock busy, doors cycling."
+2026-04-07 09:27,Plant A,Day,Maintenance Lead,"Truck at D2 early, held at yard until appointment."
+2026-04-07 09:28,Plant B,Day,Night Operator,Cook rooms warm with kettles running.
+2026-04-07 14:53,Plant B,Day,Night Operator,Rounds complete. All rooms in range.
+2026-04-07 21:08,Plant C,Night,Shift Supervisor,Protein room front warm again midday.
+2026-04-07 21:34,Plant A,Night,Night Operator,"Truck at D1 early, held at yard until appointment."
+2026-04-08 06:17,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 08:39. Normal.
+2026-04-08 09:55,Plant B,Day,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-04-08 21:56,Plant C,Night,Shift Supervisor,Blast freezer loaded 06:39.
+2026-04-09 03:13,Plant A,Night,Maintenance Lead,"Checked condenser fans, all running."
+2026-04-09 06:18,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-04-09 09:54,Plant A,Day,Maintenance Lead,RTE rooms warm during washdown as usual.
+2026-04-09 14:25,Plant B,Day,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-04-09 18:23,Plant B,Day,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-04-09 21:27,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-04-10 03:29,Plant A,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-04-10 06:01,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-04-10 09:34,Plant B,Day,Day Refrigeration Tech,Nothing to report.
+2026-04-10 14:44,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-04-10 14:50,Plant C,Day,Day Refrigeration Tech,Blast freezer loaded 07:14.
+2026-04-10 21:02,Plant B,Night,Night Operator,"C-1 lead this week, C-2 lag."
+2026-04-10 21:34,Plant C,Night,Night Operator,Nothing to report.
+2026-04-11 03:20,Plant B,Night,Day Refrigeration Tech,Nothing to report.
+2026-04-11 06:26,Plant A,Night,Night Operator,Rounds complete. All rooms in range.
+2026-04-11 09:15,Plant B,Day,Maintenance Lead,Cook rooms warm with kettles running.
+2026-04-11 09:15,Plant C,Day,Day Refrigeration Tech,Blast freezer loaded 08:22.
+2026-04-11 17:55,Plant B,Day,Shift Supervisor,Rounds complete. All rooms in range.
+2026-04-11 18:01,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-04-11 21:38,Plant A,Night,Shift Supervisor,Pumped down V4 at 06:01. Normal.
+2026-04-11 21:55,Plant C,Night,Maintenance Lead,Ice builder cycling normal.
+2026-04-12 02:33,Plant B,Night,Shift Supervisor,"C-1 lead this week, C-2 lag."
+2026-04-12 02:37,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-04-12 03:02,Plant C,Night,Shift Supervisor,Nothing to report.
+2026-04-12 09:00,Plant A,Day,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-04-12 21:13,Plant A,Night,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-04-13 09:11,Plant C,Day,Maintenance Lead,Protein room front warm again midday.
+2026-04-13 09:20,Plant A,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-04-13 09:48,Plant B,Day,Day Refrigeration Tech,Nothing to report.
+2026-04-13 14:08,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-04-13 14:48,Plant C,Day,Shift Supervisor,Nothing to report.
+2026-04-13 17:33,Plant A,Day,Day Refrigeration Tech,"Truck at D2 early, held at yard until appointment."
+2026-04-13 21:29,Plant C,Night,Maintenance Lead,Sanitation done 04:20.
+2026-04-14 02:45,Plant A,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-04-14 05:43,Plant C,Night,Maintenance Lead,Nothing to report.
+2026-04-14 05:50,Plant B,Night,Day Refrigeration Tech,Weekly standby exercise on C-4 complete.
+2026-04-14 21:39,Plant B,Night,Maintenance Lead,"Checked V-2 and V-4 levels, normal."
+2026-04-15 05:54,Plant C,Night,Shift Supervisor,Sanitation done 08:16.
+2026-04-15 09:50,Plant B,Day,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-15 09:57,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-04-15 14:17,Plant A,Day,Night Operator,Sanitation complete 04:24. Pre-weigh recovering.
+2026-04-15 14:31,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-04-15 18:08,Plant B,Day,Maintenance Lead,"C-2 lead this week, C-1 lag."
+2026-04-15 21:50,Plant A,Night,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-04-16 09:55,Plant B,Day,Night Operator,Drained oil pots on C-3.
+2026-04-16 18:05,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-05).
+2026-04-16 18:13,Plant C,Day,Night Operator,Ice builder cycling normal.
+2026-04-17 03:11,Plant C,Night,Night Operator,Nothing to report.
+2026-04-17 06:14,Plant B,Night,Maintenance Lead,Spirals started 07:08. Pulled down OK.
+2026-04-17 09:31,Plant C,Day,Maintenance Lead,Sanitation done 07:43.
+2026-04-17 14:15,Plant A,Day,Night Operator,Rounds complete. All rooms in range.
+2026-04-17 18:13,Plant C,Day,Night Operator,"Dock busy, doors cycling."
+2026-04-17 21:27,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-05).
+2026-04-18 02:40,Plant A,Night,Maintenance Lead,Nothing to report.
+2026-04-18 09:53,Plant B,Day,Night Operator,Spirals started 05:10. Pulled down OK.
+2026-04-18 14:33,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-01).
+2026-04-18 18:02,Plant C,Day,Day Refrigeration Tech,Sanitation done 06:25.
+2026-04-19 02:51,Plant C,Night,Night Operator,Nothing to report.
+2026-04-19 03:28,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-04-19 14:19,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-04-19 14:51,Plant C,Day,Night Operator,Rounds complete.
+2026-04-19 21:26,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-04-19 21:38,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-04-20 02:30,Plant A,Night,Shift Supervisor,Sanitation complete 07:12. Pre-weigh recovering.
+2026-04-20 02:43,Plant A,Night,Maintenance Lead,Ammonia detector bump test passed (GD-A-03).
+2026-04-20 06:03,Plant C,Night,Maintenance Lead,Sanitation done 05:04.
+2026-04-20 09:57,Plant C,Day,Night Operator,Blast freezer loaded 06:48.
+2026-04-20 14:02,Plant B,Day,Night Operator,Drained oil pots on C-3.
+2026-04-20 14:41,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-04-21 09:08,Plant C,Day,Day Refrigeration Tech,Rounds complete.
+2026-04-21 09:39,Plant A,Day,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-04-21 09:57,Plant A,Day,Night Operator,"Checked condenser fans, all running."
+2026-04-21 14:11,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-04-21 14:34,Plant B,Day,Day Refrigeration Tech,Spirals started 07:48. Pulled down OK.
+2026-04-22 03:21,Plant B,Night,Maintenance Lead,Weekly standby exercise on C-4 complete.
+2026-04-22 14:18,Plant B,Day,Night Operator,Drained oil pots on C-3.
+2026-04-22 18:06,Plant C,Day,Shift Supervisor,Sanitation done 06:53.
+2026-04-22 18:10,Plant A,Day,Day Refrigeration Tech,"Truck at D2 early, held at yard until appointment."
+2026-04-22 21:19,Plant B,Night,Maintenance Lead,"C-1 lead this week, C-2 lag."
+2026-04-23 02:34,Plant B,Night,Maintenance Lead,Spirals started 08:40. Pulled down OK.
+2026-04-23 06:20,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-05).
+2026-04-23 09:09,Plant C,Day,Night Operator,Sanitation done 07:24.
+2026-04-23 09:14,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-02).
+2026-04-23 09:19,Plant C,Day,Night Operator,Rounds complete.
+2026-04-23 09:51,Plant B,Day,Night Operator,Nothing to report.
+2026-04-23 17:37,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-04-24 02:37,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-04).
+2026-04-24 02:39,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-04-24 03:23,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-04-24 09:09,Plant B,Day,Shift Supervisor,Drained oil pots on C-3.
+2026-04-24 09:35,Plant C,Day,Maintenance Lead,"Dock busy, doors cycling."
+2026-04-24 21:49,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-04-25 03:23,Plant A,Night,Maintenance Lead,"Truck at D4 early, held at yard until appointment."
+2026-04-25 05:58,Plant A,Night,Maintenance Lead,"Checked condenser fans, all running."
+2026-04-25 09:39,Plant B,Day,Shift Supervisor,Spirals started 07:58. Pulled down OK.
+2026-04-25 14:14,Plant B,Day,Shift Supervisor,"C-1 lead this week, C-2 lag."
+2026-04-25 21:30,Plant C,Night,Shift Supervisor,Nothing to report.
+2026-04-25 21:40,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-04-25 21:41,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-04-26 02:45,Plant C,Night,Maintenance Lead,Ice builder cycling normal.
+2026-04-26 05:41,Plant C,Night,Shift Supervisor,Ice builder cycling normal.
+2026-04-26 05:55,Plant A,Night,Night Operator,"Truck at D2 early, held at yard until appointment."
+2026-04-26 09:58,Plant A,Day,Shift Supervisor,Pumped down V4 at 06:12. Normal.
+2026-04-26 18:25,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-26 18:29,Plant B,Day,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-27 02:33,Plant B,Night,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-27 05:55,Plant A,Night,Shift Supervisor,Sanitation complete 06:23. Pre-weigh recovering.
+2026-04-27 05:59,Plant C,Night,Night Operator,Bulk coolers steady.
+2026-04-27 09:21,Plant A,Day,Shift Supervisor,"Checked condenser fans, all running."
+2026-04-27 14:54,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-04-27 17:49,Plant B,Day,Maintenance Lead,Nothing to report.
+2026-04-27 21:01,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-04-27 21:33,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-04-28 02:55,Plant A,Night,Maintenance Lead,Pumped down V4 at 04:06. Normal.
+2026-04-28 03:08,Plant C,Night,Maintenance Lead,Sanitation done 07:56.
+2026-04-28 05:49,Plant B,Night,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-28 06:07,Plant B,Night,Shift Supervisor,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-28 18:00,Plant C,Day,Night Operator,Rounds complete.
+2026-04-28 18:13,Plant B,Day,Night Operator,Engine room checks OK.
+2026-04-29 06:02,Plant C,Night,Maintenance Lead,Blast freezer loaded 05:24.
+2026-04-29 06:04,Plant C,Night,Shift Supervisor,Sanitation done 04:48.
+2026-04-29 09:30,Plant B,Day,Night Operator,"C-2 lead this week, C-1 lag."
+2026-04-29 14:13,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-04-29 18:23,Plant A,Day,Day Refrigeration Tech,"Truck at D3 early, held at yard until appointment."
+2026-04-29 21:21,Plant C,Night,Maintenance Lead,Blast freezer loaded 08:01.
+2026-04-29 21:35,Plant B,Night,Shift Supervisor,Spirals started 06:25. Pulled down OK.
+2026-04-30 03:23,Plant C,Night,Maintenance Lead,Ice builder cycling normal.
+2026-04-30 05:46,Plant C,Night,Night Operator,"Dock busy, doors cycling."
+2026-04-30 09:01,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-04).
+2026-04-30 14:55,Plant B,Day,Maintenance Lead,"Checked V-2 and V-4 levels, normal."
+2026-04-30 18:01,Plant B,Day,Maintenance Lead,Spirals started 05:34. Pulled down OK.
+2026-05-01 02:43,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-05-01 05:41,Plant C,Night,Maintenance Lead,Sanitation done 07:13.
+2026-05-01 14:19,Plant B,Day,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-05-01 14:30,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-05-01 17:33,Plant A,Day,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-05-01 17:40,Plant B,Day,Day Refrigeration Tech,Spirals started 04:26. Pulled down OK.
+2026-05-01 17:51,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-05-01 18:00,Plant C,Day,Maintenance Lead,Bulk coolers steady.
+2026-05-02 02:52,Plant B,Night,Day Refrigeration Tech,"C-2 lead this week, C-1 lag."
+2026-05-02 09:41,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-05-02 17:56,Plant A,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-05-02 21:07,Plant B,Night,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-02 21:27,Plant A,Night,Night Operator,Sanitation complete 06:52. Pre-weigh recovering.
+2026-05-02 21:37,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-05-03 02:59,Plant B,Night,Day Refrigeration Tech,Spirals started 06:27. Pulled down OK.
+2026-05-03 09:32,Plant A,Day,Day Refrigeration Tech,Sanitation complete 08:40. Pre-weigh recovering.
+2026-05-03 14:24,Plant C,Day,Night Operator,Ice builder cycling normal.
+2026-05-03 14:41,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-05-03 18:23,Plant A,Day,Maintenance Lead,"Truck at D1 early, held at yard until appointment."
+2026-05-03 21:35,Plant A,Night,Night Operator,Ammonia detector bump test passed (GD-A-05).
+2026-05-04 14:12,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-05-04 18:18,Plant A,Day,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-03).
+2026-05-04 18:28,Plant C,Day,Maintenance Lead,Blast freezer loaded 06:16.
+2026-05-05 03:12,Plant A,Night,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-05-05 09:43,Plant B,Day,Shift Supervisor,Weekly standby exercise on C-4 complete.
+2026-05-05 14:22,Plant B,Day,Shift Supervisor,Engine room checks OK.
+2026-05-05 14:22,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-05-05 14:45,Plant A,Day,Shift Supervisor,Rounds complete. All rooms in range.
+2026-05-05 14:58,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-05-05 17:38,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-05-05 17:44,Plant B,Day,Night Operator,Engine room checks OK.
+2026-05-05 17:46,Plant A,Day,Maintenance Lead,Pumped down V4 at 08:49. Normal.
+2026-05-06 03:23,Plant B,Night,Night Operator,Engine room checks OK.
+2026-05-06 05:56,Plant A,Night,Maintenance Lead,Sanitation complete 04:47. Pre-weigh recovering.
+2026-05-06 09:20,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-06 14:27,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-05-06 21:45,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-01).
+2026-05-07 02:34,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-05-07 02:53,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-05-07 03:23,Plant B,Night,Day Refrigeration Tech,"C-1 lead this week, C-2 lag."
+2026-05-07 17:41,Plant B,Day,Maintenance Lead,Engine room checks OK.
+2026-05-07 17:51,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-05-08 06:20,Plant A,Night,Night Operator,"Checked condenser fans, all running."
+2026-05-08 06:20,Plant C,Night,Shift Supervisor,Ice builder cycling normal.
+2026-05-08 14:29,Plant B,Day,Day Refrigeration Tech,"C-1 lead this week, C-2 lag."
+2026-05-08 17:31,Plant A,Day,Night Operator,"Checked condenser fans, all running."
+2026-05-08 18:13,Plant C,Day,Day Refrigeration Tech,Blast freezer loaded 05:11.
+2026-05-09 05:53,Plant B,Night,Shift Supervisor,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-09 09:02,Plant A,Day,Shift Supervisor,Rounds complete. All rooms in range.
+2026-05-09 09:50,Plant C,Day,Shift Supervisor,Rounds complete.
+2026-05-09 14:08,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-05-09 17:43,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-05-10 03:25,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 06:10. Normal.
+2026-05-10 09:36,Plant C,Day,Maintenance Lead,Blast freezer loaded 08:57.
+2026-05-10 18:02,Plant B,Day,Maintenance Lead,"C-1 lead this week, C-2 lag."
+2026-05-11 02:51,Plant C,Night,Shift Supervisor,Blast freezer loaded 04:46.
+2026-05-11 09:16,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-05-11 14:10,Plant B,Day,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-11 14:19,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-03).
+2026-05-11 17:39,Plant A,Day,Shift Supervisor,"Truck at D1 early, held at yard until appointment."
+2026-05-11 17:47,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-05-11 21:12,Plant B,Night,Shift Supervisor,Rounds complete. All rooms in range.
+2026-05-11 21:45,Plant A,Night,Night Operator,RTE rooms warm during washdown as usual.
+2026-05-12 03:15,Plant C,Night,Night Operator,Blast freezer loaded 08:12.
+2026-05-12 03:30,Plant A,Night,Night Operator,Rounds complete. All rooms in range.
+2026-05-12 05:52,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 04:25.
+2026-05-12 09:09,Plant B,Day,Maintenance Lead,"Checked V-2 and V-4 levels, normal."
+2026-05-12 17:56,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-05-12 21:11,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-05-13 02:52,Plant A,Night,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-05-13 03:11,Plant C,Night,Shift Supervisor,"Dock busy, doors cycling."
+2026-05-13 06:24,Plant A,Night,Day Refrigeration Tech,Sanitation complete 06:09. Pre-weigh recovering.
+2026-05-13 09:16,Plant B,Day,Day Refrigeration Tech,Engine room checks OK.
+2026-05-13 14:07,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-05-13 14:54,Plant C,Day,Shift Supervisor,"Dock busy, doors cycling."
+2026-05-13 17:59,Plant A,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-05-14 02:44,Plant B,Night,Maintenance Lead,Engine room checks OK.
+2026-05-14 03:14,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-05-14 06:03,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-05-14 14:19,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-05-14 18:10,Plant A,Day,Shift Supervisor,Sanitation complete 08:00. Pre-weigh recovering.
+2026-05-14 21:01,Plant C,Night,Night Operator,Bulk coolers steady.
+2026-05-14 21:29,Plant B,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-05-15 09:35,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-15 09:40,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-05-15 14:14,Plant A,Day,Day Refrigeration Tech,Sanitation complete 06:19. Pre-weigh recovering.
+2026-05-15 17:34,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-05-15 17:52,Plant A,Day,Day Refrigeration Tech,"Truck at D5 early, held at yard until appointment."
+2026-05-16 05:35,Plant B,Night,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-16 09:27,Plant B,Day,Shift Supervisor,Engine room checks OK.
+2026-05-16 17:36,Plant B,Day,Maintenance Lead,Drained oil pots on C-3.
+2026-05-16 17:44,Plant A,Day,Night Operator,Rounds complete. All rooms in range.
+2026-05-16 18:02,Plant A,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-05-16 21:26,Plant C,Night,Shift Supervisor,Blast freezer loaded 08:19.
+2026-05-16 21:48,Plant C,Night,Night Operator,Rounds complete.
+2026-05-17 05:39,Plant B,Night,Night Operator,Rounds complete. All rooms in range.
+2026-05-17 05:55,Plant C,Night,Night Operator,"Dock busy, doors cycling."
+2026-05-17 06:13,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-05-17 14:27,Plant A,Day,Night Operator,Rounds complete. All rooms in range.
+2026-05-17 17:40,Plant C,Day,Maintenance Lead,Blast freezer loaded 07:49.
+2026-05-17 21:23,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-05-18 03:01,Plant A,Night,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-05-18 06:11,Plant A,Night,Night Operator,Ammonia detector bump test passed (GD-A-02).
+2026-05-18 14:09,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-05-18 21:39,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-05-19 02:35,Plant A,Night,Night Operator,Rounds complete. All rooms in range.
+2026-05-19 03:11,Plant B,Night,Maintenance Lead,Spirals started 05:00. Pulled down OK.
+2026-05-19 05:41,Plant B,Night,Maintenance Lead,Cook rooms warm with kettles running.
+2026-05-19 06:15,Plant B,Night,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-05-19 21:20,Plant A,Night,Maintenance Lead,Pumped down V4 at 04:38. Normal.
+2026-05-19 21:32,Plant A,Night,Maintenance Lead,Pumped down V4 at 07:33. Normal.
+2026-05-19 21:55,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-05-20 02:30,Plant B,Night,Maintenance Lead,Cook rooms warm with kettles running.
+2026-05-20 06:23,Plant C,Night,Day Refrigeration Tech,Protein room front warm again midday.
+2026-05-20 09:36,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-05-20 21:38,Plant A,Night,Day Refrigeration Tech,Sanitation complete 05:10. Pre-weigh recovering.
+2026-05-21 03:26,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-05-21 05:59,Plant B,Night,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-05-21 09:36,Plant C,Day,Shift Supervisor,Protein room front warm again midday.
+2026-05-21 18:24,Plant B,Day,Shift Supervisor,Engine room checks OK.
+2026-05-22 03:24,Plant B,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-05-22 03:27,Plant B,Night,Night Operator,Engine room checks OK.
+2026-05-22 09:26,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-05-22 14:10,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-05-22 18:06,Plant A,Day,Shift Supervisor,Nothing to report.
+2026-05-22 18:18,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-05-23 02:56,Plant A,Night,Maintenance Lead,RTE rooms warm during washdown as usual.
+2026-05-23 05:34,Plant C,Night,Shift Supervisor,Sanitation done 05:31.
+2026-05-23 09:34,Plant B,Day,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-05-23 09:37,Plant A,Day,Maintenance Lead,Nothing to report.
+2026-05-23 09:44,Plant C,Day,Shift Supervisor,Nothing to report.
+2026-05-23 14:10,Plant A,Day,Shift Supervisor,Sanitation complete 05:13. Pre-weigh recovering.
+2026-05-24 09:14,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-05-24 17:53,Plant A,Day,Day Refrigeration Tech,Sanitation complete 07:48. Pre-weigh recovering.
+2026-05-24 18:20,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-05-24 21:32,Plant C,Night,Shift Supervisor,Rounds complete.
+2026-05-24 21:48,Plant A,Night,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-05-25 06:10,Plant C,Night,Maintenance Lead,Blast freezer loaded 04:40.
+2026-05-25 06:14,Plant C,Night,Maintenance Lead,"Dock busy, doors cycling."
+2026-05-25 06:17,Plant B,Night,Maintenance Lead,Weekly standby exercise on C-4 complete.
+2026-05-25 14:47,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-05-25 17:35,Plant C,Day,Night Operator,Rounds complete.
+2026-05-26 06:18,Plant A,Night,Night Operator,Engine room checks OK. Oil levels good on all machines.
+2026-05-26 14:25,Plant C,Day,Night Operator,Sanitation done 08:12.
+2026-05-26 14:27,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-05-26 18:27,Plant C,Day,Day Refrigeration Tech,Blast freezer loaded 06:26.
+2026-05-26 21:40,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-05-26 21:51,Plant A,Night,Night Operator,Nothing to report.
+2026-05-27 06:16,Plant B,Night,Day Refrigeration Tech,Engine room checks OK.
+2026-05-27 09:32,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-01).
+2026-05-27 09:44,Plant A,Day,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-05-27 09:58,Plant C,Day,Shift Supervisor,"Dock busy, doors cycling."
+2026-05-27 14:23,Plant A,Day,Shift Supervisor,Ammonia detector bump test passed (GD-A-01).
+2026-05-27 17:39,Plant C,Day,Maintenance Lead,Protein room front warm again midday.
+2026-05-27 21:06,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-05-27 21:21,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-05-28 03:22,Plant A,Night,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-05-28 09:44,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-05-28 14:45,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-05-28 17:47,Plant A,Day,Maintenance Lead,Sanitation complete 07:53. Pre-weigh recovering.
+2026-05-28 21:41,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-05-29 05:37,Plant A,Night,Day Refrigeration Tech,Nothing to report.
+2026-05-29 05:46,Plant B,Night,Night Operator,Spirals started 05:17. Pulled down OK.
+2026-05-29 09:32,Plant C,Day,Night Operator,"Dock busy, doors cycling."
+2026-05-29 14:08,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-05-29 17:30,Plant B,Day,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-05-29 17:50,Plant C,Day,Shift Supervisor,Protein room front warm again midday.
+2026-05-29 21:53,Plant A,Night,Night Operator,Nothing to report.
+2026-05-30 05:52,Plant C,Night,Shift Supervisor,Bulk coolers steady.
+2026-05-30 05:53,Plant B,Night,Maintenance Lead,Spirals started 07:13. Pulled down OK.
+2026-05-30 06:00,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-05-30 06:17,Plant A,Night,Night Operator,"Checked condenser fans, all running."
+2026-05-30 21:26,Plant C,Night,Shift Supervisor,"Dock busy, doors cycling."
+2026-05-31 03:26,Plant A,Night,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-05).
+2026-05-31 05:55,Plant B,Night,Night Operator,"C-2 lead this week, C-1 lag."
+2026-05-31 09:58,Plant C,Day,Maintenance Lead,"Dock busy, doors cycling."
+2026-05-31 14:06,Plant C,Day,Maintenance Lead,Nothing to report.
+2026-05-31 14:38,Plant A,Day,Shift Supervisor,"Checked condenser fans, all running."
+2026-05-31 17:59,Plant B,Day,Shift Supervisor,Spirals started 08:12. Pulled down OK.
+2026-05-31 21:55,Plant C,Night,Maintenance Lead,Rounds complete.
+2026-07-01 06:23,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-07-01 14:25,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-07-01 14:42,Plant B,Day,Day Refrigeration Tech,Spirals started 04:32. Pulled down OK.
+2026-07-01 14:56,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-07-01 17:51,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-07-01 21:49,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-07-02 02:47,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-07-02 05:33,Plant C,Night,Night Operator,Rounds complete.
+2026-07-02 09:56,Plant A,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-07-02 18:14,Plant A,Day,Night Operator,Pumped down V4 at 08:33. Normal.
+2026-07-02 21:33,Plant A,Night,Shift Supervisor,Rounds complete. All rooms in range.
+2026-07-03 05:52,Plant A,Night,Shift Supervisor,Pumped down V4 at 04:30. Normal.
+2026-07-03 09:11,Plant A,Day,Night Operator,"Checked condenser fans, all running."
+2026-07-03 09:27,Plant C,Day,Night Operator,Rounds complete.
+2026-07-03 09:33,Plant A,Day,Night Operator,"Truck at D2 early, held at yard until appointment."
+2026-07-03 14:31,Plant B,Day,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-07-03 14:33,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-03 17:50,Plant C,Day,Shift Supervisor,Blast freezer loaded 07:56.
+2026-07-03 21:09,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-07-04 02:47,Plant B,Night,Maintenance Lead,Spirals started 04:07. Pulled down OK.
+2026-07-04 02:52,Plant A,Night,Maintenance Lead,Sanitation complete 06:03. Pre-weigh recovering.
+2026-07-04 09:36,Plant C,Day,Maintenance Lead,Blast freezer loaded 08:02.
+2026-07-04 09:58,Plant A,Day,Day Refrigeration Tech,"Truck at D5 early, held at yard until appointment."
+2026-07-04 14:04,Plant A,Day,Maintenance Lead,Pumped down V4 at 04:36. Normal.
+2026-07-04 14:51,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-07-04 18:05,Plant B,Day,Day Refrigeration Tech,Spirals started 04:57. Pulled down OK.
+2026-07-04 21:57,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-05 09:13,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-05 09:55,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-07-05 17:40,Plant B,Day,Day Refrigeration Tech,Engine room checks OK.
+2026-07-05 18:07,Plant A,Day,Day Refrigeration Tech,Sanitation complete 04:19. Pre-weigh recovering.
+2026-07-05 18:07,Plant B,Day,Night Operator,Drained oil pots on C-3.
+2026-07-06 02:55,Plant A,Night,Shift Supervisor,Pumped down V4 at 06:56. Normal.
+2026-07-06 02:58,Plant B,Night,Night Operator,"C-2 lead this week, C-1 lag."
+2026-07-06 03:00,Plant C,Night,Maintenance Lead,Nothing to report.
+2026-07-06 14:12,Plant A,Day,Day Refrigeration Tech,D4 dock seal torn at the top. Put in a WO. Carrier K trailer sits crooked on D4 and takes forever to unload.
+2026-07-06 14:57,Plant C,Day,Maintenance Lead,Protein room front warm again midday.
+2026-07-06 21:37,Plant A,Night,Night Operator,Rounds complete. All rooms in range.
+2026-07-07 05:47,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-07-07 06:15,Plant A,Night,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-07-07 18:13,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-07-07 18:15,Plant B,Day,Maintenance Lead,Engine room checks OK.
+2026-07-07 21:22,Plant C,Night,Night Operator,Blast freezer loaded 08:29.
+2026-07-08 05:49,Plant A,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-07-08 05:51,Plant A,Night,Day Refrigeration Tech,Sanitation complete 05:17. Pre-weigh recovering.
+2026-07-08 09:40,Plant C,Day,Night Operator,"Dock busy, doors cycling."
+2026-07-08 10:12,Plant B,Day,Maintenance Lead,C-1 back in service after hose repair. Oil filter changed. C-1/C-2 rotation resumes.
+2026-07-08 14:09,Plant B,Day,Shift Supervisor,Cook rooms warm with kettles running.
+2026-07-08 14:15,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-07-08 14:18,Plant B,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-07-08 14:27,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-07-08 17:44,Plant C,Day,Shift Supervisor,"Dock busy, doors cycling."
+2026-07-09 02:44,Plant B,Night,Night Operator,Rounds complete. All rooms in range.
+2026-07-09 03:13,Plant A,Night,Day Refrigeration Tech,"Truck at D3 early, held at yard until appointment."
+2026-07-09 06:07,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-07-09 13:54,Plant A,Day,Shift Supervisor,UC-9/10 warmed to ~41F during the Carrier K unload at D4.
+2026-07-09 14:38,Plant C,Day,Maintenance Lead,Blast freezer loaded 04:25.
+2026-07-09 18:11,Plant B,Day,Night Operator,Nothing to report.
+2026-07-10 02:40,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 07:55.
+2026-07-10 05:43,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-10 05:56,Plant A,Night,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-07-10 06:14,Plant A,Night,Night Operator,"Truck at D2 early, held at yard until appointment."
+2026-07-10 09:58,Plant C,Day,Shift Supervisor,Blast freezer loaded 08:36.
+2026-07-10 18:04,Plant C,Day,Maintenance Lead,Protein room front warm again midday.
+2026-07-10 21:34,Plant A,Night,Maintenance Lead,Sanitation complete 05:04. Pre-weigh recovering.
+2026-07-10 21:51,Plant B,Night,Maintenance Lead,Spirals started 07:30. Pulled down OK.
+2026-07-11 03:28,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-07-11 05:45,Plant C,Night,Day Refrigeration Tech,Nothing to report.
+2026-07-11 09:07,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-07-11 09:11,Plant A,Day,Day Refrigeration Tech,Pumped down V4 at 08:29. Normal.
+2026-07-11 21:09,Plant B,Night,Maintenance Lead,Spirals started 04:45. Pulled down OK.
+2026-07-12 03:23,Plant A,Night,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-07-12 09:44,Plant C,Day,Shift Supervisor,Blast freezer loaded 08:00.
+2026-07-12 18:29,Plant B,Day,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-07-12 21:23,Plant A,Night,Maintenance Lead,Pumped down V4 at 04:15. Normal.
+2026-07-13 02:33,Plant B,Night,Shift Supervisor,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-07-13 02:41,Plant A,Night,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-07-13 03:02,Plant A,Night,Night Operator,Ammonia detector bump test passed (GD-A-01).
+2026-07-13 03:24,Plant B,Night,Maintenance Lead,Drained oil pots on C-3.
+2026-07-13 05:39,Plant C,Night,Shift Supervisor,Nothing to report.
+2026-07-13 09:12,Plant B,Day,Maintenance Lead,Cook rooms warm with kettles running.
+2026-07-13 09:31,Plant C,Day,Shift Supervisor,Rounds complete.
+2026-07-13 21:41,Plant C,Night,Shift Supervisor,Nothing to report.
+2026-07-13 21:55,Plant A,Night,Maintenance Lead,"Truck at D4 early, held at yard until appointment."
+2026-07-14 02:37,Plant B,Night,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-07-14 05:32,Plant C,Night,Day Refrigeration Tech,Nothing to report.
+2026-07-14 09:38,Plant A,Day,Maintenance Lead,"Truck at D3 early, held at yard until appointment."
+2026-07-14 09:42,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-07-14 14:55,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-14 17:48,Plant C,Day,Night Operator,Sanitation done 07:40.
+2026-07-14 17:55,Plant A,Day,Day Refrigeration Tech,"Truck at D3 early, held at yard until appointment."
+2026-07-15 05:55,Plant A,Night,Day Refrigeration Tech,"Truck at D2 early, held at yard until appointment."
+2026-07-15 09:28,Plant A,Day,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-07-15 09:32,Plant C,Day,Maintenance Lead,Blast freezer loaded 06:40.
+2026-07-15 14:00,Plant B,Day,Shift Supervisor,Cook rooms warm with kettles running.
+2026-07-15 14:13,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-07-15 21:12,Plant A,Night,Day Refrigeration Tech,Nothing to report.
+2026-07-15 21:41,Plant C,Night,Maintenance Lead,Bulk coolers steady.
+2026-07-16 03:06,Plant A,Night,Night Operator,No 2:45 spike on UF-3/UF-4 tonight after the thermostat swap.
+2026-07-16 03:18,Plant C,Night,Shift Supervisor,Bulk coolers steady.
+2026-07-16 05:51,Plant B,Night,Maintenance Lead,"C-1 lead this week, C-2 lag."
+2026-07-16 06:00,Plant A,Night,Day Refrigeration Tech,Sanitation complete 06:35. Pre-weigh recovering.
+2026-07-16 06:10,Plant C,Night,Shift Supervisor,Rounds complete.
+2026-07-16 06:24,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 04:45. Normal.
+2026-07-16 14:16,Plant C,Day,Maintenance Lead,Ice builder cycling normal.
+2026-07-17 03:14,Plant A,Night,Maintenance Lead,Nothing to report.
+2026-07-17 03:23,Plant C,Night,Maintenance Lead,Blast freezer loaded 05:10.
+2026-07-17 05:34,Plant C,Night,Maintenance Lead,Bulk coolers steady.
+2026-07-17 05:52,Plant B,Night,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-07-17 14:11,Plant C,Day,Shift Supervisor,Blast freezer loaded 06:27.
+2026-07-18 02:44,Plant A,Night,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-07-18 02:55,Plant B,Night,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-07-18 09:42,Plant A,Day,Maintenance Lead,Sanitation complete 04:13. Pre-weigh recovering.
+2026-07-18 14:13,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-07-18 14:25,Plant C,Day,Day Refrigeration Tech,Sanitation done 06:07.
+2026-07-18 17:45,Plant B,Day,Shift Supervisor,Spirals started 05:55. Pulled down OK.
+2026-07-18 18:21,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-07-19 02:45,Plant B,Night,Shift Supervisor,Nothing to report.
+2026-07-19 09:56,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-07-19 17:41,Plant C,Day,Day Refrigeration Tech,Sanitation done 06:11.
+2026-07-19 18:08,Plant C,Day,Night Operator,Sanitation done 05:18.
+2026-07-19 21:45,Plant A,Night,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-07-20 02:31,Plant B,Night,Night Operator,Weekly standby exercise on C-4 complete.
+2026-07-20 02:46,Plant C,Night,Night Operator,Protein room front warm again midday.
+2026-07-20 21:00,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-04).
+2026-07-20 21:44,Plant C,Night,Maintenance Lead,"Dock busy, doors cycling."
+2026-07-21 02:41,Plant C,Night,Shift Supervisor,Blast freezer loaded 07:46.
+2026-07-21 09:40,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-07-21 09:49,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-07-21 14:08,Plant B,Day,Day Refrigeration Tech,Added 2 gal oil to C-1. Level was low in sight glass.
+2026-07-21 14:17,Plant B,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-07-21 14:30,Plant A,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-07-21 14:32,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-07-22 02:37,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-07-22 02:55,Plant A,Night,Shift Supervisor,"Truck at D3 early, held at yard until appointment."
+2026-07-22 03:27,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-07-22 09:08,Plant A,Day,Day Refrigeration Tech,Nothing to report.
+2026-07-22 09:23,Plant B,Day,Shift Supervisor,Rounds complete. All rooms in range.
+2026-07-22 09:24,Plant C,Day,Night Operator,Rounds complete.
+2026-07-22 12:06,Plant C,Day,Day Refrigeration Tech,"Queso cup chiller adjusted, back to normal."
+2026-07-22 21:20,Plant C,Night,Night Operator,Rounds complete.
+2026-07-23 06:14,Plant C,Night,Night Operator,"Dock busy, doors cycling."
+2026-07-23 09:07,Plant B,Day,Day Refrigeration Tech,Weekly standby exercise on C-4 complete.
+2026-07-23 09:50,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-07-23 09:50,Plant B,Day,Night Operator,Cook rooms warm with kettles running.
+2026-07-23 09:59,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-07-23 18:10,Plant C,Day,Shift Supervisor,Rounds complete.
+2026-07-23 21:23,Plant C,Night,Shift Supervisor,"Dock busy, doors cycling."
+2026-07-24 05:37,Plant B,Night,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-07-24 09:49,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-07-24 14:20,Plant B,Day,Maintenance Lead,Nothing to report.
+2026-07-24 14:42,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-07-24 18:05,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-07-24 21:05,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-07-24 21:16,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-07-25 02:31,Plant A,Night,Shift Supervisor,Pumped down V4 at 08:57. Normal.
+2026-07-25 05:56,Plant B,Night,Night Operator,Spirals started 06:36. Pulled down OK.
+2026-07-25 06:06,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-07-25 09:06,Plant C,Day,Maintenance Lead,Blast freezer loaded 05:22.
+2026-07-25 09:49,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-07-25 14:41,Plant B,Day,Shift Supervisor,Drained oil pots on C-3.
+2026-07-25 21:55,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-07-26 05:33,Plant A,Night,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-07-26 06:26,Plant A,Night,Night Operator,Engine room checks OK. Oil levels good on all machines.
+2026-07-26 14:07,Plant C,Day,Night Operator,Ice builder cycling normal.
+2026-07-26 14:48,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-07-26 17:47,Plant B,Day,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-07-26 21:53,Plant C,Night,Night Operator,Nothing to report.
+2026-07-27 03:26,Plant A,Night,Maintenance Lead,"Truck at D2 early, held at yard until appointment."
+2026-07-27 06:29,Plant B,Night,Maintenance Lead,Engine room checks OK.
+2026-07-27 14:33,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-03).
+2026-07-27 18:24,Plant C,Day,Maintenance Lead,Bulk coolers steady.
+2026-07-27 21:11,Plant B,Night,Maintenance Lead,Spirals started 05:29. Pulled down OK.
+2026-07-27 21:27,Plant A,Night,Night Operator,"Checked condenser fans, all running."
+2026-07-27 21:27,Plant C,Night,Shift Supervisor,Bulk coolers steady.
+2026-07-28 06:22,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-07-28 09:16,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-07-28 10:00,Plant B,Day,Night Operator,Weekly standby exercise on C-4 complete.
+2026-07-28 14:07,Plant A,Day,Shift Supervisor,Nothing to report.
+2026-07-28 14:49,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-07-28 18:07,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-07-28 21:10,Plant A,Night,Night Operator,Pumped down V4 at 04:48. Normal.
+2026-07-29 05:49,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-07-29 09:16,Plant C,Day,Night Operator,Nothing to report.
+2026-07-29 14:08,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-07-29 14:12,Plant A,Day,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-07-29 14:32,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-07-29 14:55,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-07-29 21:24,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 05:13. Normal.
+2026-07-30 02:55,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-07-30 06:03,Plant B,Night,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-07-30 14:42,Plant A,Day,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-07-30 21:12,Plant B,Night,Shift Supervisor,"C-1 lead this week, C-2 lag."
+2026-07-30 21:54,Plant A,Night,Night Operator,Sanitation complete 04:23. Pre-weigh recovering.
+2026-07-31 02:40,Plant B,Night,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-07-31 02:41,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-07-31 03:04,Plant A,Night,Night Operator,RTE rooms warm during washdown as usual.
+2026-07-31 03:29,Plant C,Night,Night Operator,Sanitation done 08:54.
+2026-07-31 05:44,Plant C,Night,Maintenance Lead,Nothing to report.
+2026-07-31 09:29,Plant B,Day,Shift Supervisor,Engine room checks OK.
+2026-07-31 18:14,Plant A,Day,Maintenance Lead,Pumped down V4 at 05:58. Normal.
+2026-07-31 18:22,Plant B,Day,Shift Supervisor,Engine room checks OK.
+2026-08-01 02:48,Plant B,Night,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-08-01 03:06,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-08-01 05:53,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-08-01 05:57,Plant C,Night,Night Operator,Nothing to report.
+2026-08-01 05:59,Plant A,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-08-01 06:04,Plant A,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-08-01 06:15,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-08-01 14:13,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-08-02 03:14,Plant B,Night,Shift Supervisor,Weekly standby exercise on C-4 complete.
+2026-08-02 05:41,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-08-02 09:03,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-08-02 14:03,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-08-02 18:15,Plant C,Day,Shift Supervisor,Rounds complete.
+2026-08-02 18:16,Plant B,Day,Maintenance Lead,"C-1 lead this week, C-2 lag."
+2026-08-02 21:24,Plant A,Night,Maintenance Lead,Pumped down V4 at 05:19. Normal.
+2026-08-03 02:51,Plant C,Night,Day Refrigeration Tech,Sanitation done 08:53.
+2026-08-03 14:54,Plant B,Day,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-08-03 14:56,Plant B,Day,Night Operator,"C-2 lead this week, C-1 lag."
+2026-08-03 17:41,Plant A,Day,Day Refrigeration Tech,"Truck at D4 early, held at yard until appointment."
+2026-08-03 17:51,Plant B,Day,Shift Supervisor,Weekly standby exercise on C-4 complete.
+2026-08-03 18:03,Plant A,Day,Shift Supervisor,Defrost cycles normal on QFMs.
+2026-08-04 05:59,Plant B,Night,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-08-04 08:53,Plant B,Day,Day Refrigeration Tech,Added 2 gal oil to C-1. Level was low in sight glass.
+2026-08-04 09:03,Plant C,Day,Maintenance Lead,Bulk coolers steady.
+2026-08-04 09:49,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-08-04 14:51,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-08-04 21:04,Plant B,Night,Night Operator,Nothing to report.
+2026-08-04 21:07,Plant A,Night,Day Refrigeration Tech,"Truck at D2 early, held at yard until appointment."
+2026-08-05 02:50,Plant C,Night,Day Refrigeration Tech,Nothing to report.
+2026-08-05 03:04,Plant C,Night,Night Operator,Bulk coolers steady.
+2026-08-05 09:32,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-08-05 09:40,Plant A,Day,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-08-05 15:00,Plant C,Day,Maintenance Lead,Changed Protein Room Front defrost schedule. Should help the midday heat.
+2026-08-05 17:37,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-08-06 09:32,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-05).
+2026-08-06 09:42,Plant C,Day,Maintenance Lead,Blast freezer loaded 05:36.
+2026-08-06 14:22,Plant B,Day,Night Operator,"C-2 lead this week, C-1 lag."
+2026-08-06 15:00,Plant B,Day,Shift Supervisor,"Supplier 07 truck came in warm (16F). Accepted, product moved to UF-1 right away."
+2026-08-06 18:10,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-02).
+2026-08-06 21:02,Plant C,Night,Night Operator,Bulk coolers steady.
+2026-08-06 21:40,Plant A,Night,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-08-06 21:47,Plant C,Night,Maintenance Lead,Sanitation done 08:26.
+2026-08-07 06:02,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-08-07 09:10,Plant A,Day,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-04).
+2026-08-07 09:23,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-08-07 14:59,Plant B,Day,Shift Supervisor,Weekly standby exercise on C-4 complete.
+2026-08-07 21:53,Plant B,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-08-08 05:34,Plant B,Night,Day Refrigeration Tech,Nothing to report.
+2026-08-08 05:42,Plant A,Night,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-08-08 06:09,Plant A,Night,Shift Supervisor,Defrost cycles normal on QFMs.
+2026-08-08 06:10,Plant C,Night,Night Operator,Rounds complete.
+2026-08-08 06:17,Plant B,Night,Shift Supervisor,Cook rooms warm with kettles running.
+2026-08-08 14:11,Plant A,Day,Day Refrigeration Tech,Pumped down V4 at 05:53. Normal.
+2026-08-08 14:16,Plant B,Day,Shift Supervisor,Cook rooms warm with kettles running.
+2026-08-08 14:22,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-08-08 18:21,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-08-09 03:26,Plant B,Night,Night Operator,Nothing to report.
+2026-08-09 14:20,Plant B,Day,Shift Supervisor,"C-2 lead this week, C-1 lag."
+2026-08-09 18:13,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-08-09 21:35,Plant A,Night,Day Refrigeration Tech,Sanitation complete 07:13. Pre-weigh recovering.
+2026-08-09 22:24,Plant A,Night,Night Operator,EF-2 making a squealing noise.
+2026-08-10 02:40,Plant A,Night,Night Operator,Nothing to report.
+2026-08-10 02:55,Plant B,Night,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-08-10 05:39,Plant B,Night,Shift Supervisor,Spirals started 08:54. Pulled down OK.
+2026-08-10 09:27,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-08-10 17:55,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-08-11 06:26,Plant A,Night,Shift Supervisor,"Truck at D1 early, held at yard until appointment."
+2026-08-11 17:39,Plant B,Day,Night Operator,"Checked V-2 and V-4 levels, normal."
+2026-08-11 18:18,Plant C,Day,Day Refrigeration Tech,Sanitation done 06:05.
+2026-08-11 21:08,Plant A,Night,Maintenance Lead,Pumped down V4 at 05:38. Normal.
+2026-08-11 21:24,Plant A,Night,Day Refrigeration Tech,Sanitation complete 06:09. Pre-weigh recovering.
+2026-08-11 21:54,Plant C,Night,Shift Supervisor,Sanitation done 08:07.
+2026-08-12 02:40,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-08-12 05:34,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-08-12 06:16,Plant A,Night,Night Operator,Defrost cycles normal on QFMs.
+2026-08-12 21:13,Plant C,Night,Night Operator,Sanitation done 05:30.
+2026-08-12 21:46,Plant B,Night,Shift Supervisor,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-08-13 05:47,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-08-13 09:38,Plant A,Day,Maintenance Lead,Nothing to report.
+2026-08-13 15:30,Plant A,Day,Day Refrigeration Tech,"Engine room hot, heat wave. Doors propped open for air."
+2026-08-13 17:35,Plant B,Day,Maintenance Lead,Drained oil pots on C-3.
+2026-08-13 18:24,Plant C,Day,Shift Supervisor,Nothing to report.
+2026-08-13 21:36,Plant B,Night,Night Operator,Engine room checks OK.
+2026-08-13 21:37,Plant A,Night,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-08-13 21:55,Plant A,Night,Maintenance Lead,"Truck at D5 early, held at yard until appointment."
+2026-08-14 02:30,Plant A,Night,Shift Supervisor,"Truck at D2 early, held at yard until appointment."
+2026-08-14 06:09,Plant B,Night,Maintenance Lead,Drained oil pots on C-3.
+2026-08-14 09:04,Plant C,Day,Night Operator,"Dock busy, doors cycling."
+2026-08-14 09:41,Plant B,Day,Maintenance Lead,Weekly standby exercise on C-4 complete.
+2026-08-14 12:18,Plant B,Day,Day Refrigeration Tech,Added 3 gal oil to C-1. Level was low in sight glass.
+2026-08-14 17:40,Plant B,Day,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-08-14 17:57,Plant A,Day,Maintenance Lead,Pumped down V4 at 04:50. Normal.
+2026-08-14 18:29,Plant C,Day,Maintenance Lead,Ice builder cycling normal.
+2026-08-14 21:13,Plant C,Night,Day Refrigeration Tech,Protein room front warm again midday.
+2026-08-15 05:49,Plant B,Night,Day Refrigeration Tech,Nothing to report.
+2026-08-15 06:18,Plant A,Night,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-08-15 14:27,Plant B,Day,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-08-15 14:54,Plant C,Day,Night Operator,Nothing to report.
+2026-08-15 17:55,Plant A,Day,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-08-16 02:44,Plant B,Night,Maintenance Lead,Spirals started 04:25. Pulled down OK.
+2026-08-16 02:46,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-08-16 06:18,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-01).
+2026-08-16 09:55,Plant A,Day,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-08-16 14:25,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-08-16 14:55,Plant C,Day,Night Operator,Sanitation done 05:52.
+2026-08-17 05:48,Plant C,Night,Shift Supervisor,Blast freezer loaded 04:25.
+2026-08-17 09:16,Plant A,Day,Night Operator,Sanitation complete 06:29. Pre-weigh recovering.
+2026-08-17 09:50,Plant A,Day,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-08-17 14:04,Plant B,Day,Maintenance Lead,"Checked V-2 and V-4 levels, normal."
+2026-08-17 17:56,Plant C,Day,Maintenance Lead,Sanitation done 08:48.
+2026-08-17 18:29,Plant B,Day,Shift Supervisor,Cook rooms warm with kettles running.
+2026-08-18 03:18,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-04).
+2026-08-18 03:23,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-08-18 06:08,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-08-18 09:45,Plant A,Day,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-08-18 14:17,Plant B,Day,Day Refrigeration Tech,"C-2 lead this week, C-1 lag."
+2026-08-18 17:40,Plant C,Day,Night Operator,Bulk coolers steady.
+2026-08-18 18:21,Plant B,Day,Night Operator,Nothing to report.
+2026-08-19 05:53,Plant A,Night,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-08-19 06:06,Plant C,Night,Day Refrigeration Tech,Nothing to report.
+2026-08-19 09:48,Plant C,Day,Night Operator,Protein room front warm again midday.
+2026-08-19 09:51,Plant C,Day,Night Operator,"Dock busy, doors cycling."
+2026-08-19 09:54,Plant A,Day,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-08-19 14:18,Plant B,Day,Shift Supervisor,Power blip from the utility. Everything tripped. Restarting compressors.
+2026-08-19 21:23,Plant A,Night,Night Operator,"Checked condenser fans, all running."
+2026-08-19 21:59,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-08-20 03:17,Plant B,Night,Maintenance Lead,"C-2 lead this week, C-1 lag."
+2026-08-20 03:19,Plant A,Night,Maintenance Lead,Sanitation complete 08:27. Pre-weigh recovering.
+2026-08-20 14:00,Plant A,Day,Day Refrigeration Tech,Engine room still hot even though it cooled off outside.
+2026-08-20 17:36,Plant B,Day,Shift Supervisor,Spirals started 08:45. Pulled down OK.
+2026-08-20 17:44,Plant C,Day,Day Refrigeration Tech,Blast freezer loaded 08:34.
+2026-08-20 18:27,Plant A,Day,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-05).
+2026-08-21 02:44,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-08-21 02:53,Plant A,Night,Maintenance Lead,"Checked condenser fans, all running."
+2026-08-21 05:54,Plant A,Night,Maintenance Lead,"Checked condenser fans, all running."
+2026-08-21 14:28,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-08-21 17:50,Plant A,Day,Day Refrigeration Tech,"Truck at D4 early, held at yard until appointment."
+2026-08-21 18:10,Plant B,Day,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-08-21 21:10,Plant C,Night,Shift Supervisor,Bulk coolers steady.
+2026-08-22 02:56,Plant A,Night,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-08-22 03:00,Plant B,Night,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-08-22 09:25,Plant B,Day,Shift Supervisor,"C-2 lead this week, C-1 lag."
+2026-08-22 09:53,Plant B,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-08-22 14:42,Plant C,Day,Shift Supervisor,Blast freezer loaded 07:24.
+2026-08-22 15:18,Plant B,Day,Day Refrigeration Tech,Added 3 gal oil to C-1. Level was low in sight glass.
+2026-08-22 18:01,Plant C,Day,Maintenance Lead,"Dock busy, doors cycling."
+2026-08-22 21:10,Plant A,Night,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-01).
+2026-08-22 21:14,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-08-23 02:46,Plant C,Night,Maintenance Lead,Nothing to report.
+2026-08-23 14:20,Plant C,Day,Shift Supervisor,Sanitation done 06:32.
+2026-08-23 17:48,Plant A,Day,Night Operator,Engine room checks OK. Oil levels good on all machines.
+2026-08-23 21:19,Plant B,Night,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-08-24 02:34,Plant A,Night,Night Operator,Defrost cycles normal on QFMs.
+2026-08-24 02:59,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-08-24 03:30,Plant B,Night,Maintenance Lead,Cook rooms warm with kettles running.
+2026-08-24 05:38,Plant B,Night,Shift Supervisor,Rounds complete. All rooms in range.
+2026-08-24 09:34,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-02).
+2026-08-24 09:42,Plant C,Day,Day Refrigeration Tech,Sanitation done 07:18.
+2026-08-24 17:34,Plant C,Day,Shift Supervisor,Blast freezer loaded 07:36.
+2026-08-24 17:54,Plant B,Day,Shift Supervisor,Spirals started 06:46. Pulled down OK.
+2026-08-25 02:55,Plant A,Night,Shift Supervisor,Rounds complete. All rooms in range.
+2026-08-25 03:01,Plant B,Night,Maintenance Lead,Engine room checks OK.
+2026-08-25 14:08,Plant A,Day,Night Operator,"Truck at D2 early, held at yard until appointment."
+2026-08-25 14:31,Plant B,Day,Maintenance Lead,Cook rooms warm with kettles running.
+2026-08-25 14:39,Plant C,Day,Maintenance Lead,Blast freezer loaded 07:48.
+2026-08-25 21:27,Plant C,Night,Shift Supervisor,Sanitation done 04:05.
+2026-08-25 21:28,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-08-25 21:58,Plant C,Night,Shift Supervisor,Blast freezer loaded 05:55.
+2026-08-26 06:26,Plant C,Night,Shift Supervisor,Sanitation done 08:52.
+2026-08-26 09:42,Plant C,Day,Shift Supervisor,"Dock busy, doors cycling."
+2026-08-26 09:55,Plant A,Day,Shift Supervisor,Defrost cycles normal on QFMs.
+2026-08-26 17:44,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-08-26 17:56,Plant A,Day,Maintenance Lead,Sanitation complete 08:32. Pre-weigh recovering.
+2026-08-27 03:14,Plant C,Night,Maintenance Lead,Rounds complete.
+2026-08-27 03:21,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-08-27 03:28,Plant B,Night,Shift Supervisor,Engine room checks OK.
+2026-08-27 09:25,Plant C,Day,Day Refrigeration Tech,Sanitation done 05:07.
+2026-08-27 21:47,Plant A,Night,Night Operator,"Truck at D5 early, held at yard until appointment."
+2026-08-28 02:45,Plant C,Night,Shift Supervisor,Sanitation done 08:25.
+2026-08-28 03:20,Plant A,Night,Shift Supervisor,Sanitation complete 06:03. Pre-weigh recovering.
+2026-08-28 06:10,Plant B,Night,Night Operator,Weekly standby exercise on C-4 complete.
+2026-08-28 21:43,Plant C,Night,Maintenance Lead,Rounds complete.
+2026-08-28 21:52,Plant B,Night,Night Operator,Cook rooms warm with kettles running.
+2026-08-29 02:34,Plant B,Night,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-08-29 02:50,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 07:14.
+2026-08-29 06:13,Plant C,Night,Night Operator,Rounds complete.
+2026-08-29 08:12,Plant B,Day,Day Refrigeration Tech,Added 3 gal oil to C-1. Level was low in sight glass.
+2026-08-29 14:09,Plant A,Day,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-05).
+2026-08-29 14:47,Plant B,Day,Maintenance Lead,Rounds complete. All rooms in range.
+2026-08-29 17:32,Plant B,Day,Maintenance Lead,Drained oil pots on C-3.
+2026-08-29 17:42,Plant A,Day,Night Operator,Nothing to report.
+2026-08-29 18:15,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-08-30 02:36,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-08-30 02:39,Plant C,Night,Day Refrigeration Tech,Ice builder cycling normal.
+2026-08-30 06:07,Plant C,Night,Shift Supervisor,Sanitation done 05:33.
+2026-08-30 06:15,Plant B,Night,Day Refrigeration Tech,"C-1 lead this week, C-2 lag."
+2026-08-30 06:25,Plant A,Night,Night Operator,Defrost cycles normal on QFMs.
+2026-08-30 17:50,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-08-30 18:30,Plant A,Day,Shift Supervisor,"Checked condenser fans, all running."
+2026-08-31 03:10,Plant A,Night,Shift Supervisor,Pumped down V4 at 07:12. Normal.
+2026-08-31 09:15,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-02).
+2026-08-31 09:25,Plant C,Day,Day Refrigeration Tech,Ice builder cycling normal.
+2026-08-31 16:00,Plant B,Day,Maintenance Lead,Vendor tech updated controller firmware. Rebooted OK.
+2026-08-31 17:56,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-08-31 21:42,Plant B,Night,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-01 03:24,Plant C,Night,Shift Supervisor,Bulk coolers steady.
+2026-09-01 05:48,Plant A,Night,Shift Supervisor,"Truck at D5 early, held at yard until appointment."
+2026-09-01 06:05,Plant B,Night,Night Operator,Drained oil pots on C-3.
+2026-09-01 06:30,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 04:31.
+2026-09-01 21:25,Plant A,Night,Day Refrigeration Tech,"Truck at D1 early, held at yard until appointment."
+2026-09-02 05:45,Plant A,Night,Night Operator,"Truck at D4 early, held at yard until appointment."
+2026-09-02 08:06,Plant C,Day,Day Refrigeration Tech,Freezer door gasket torn bottom corner. Door not sealing well.
+2026-09-02 09:06,Plant B,Day,Day Refrigeration Tech,Detector calibration is due - gas kit is expired.
+2026-09-02 09:10,Plant C,Day,Day Refrigeration Tech,Bulk coolers steady.
+2026-09-02 17:34,Plant A,Day,Shift Supervisor,Engine room checks OK. Oil levels good on all machines.
+2026-09-02 17:59,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-09-02 21:36,Plant B,Night,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-09-03 02:12,Plant A,Night,Night Operator,Faint ammonia smell near the UC-13/14 evaporator. Handheld showed 0 ppm. Detector not in alarm.
+2026-09-03 02:55,Plant A,Night,Day Refrigeration Tech,Ammonia detector bump test passed (GD-A-03).
+2026-09-03 03:01,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-09-03 14:01,Plant C,Day,Night Operator,Sanitation done 06:13.
+2026-09-03 14:22,Plant A,Day,Night Operator,Rounds complete. All rooms in range.
+2026-09-03 14:45,Plant B,Day,Night Operator,Nothing to report.
+2026-09-04 02:56,Plant C,Night,Shift Supervisor,Sanitation done 07:41.
+2026-09-04 06:17,Plant C,Night,Maintenance Lead,Sanitation done 05:50.
+2026-09-04 13:28,Plant B,Day,Day Refrigeration Tech,Added 3 gal oil to C-1. Level was low in sight glass.
+2026-09-04 17:56,Plant B,Day,Shift Supervisor,Nothing to report.
+2026-09-04 18:01,Plant A,Day,Shift Supervisor,Rounds complete. All rooms in range.
+2026-09-04 18:10,Plant B,Day,Day Refrigeration Tech,"C-2 lead this week, C-1 lag."
+2026-09-04 21:45,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-09-05 06:08,Plant B,Night,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-09-05 14:28,Plant C,Day,Day Refrigeration Tech,Rounds complete.
+2026-09-05 17:31,Plant A,Day,Night Operator,Ammonia detector bump test passed (GD-A-04).
+2026-09-05 18:05,Plant A,Day,Night Operator,Defrost cycles normal on QFMs.
+2026-09-06 05:30,Plant B,Night,Day Refrigeration Tech,Weekly standby exercise on C-4 complete.
+2026-09-06 05:36,Plant C,Night,Day Refrigeration Tech,Nothing to report.
+2026-09-06 06:00,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-09-06 17:32,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-09-06 21:38,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 06:45. Normal.
+2026-09-07 09:03,Plant A,Day,Maintenance Lead,RTE rooms warm during washdown as usual.
+2026-09-07 09:35,Plant B,Day,Day Refrigeration Tech,Spirals started 08:54. Pulled down OK.
+2026-09-07 14:21,Plant B,Day,Day Refrigeration Tech,Weekly standby exercise on C-4 complete.
+2026-09-07 14:55,Plant C,Day,Night Operator,Blast freezer loaded 04:12.
+2026-09-07 21:32,Plant B,Night,Shift Supervisor,Spirals started 07:23. Pulled down OK.
+2026-09-08 03:19,Plant A,Night,Night Operator,Nothing to report.
+2026-09-08 09:49,Plant A,Day,Maintenance Lead,Sanitation complete 04:27. Pre-weigh recovering.
+2026-09-08 14:21,Plant B,Day,Night Operator,Nothing to report.
+2026-09-08 14:37,Plant B,Day,Night Operator,"C-1 lead this week, C-2 lag."
+2026-09-08 18:27,Plant B,Day,Day Refrigeration Tech,"Checked V-2 and V-4 levels, normal."
+2026-09-08 21:38,Plant A,Night,Shift Supervisor,RTE rooms warm during washdown as usual.
+2026-09-08 21:44,Plant C,Night,Day Refrigeration Tech,Protein room front warm again midday.
+2026-09-09 02:52,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-09-09 06:16,Plant A,Night,Night Operator,RTE rooms warm during washdown as usual.
+2026-09-09 09:11,Plant C,Day,Night Operator,Rounds complete.
+2026-09-09 09:16,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-09 11:00,Plant B,Day,Day Refrigeration Tech,Added 4 gal oil to C-1. Level was low in sight glass.
+2026-09-09 18:05,Plant B,Day,Shift Supervisor,"C-1 lead this week, C-2 lag."
+2026-09-09 21:29,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-09-10 05:51,Plant B,Night,Shift Supervisor,"Checked V-2 and V-4 levels, normal."
+2026-09-10 08:18,Plant A,Day,Day Refrigeration Tech,HPR sight glass looks a little low. Will keep an eye on it.
+2026-09-10 09:05,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-09-10 14:10,Plant A,Day,Day Refrigeration Tech,RTE rooms warm during washdown as usual.
+2026-09-10 17:40,Plant C,Day,Maintenance Lead,Blast freezer loaded 08:36.
+2026-09-10 21:05,Plant B,Night,Day Refrigeration Tech,"C-1 lead this week, C-2 lag."
+2026-09-10 21:23,Plant C,Night,Shift Supervisor,Protein room front warm again midday.
+2026-09-10 21:36,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 05:30.
+2026-09-11 03:21,Plant C,Night,Night Operator,Protein room front warm again midday.
+2026-09-11 06:02,Plant C,Night,Maintenance Lead,Protein room front warm again midday.
+2026-09-11 09:24,Plant B,Day,Night Operator,Cook rooms warm with kettles running.
+2026-09-11 17:34,Plant A,Day,Shift Supervisor,Ammonia detector bump test passed (GD-A-03).
+2026-09-11 17:37,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-01).
+2026-09-11 18:24,Plant C,Day,Day Refrigeration Tech,Rounds complete.
+2026-09-12 02:56,Plant B,Night,Shift Supervisor,Engine room checks OK.
+2026-09-12 02:56,Plant C,Night,Maintenance Lead,Bulk coolers steady.
+2026-09-12 09:05,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-12 09:43,Plant A,Day,Shift Supervisor,Sanitation complete 05:56. Pre-weigh recovering.
+2026-09-12 21:07,Plant A,Night,Maintenance Lead,Rounds complete. All rooms in range.
+2026-09-13 02:53,Plant B,Night,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-09-13 09:57,Plant B,Day,Maintenance Lead,Drained oil pots on C-3.
+2026-09-13 14:23,Plant B,Day,Day Refrigeration Tech,Added 4 gal oil to C-1. Level was low in sight glass.
+2026-09-13 14:51,Plant C,Day,Maintenance Lead,Nothing to report.
+2026-09-13 21:12,Plant A,Night,Maintenance Lead,Pumped down V4 at 04:34. Normal.
+2026-09-13 21:57,Plant B,Night,Shift Supervisor,Cook rooms warm with kettles running.
+2026-09-14 06:00,Plant A,Night,Maintenance Lead,"Checked condenser fans, all running."
+2026-09-14 09:04,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-14 09:06,Plant B,Day,Day Refrigeration Tech,Spirals started 07:44. Pulled down OK.
+2026-09-14 09:56,Plant B,Day,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-14 11:00,Plant B,Day,Day Refrigeration Tech,SF-1 took a long time to pull down this morning.
+2026-09-15 09:17,Plant B,Day,Day Refrigeration Tech,Weekly standby exercise on C-4 complete.
+2026-09-15 09:18,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-15 09:47,Plant A,Day,Maintenance Lead,Ammonia detector bump test passed (GD-A-02).
+2026-09-15 15:06,Plant A,Day,Shift Supervisor,HMI showing zeros for everything since about 2pm. Rooms feel fine. IT called.
+2026-09-15 18:17,Plant C,Day,Maintenance Lead,Ice builder cycling normal.
+2026-09-16 05:44,Plant B,Night,Shift Supervisor,Cook rooms warm with kettles running.
+2026-09-16 09:18,Plant C,Day,Day Refrigeration Tech,Protein room front warm again midday.
+2026-09-16 17:45,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-16 21:21,Plant A,Night,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-09-16 21:36,Plant C,Night,Maintenance Lead,Blast freezer loaded 04:53.
+2026-09-17 02:48,Plant A,Night,Night Operator,Noticed a small spike on the QFMs around 2:45 again.
+2026-09-17 02:56,Plant B,Night,Night Operator,Rounds complete. All rooms in range.
+2026-09-17 08:04,Plant B,Day,Day Refrigeration Tech,Added 4 gal oil to C-1. Level was low in sight glass.
+2026-09-17 17:34,Plant C,Day,Maintenance Lead,Ice builder cycling normal.
+2026-09-17 18:19,Plant C,Day,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-09-17 21:56,Plant A,Night,Maintenance Lead,Ammonia detector bump test passed (GD-A-04).
+2026-09-18 05:33,Plant C,Night,Maintenance Lead,Bulk coolers steady.
+2026-09-18 05:48,Plant B,Night,Night Operator,Spirals started 04:25. Pulled down OK.
+2026-09-18 05:54,Plant C,Night,Day Refrigeration Tech,Rounds complete.
+2026-09-18 05:57,Plant B,Night,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-18 09:50,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-09-18 13:24,Plant B,Day,Day Refrigeration Tech,C-3 sounds rougher than usual. Bearing?
+2026-09-18 14:21,Plant C,Day,Maintenance Lead,"Dock busy, doors cycling."
+2026-09-18 21:04,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-09-19 02:52,Plant B,Night,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-09-19 06:04,Plant A,Night,Maintenance Lead,Defrost cycles normal on QFMs.
+2026-09-19 06:19,Plant C,Night,Day Refrigeration Tech,Blast freezer loaded 04:14.
+2026-09-19 09:32,Plant B,Day,Shift Supervisor,Drained oil pots on C-3.
+2026-09-19 09:37,Plant A,Day,Day Refrigeration Tech,Sanitation complete 05:41. Pre-weigh recovering.
+2026-09-19 14:00,Plant A,Day,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-09-19 14:51,Plant B,Day,Night Operator,Cook rooms warm with kettles running.
+2026-09-20 03:04,Plant B,Night,Maintenance Lead,Weekly standby exercise on C-4 complete.
+2026-09-20 09:17,Plant B,Day,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-20 09:42,Plant A,Day,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.
+2026-09-20 11:34,Plant B,Day,Day Refrigeration Tech,Added 4 gal oil to C-1. Level was low in sight glass.
+2026-09-20 17:43,Plant A,Day,Day Refrigeration Tech,Sanitation complete 06:23. Pre-weigh recovering.
+2026-09-20 18:00,Plant C,Day,Shift Supervisor,Nothing to report.
+2026-09-20 18:02,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-09-20 21:04,Plant B,Night,Shift Supervisor,Spirals started 07:08. Pulled down OK.
+2026-09-21 02:38,Plant C,Night,Night Operator,Rounds complete.
+2026-09-21 03:07,Plant A,Night,Shift Supervisor,Ammonia detector bump test passed (GD-A-01).
+2026-09-21 05:42,Plant B,Night,Night Operator,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-21 09:32,Plant C,Day,Shift Supervisor,Sanitation done 04:20.
+2026-09-21 11:36,Plant B,Day,Shift Supervisor,SF-1 slow again Monday startup. Product held 2 hours.
+2026-09-21 21:31,Plant C,Night,Maintenance Lead,Blast freezer loaded 08:52.
+2026-09-21 21:41,Plant B,Night,Shift Supervisor,Rounds complete. All rooms in range.
+2026-09-22 09:00,Plant B,Day,Maintenance Lead,Heavy frost on SF-1 coil. WO opened.
+2026-09-22 09:50,Plant B,Day,Maintenance Lead,Nothing to report.
+2026-09-22 17:51,Plant A,Day,Maintenance Lead,"Truck at D5 early, held at yard until appointment."
+2026-09-22 18:23,Plant C,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-22 21:48,Plant B,Night,Shift Supervisor,Engine room checks OK.
+2026-09-23 02:57,Plant C,Night,Day Refrigeration Tech,"Dock busy, doors cycling."
+2026-09-23 05:37,Plant B,Night,Maintenance Lead,"C-1 lead this week, C-2 lag."
+2026-09-23 06:27,Plant A,Night,Night Operator,RTE rooms warm during washdown as usual.
+2026-09-23 11:22,Plant B,Day,Day Refrigeration Tech,Added 5 gal oil to C-1. Level was low in sight glass.
+2026-09-23 14:50,Plant B,Day,Night Operator,Rounds complete. All rooms in range.
+2026-09-23 17:46,Plant B,Day,Maintenance Lead,Drained oil pots on C-3.
+2026-09-23 18:12,Plant A,Day,Day Refrigeration Tech,Nothing to report.
+2026-09-23 21:38,Plant A,Night,Maintenance Lead,Engine room checks OK. Oil levels good on all machines.
+2026-09-23 21:48,Plant C,Night,Maintenance Lead,Ice builder cycling normal.
+2026-09-24 03:16,Plant A,Night,Maintenance Lead,Sanitation complete 08:09. Pre-weigh recovering.
+2026-09-24 03:24,Plant A,Night,Night Operator,Ammonia smell near UC-13/14 again. Asked days to check it.
+2026-09-24 05:51,Plant B,Night,Maintenance Lead,Nothing to report.
+2026-09-24 09:31,Plant A,Day,Day Refrigeration Tech,Defrost cycles normal on QFMs.
+2026-09-24 14:08,Plant B,Day,Shift Supervisor,Drained oil pots on C-3.
+2026-09-24 14:33,Plant C,Day,Shift Supervisor,Ice builder cycling normal.
+2026-09-24 21:17,Plant A,Night,Shift Supervisor,"Checked condenser fans, all running."
+2026-09-25 03:17,Plant A,Night,Night Operator,Rounds complete. All rooms in range.
+2026-09-25 06:18,Plant B,Night,Day Refrigeration Tech,Nothing to report.
+2026-09-25 09:55,Plant C,Day,Maintenance Lead,Protein room front warm again midday.
+2026-09-25 20:30,Plant C,Night,Night Operator,Frost building on freezer floor by the door.
+2026-09-26 03:07,Plant B,Night,Maintenance Lead,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-26 03:17,Plant B,Night,Day Refrigeration Tech,Cook rooms warm with kettles running.
+2026-09-26 03:18,Plant A,Night,Night Operator,Defrost cycles normal on QFMs.
+2026-09-26 05:45,Plant A,Night,Day Refrigeration Tech,Pumped down V4 at 07:24. Normal.
+2026-09-26 05:54,Plant C,Night,Maintenance Lead,Sanitation done 06:18.
+2026-09-26 06:01,Plant A,Night,Night Operator,"Truck at D1 early, held at yard until appointment."
+2026-09-26 06:04,Plant C,Night,Shift Supervisor,Protein room front warm again midday.
+2026-09-26 11:40,Plant B,Day,Day Refrigeration Tech,Added 5 gal oil to C-1. Level was low in sight glass.
+2026-09-26 14:29,Plant C,Day,Shift Supervisor,Nothing to report.
+2026-09-26 18:05,Plant B,Day,Day Refrigeration Tech,Rounds complete. All rooms in range.
+2026-09-27 06:10,Plant C,Night,Shift Supervisor,Ice builder cycling normal.
+2026-09-27 06:17,Plant A,Night,Shift Supervisor,Nothing to report.
+2026-09-27 09:03,Plant A,Day,Maintenance Lead,Sanitation complete 07:52. Pre-weigh recovering.
+2026-09-27 21:15,Plant B,Night,Night Operator,Engine room checks OK.
+2026-09-27 21:56,Plant B,Night,Night Operator,Rounds complete. All rooms in range.
+2026-09-28 06:00,Plant B,Night,Day Refrigeration Tech,"Heavy frozen receiving today, UF-1 warm in afternoon as expected."
+2026-09-28 09:07,Plant B,Day,Day Refrigeration Tech,Added 5 gal oil to C-1. Level was low in sight glass.
+2026-09-28 14:58,Plant A,Day,Shift Supervisor,Defrost cycles normal on QFMs.
+2026-09-28 17:44,Plant C,Day,Night Operator,Blast freezer loaded 04:14.
+2026-09-28 17:48,Plant A,Day,Day Refrigeration Tech,"Truck at D5 early, held at yard until appointment."
+2026-09-29 02:40,Plant B,Night,Maintenance Lead,"Checked V-2 and V-4 levels, normal."
+2026-09-29 06:15,Plant C,Night,Shift Supervisor,"Dock busy, doors cycling."
+2026-09-29 14:11,Plant C,Day,Maintenance Lead,Rounds complete.
+2026-09-29 14:25,Plant A,Day,Night Operator,Nothing to report.
+2026-09-29 18:16,Plant C,Day,Maintenance Lead,Blast freezer loaded 06:28.
+2026-09-30 02:33,Plant B,Night,Day Refrigeration Tech,Drained oil pots on C-3.
+2026-09-30 02:49,Plant C,Night,Night Operator,Blast freezer loaded 06:08.
+2026-09-30 05:46,Plant C,Night,Day Refrigeration Tech,Bulk coolers steady.
+2026-09-30 06:23,Plant B,Night,Shift Supervisor,Drained oil pots on C-3.
+2026-09-30 18:22,Plant C,Day,Shift Supervisor,Bulk coolers steady.
+2026-09-30 21:14,Plant A,Night,Day Refrigeration Tech,"Checked condenser fans, all running."
+2026-09-30 21:53,Plant A,Night,Day Refrigeration Tech,Engine room checks OK. Oil levels good on all machines.

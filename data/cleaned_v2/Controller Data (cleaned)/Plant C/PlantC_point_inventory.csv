@@ -1,0 +1,21 @@
+plant,point_id,point,point_label,report,unit,is_setpoint,measures_point,first_date,last_date,n_days,n_hours,n_flagged,clean_median,clean_p05,clean_p95,pct_flagged
+Plant C,3_lane_chiller,3 Lane Chiller,3 Lane Chiller,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,42.2,38.4,50.8,0.0
+Plant C,ambient_air,Ambient Air,Ambient Air,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,74.0,57.2,96.0,0.0
+Plant C,back_dock_temp,Back Dock Temp,Back Dock Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,372,48.2,46.3,61.9,10.13
+Plant C,blast_freezer_temp,Blast Freezer Temp,Blast Freezer Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,-6.8,-10.1,32.74,0.0
+Plant C,boxing_area_temp,Boxing Area Temp,Boxing Area Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,50.8,49.1,52.7,0.0
+Plant C,bulk_cooler_1,Bulk Cooler 1,Bulk Cooler 1,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,37.6,35.1,40.1,0.0
+Plant C,bulk_cooler_2,Bulk Cooler 2,Bulk Cooler 2,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,37.5,35.0,40.0,0.0
+Plant C,chicken_salad_area,Chicken Salad Area,Chicken Salad Area,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,47.5,45.6,49.6,0.0
+Plant C,cold_pack_area_temp,Cold Pack Area Temp,Cold Pack Area Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,47.1,45.8,48.4,0.0
+Plant C,freezer,Freezer,Freezer,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,-3.7,-7.1,1.8,0.0
+Plant C,front_left_cooler,Front Left Cooler,Front Left Cooler,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,34.6,33.1,36.1,0.0
+Plant C,front_middle_cooler,Front Middle Cooler,Front Middle Cooler,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,36.3,34.1,39.2,0.0
+Plant C,hallway_temp,Hallway Temp,Hallway Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,47.2,45.5,49.3,0.0
+Plant C,ice_builder,Ice Builder,Ice Builder,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,42.5,40.4,46.4,0.0
+Plant C,preweigh_room_temp,Preweigh Room Temp,Preweigh Room Temp,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,53.7,52.6,60.8,0.0
+Plant C,protein_room_back,Protein Room Back,Protein Room Back,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,51.6,49.5,54.1,0.0
+Plant C,protein_room_front,Protein Room Front,Protein Room Front,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,50.5,45.3,65.14,0.0
+Plant C,queso_area_temp_1,Queso Area Temp 1,Queso Area Temp 1,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,50.3,48.9,51.7,0.0
+Plant C,queso_cup_chiller,Queso Cup Chiller,Queso Cup Chiller,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,37.0,36.1,47.4,0.0
+Plant C,vacuum_packaging_area,Vacuum Packaging Area,Vacuum Packaging Area,Temperature Report,degF,False,,2026-04-01,2026-09-30,153,3672,0,48.7,47.3,52.8,0.0

@@ -1,0 +1,51 @@
+plant,point_id,point,point_label,report,unit,is_setpoint,measures_point,first_date,last_date,n_days,n_hours,n_flagged,clean_median,clean_p05,clean_p95,pct_flagged
+Plant A,ambient_temperature,Ambient Temperature,Ambient Temperature,System Monitor Points,degF,False,,2026-04-01,2026-09-30,159,3816,10,74.2,58.6,89.8,0.26
+Plant A,discharge_pressure,Discharge Pressure,Discharge Pressure,System Monitor Points,psig,False,,2026-04-01,2026-09-30,159,3816,10,150.6,135.1,163.8,0.26
+Plant A,hpr_v1_level,HPR V1 Level,HPR V1 Level,System Monitor Points,pct_level,False,,2026-04-01,2026-09-30,159,3816,10,27.6,20.02,31.38,0.26
+Plant A,hvac_1,HVAC-1,HVAC-1,System Monitor Points,degF,False,,2026-04-01,2026-09-30,159,3816,10,71.9,69.8,74.3,0.26
+Plant A,spt_uc_11_12_cooler,SPT UC-11/12 Cooler,SPT UC-11/12 Cooler,Valve Group Report w/Setpoints,degF,True,UC-11/12 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_13_14_cooler,SPT UC-13/14 Cooler,SPT UC-13/14 Cooler,Valve Group Report w/Setpoints,degF,True,UC-13/14 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_15_16_cooler,SPT UC-15/16 Cooler,SPT UC-15/16 Cooler,Valve Group Report w/Setpoints,degF,True,UC-15/16 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_17_18_cooler,SPT UC-17/18 Cooler,SPT UC-17/18 Cooler,Valve Group Report w/Setpoints,degF,True,UC-17/18 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_19_20_cooler,SPT UC-19/20 Cooler,SPT UC-19/20 Cooler,Valve Group Report w/Setpoints,degF,True,UC-19/20 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_1_engine_room,SPT UC-1 Engine Room,SPT UC-1 Engine Room,Valve Group Report w/Setpoints,degF,True,UC-1 Engine Room,2026-04-01,2026-09-30,157,3768,10,75.0,75.0,75.0,0.27
+Plant A,spt_uc_21_22_cooler,SPT UC-21/22 Cooler,SPT UC-21/22 Cooler,Valve Group Report w/Setpoints,degF,True,UC-21/22 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_23_24_cooler,SPT UC-23/24 Cooler,SPT UC-23/24 Cooler,Valve Group Report w/Setpoints,degF,True,UC-23/24 Cooler,2026-04-01,2026-09-30,157,3768,10,38.0,38.0,38.0,0.27
+Plant A,spt_uc_25,SPT UC-25,SPT UC-25,Valve Group Report w/Setpoints,degF,True,UC-25,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_26_c_temp_rm,SPT UC-26 C. Temp. Rm,SPT UC-26 C. Temp. Rm,Valve Group Report w/Setpoints,degF,True,UC-26 C. Temp. Rm,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uc_28_ret_packout,SPT UC-28 RET Packout,SPT UC-28 RET Packout,Valve Group Report w/Setpoints,degF,True,UC-28 RET Packout,2026-04-01,2026-09-30,157,3768,10,45.0,45.0,45.0,0.27
+Plant A,spt_uc_3_4_pre_weigh,SPT UC-3/4 Pre-Weigh,SPT UC-3/4 Pre-Weigh,Valve Group Report w/Setpoints,degF,True,UC-3/4 Pre-Weigh,2026-04-01,2026-09-30,157,3768,10,35.0,35.0,35.0,0.27
+Plant A,spt_uc_5_ready_to_eat,SPT UC-5 Ready To Eat,SPT UC-5 Ready To Eat,Valve Group Report w/Setpoints,degF,True,UC-5 Ready To Eat,2026-04-01,2026-09-30,157,3768,10,35.0,35.0,35.0,0.27
+Plant A,spt_uc_6_ready_to_eat,SPT UC-6 Ready To Eat,SPT UC-6 Ready To Eat,Valve Group Report w/Setpoints,degF,True,UC-6 Ready To Eat,2026-04-01,2026-09-30,157,3768,10,35.0,35.0,35.0,0.27
+Plant A,spt_uc_7_ready_to_eat,SPT UC-7 Ready To Eat,SPT UC-7 Ready To Eat,Valve Group Report w/Setpoints,degF,True,UC-7 Ready To Eat,2026-04-01,2026-09-30,157,3768,10,35.0,35.0,35.0,0.27
+Plant A,spt_uc_8_ready_to_eat,SPT UC-8 Ready To Eat,SPT UC-8 Ready To Eat,Valve Group Report w/Setpoints,degF,True,UC-8 Ready To Eat,2026-04-01,2026-09-30,157,3768,10,35.0,35.0,35.0,0.27
+Plant A,spt_uc_9_10_cooler,SPT UC-9/10 Cooler,SPT UC-9/10 Cooler,Valve Group Report w/Setpoints,degF,True,UC-9/10 Cooler,2026-04-01,2026-09-30,157,3768,10,36.0,36.0,36.0,0.27
+Plant A,spt_uf_3_qfm,SPT UF-3 QFM,SPT UF-3 QFM,Valve Group Report w/Setpoints,degF,True,UF-3 QFM,2026-04-01,2026-09-30,157,3768,10,18.0,18.0,18.0,0.27
+Plant A,spt_uf_4_qfm,SPT UF-4 QFM,SPT UF-4 QFM,Valve Group Report w/Setpoints,degF,True,UF-4 QFM,2026-04-01,2026-09-30,157,3768,10,18.0,18.0,18.0,0.27
+Plant A,uc_11_12_cooler,UC-11/12 Cooler,UC-11/12 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,37.1,36.0,38.4,0.26
+Plant A,uc_13_14_cooler,UC-13/14 Cooler,UC-13/14 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,36.7,35.7,37.9,0.26
+Plant A,uc_15_16_cooler,UC-15/16 Cooler,UC-15/16 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,36.6,35.5,37.7,0.26
+Plant A,uc_17_18_cooler,UC-17/18 Cooler,UC-17/18 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,36.2,35.2,37.3,0.26
+Plant A,uc_19_20_cooler,UC-19/20 Cooler,UC-19/20 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,35.4,33.4,36.7,0.26
+Plant A,uc_1_engine_room,UC-1 Engine Room,UC-1 Engine Room,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,75.6,65.1,87.7,0.26
+Plant A,uc_21_22_cooler,UC-21/22 Cooler,UC-21/22 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,37.3,36.1,39.0,0.26
+Plant A,uc_23_24_cooler,UC-23/24 Cooler,UC-23/24 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,35.5,34.3,37.1,0.26
+Plant A,uc_25,UC-25,UC-25,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,332,34.8,32.9,36.7,4.38
+Plant A,uc_26_c_temp_rm,UC-26 C. Temp. Rm,UC-26 C. Temp. Rm,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,38.1,37.0,39.4,0.26
+Plant A,uc_27_ret_packout,UC-27 RET Packout,UC-27 RET Packout,System Monitor Points,degF,False,,2026-04-01,2026-09-30,159,3816,10,68.9,67.5,70.3,0.26
+Plant A,uc_28_ret_packout,UC-28 RET Packout,UC-28 RET Packout,Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,157,3768,10,70.9,69.5,72.3,0.27
+Plant A,uc_3_4_pre_weigh,UC-3/4 Pre-Weigh,UC-3/4 Pre-Weigh,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,40.3,38.1,53.8,0.26
+Plant A,uc_5_ready_to_eat,UC-5 Ready To Eat,UC-5 Ready To Eat,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,35.8,34.1,38.8,0.26
+Plant A,uc_6_ready_to_eat,UC-6 Ready To Eat,UC-6 Ready To Eat,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,40.3,38.8,43.9,0.26
+Plant A,uc_7_ready_to_eat,UC-7 Ready To Eat,UC-7 Ready To Eat,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,37.9,36.3,41.1,0.26
+Plant A,uc_8_ready_to_eat,UC-8 Ready To Eat,UC-8 Ready To Eat,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,35.3,33.7,38.0,0.26
+Plant A,uc_9_10_cooler,UC-9/10 Cooler,UC-9/10 Cooler,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,37.8,36.7,39.5,0.26
+Plant A,uf_3_qfm,UF-3 QFM,UF-3 QFM,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,17.5,15.8,19.6,0.26
+Plant A,uf_4_qfm,UF-4 QFM,UF-4 QFM,System Monitor Points; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,159,7584,20,16.6,14.8,18.7,0.26
+Plant A,v2_liqui,V2 Liqui,V2 Liquid Level,System Monitor Points,pct_level,False,,2026-04-01,2026-09-30,159,3816,11,25.0,24.3,25.8,0.29
+Plant A,v2_pressure,V2 Pressure,V2 Pressure,System Monitor Points,psig,False,,2026-04-01,2026-09-30,159,3816,10,26.4,25.8,27.0,0.26
+Plant A,v2_transfer_count,V2 Transfer Count,V2 Transfer Count,System Monitor Points,cycles,False,,2026-04-01,2026-09-30,159,3816,10,0.0,0.0,1.0,0.26
+Plant A,v4_liquid_level,V4 Liquid Level,V4 Liquid Level,System Monitor Points,pct_level,False,,2026-04-01,2026-09-30,159,3816,10,25.0,24.5,27.6,0.26
+Plant A,v4_pressure,V4 Pressure,V4 Pressure,System Monitor Points,psig,False,,2026-04-01,2026-09-30,159,3816,10,7.6,5.9,9.3,0.26
+Plant A,v4_pump_op_pressure,V4 Pump Op Pressure,V4 Pump Op Pressure,System Monitor Points,psig,False,,2026-04-01,2026-09-30,159,3816,10,50.6,50.3,51.0,0.26
+Plant A,v4_transfer_count,V4 Transfer Count,V4 Transfer Count,System Monitor Points,cycles,False,,2026-04-01,2026-09-30,159,3816,10,0.0,0.0,2.0,0.26

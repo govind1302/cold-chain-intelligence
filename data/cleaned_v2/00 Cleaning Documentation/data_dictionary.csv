@@ -1,0 +1,25 @@
+file,column,meaning
+*_hourly_long.csv,plant,Plant A / Plant B / Plant C
+*_hourly_long.csv,timestamp,"Local plant time, YYYY-MM-DD HH:00 (hour = the controller's hour column 00-23)"
+*_hourly_long.csv,date / hour,"Data date (from inside the report, not the file name) and hour 0-23"
+*_hourly_long.csv,report,Controller report group. The same physical point can appear in two reports (e.g. Plant A UC-1 Engine Room in System Monitor and Valve Group)
+*_hourly_long.csv,point_id,Lower-case snake_case key made from the point name; stable across all files
+*_hourly_long.csv,point,Original point name with whitespace normalized (truncations like 'V2 Liqui' kept)
+*_hourly_long.csv,point_label,Readable name (only differs from point for 'V2 Liqui')
+*_hourly_long.csv,is_setpoint,True for 'SPT ...' rows (controller setpoints)
+*_hourly_long.csv,measures_point,For setpoint rows: the measured point this setpoint belongs to
+*_hourly_long.csv,compressor,Plant B compressor reports only: C1..C4
+*_hourly_long.csv,unit,"degF, psig, psid, pct_level (vessel liquid), pct_FLA (motor load), pct_open (slide valve), cycles (transfer count)"
+*_hourly_long.csv,value_raw,Exactly as exported (including 459.6 and zero-fill)
+*_hourly_long.csv,value_clean,value_raw with confirmed-invalid readings blanked; use this for modeling
+*_hourly_long.csv,quality_flag,blank = ok; sensor_disconnected | export_truncated_zero_fill | implausible_value | stuck_value | setpoint_unavailable
+*_hourly_long.csv,date_corrected,True where the file name said one date but the data inside was for the day before (Plant B 06-04)
+*_hourly_long.csv,source_folder / source_file,Where the row came from in the original zip
+*_daily_summary.csv,high_raw/low_raw/avg_raw + high_time/low_time,"The controller's own daily summary line (computed from 15-minute samples, so it will not equal the hourly values)"
+*_daily_summary.csv,high_clean/low_clean/avg_clean,"Summary values blanked when the day's data was invalid (dead sensor, truncated export, implausible/stuck value, unavailable setpoint)"
+*_daily_summary.csv,"n_valid_hours, hourly_mean_clean, hourly_min_clean, hourly_max_clean",Recomputed from valid hourly values
+*_point_inventory.csv,*,"One row per point: units, date range, % of hours flagged, clean median / 5th / 95th percentile"
+*_coverage.csv,present / n_points / note,Every date x expected report group for 2026-04-01..09-30: whether it exists and why not (June is a sparse sample by design)
+known_events_from_ops_records.csv,*,"Ground-truth map of ~26 events built from work orders, shift log, detector events and the reviews, with what was verified in the controller data"
+review_claims_check.csv,*,"309 numbers quoted in the six reviews, each compared with the raw controller data"
+source_conflicts_and_review_errors.csv,*,"Places where reviews, ops records, README and controller data disagree"

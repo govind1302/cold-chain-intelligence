@@ -1,0 +1,71 @@
+start,end,rule,priority,points,detail,n_occurrences
+2026-04-01 01:00:00,2026-05-23 05:59:00,food_safety_over_41F,High,uc_6_ready_to_eat,"4 h above 41F, peak 43.9F",53
+2026-04-01 01:00:00,2026-05-08 06:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"5 h above 41F, peak 54.2F",49
+2026-04-07 02:00:00,2026-04-07 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 42.0F",1
+2026-04-14 02:00:00,2026-04-16 03:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.4F",3
+2026-04-21 03:00:00,2026-04-21 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.3F",1
+2026-04-30 02:00:00,2026-04-30 03:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.6F",1
+2026-05-05 02:00:00,2026-05-07 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.1F",2
+2026-05-11 18:00:00,2026-05-23 05:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"4 h above 41F, peak 41.7F",21
+2026-05-12 03:00:00,2026-05-12 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 42.9F",1
+2026-05-16 02:00:00,2026-05-16 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.7F",1
+2026-05-23 02:00:00,2026-05-23 03:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 42.1F",1
+2026-05-26 11:00:00,2026-06-04 05:59:00,food_safety_over_41F,High,uc_6_ready_to_eat,"3 h above 41F, peak 41.8F",11
+2026-05-27 01:00:00,2026-06-04 09:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"5 h above 41F, peak 56.3F",10
+2026-05-27 02:00:00,2026-06-02 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.6F",4
+2026-06-01 18:00:00,2026-06-02 03:59:00,many_points_deviate,High,"hpr_v1_level,uc_25,uc_26_c_temp_rm,uf_3_qfm,uf_4_qfm","5 points, 3 cold rooms >41F",1
+2026-06-02 15:00:00,2026-06-02 15:59:00,many_points_deviate,Medium,"hpr_v1_level,uc_23_24_cooler,uc_25","3 points, 0 cold rooms >41F",1
+2026-06-04 00:00:00,2026-06-09 00:00:00,drift_ewma,Low,hpr_v1_level,EWMA z 4.4,1
+2026-06-04 00:00:00,2026-07-18 00:00:00,drift_ewma,Low,uf_3_qfm,EWMA z 19.1,1
+2026-06-04 00:00:00,2026-07-18 00:00:00,drift_ewma,Low,uf_4_qfm,EWMA z 17.4,1
+2026-06-04 01:00:00,2026-06-04 01:59:00,many_points_deviate,High,"hpr_v1_level,uc_23_24_cooler,uc_26_c_temp_rm","3 points, 2 cold rooms >41F",1
+2026-06-04 20:00:00,2026-06-04 22:59:00,many_points_deviate,Medium,"hpr_v1_level,uc_25,uc_26_c_temp_rm","3 points, 0 cold rooms >41F",1
+2026-06-09 00:00:00,2026-06-10 05:59:00,food_safety_over_41F,High,uc_6_ready_to_eat,"6 h above 41F, peak 45.5F",3
+2026-06-09 01:00:00,2026-06-10 05:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"5 h above 41F, peak 54.4F",3
+2026-06-09 01:00:00,2026-06-09 01:59:00,many_points_deviate,High,"uc_23_24_cooler,uc_5_ready_to_eat,uf_3_qfm,uf_4_qfm","4 points, 2 cold rooms >41F",1
+2026-06-09 02:00:00,2026-06-10 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 43.3F",3
+2026-06-09 09:00:00,2026-06-09 11:59:00,food_safety_over_41F,High,uc_8_ready_to_eat,"3 h above 41F, peak 50.3F",1
+2026-06-09 09:00:00,2026-06-09 13:59:00,receiver_zero_in_production,Critical,hpr_v1_level,5 h at <=1%,1
+2026-06-09 09:00:00,2026-06-09 13:59:00,food_safety_over_41F,High,uc_5_ready_to_eat,"5 h above 41F, peak 52.2F",1
+2026-06-09 10:00:00,2026-06-09 13:59:00,many_points_deviate,High,"discharge_pressure,hpr_v1_level,uc_13_14_cooler,uc_15_16_cooler,uc_17_18_cooler,uc_19_20_cooler,uc_21_22_cooler,uc_23_24_cooler,uc_25,uc_26_c_temp_rm,uc_3_4_pre_weigh,uc_5_ready_to_eat,uc_6_ready_to_eat,uc_7_ready_to_eat,uc_8_ready_to_eat,uc_9_10_cooler,uf_3_qfm,uf_4_qfm","18 points, 5 cold rooms >41F",1
+2026-06-10 00:00:00,2026-06-10 00:00:00,drift_trend,Low,uf_4_qfm,Theil-Sen 28d change +6.5,1
+2026-06-10 00:00:00,2026-06-10 00:00:00,drift_trend,Low,uf_3_qfm,Theil-Sen 28d change +7.2,1
+2026-06-25 00:00:00,2026-06-30 23:59:00,food_safety_over_41F,High,uc_26_c_temp_rm,"24 h above 41F, peak 43.3F",5
+2026-06-25 00:00:00,2026-07-03 05:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"8 h above 41F, peak 53.3F",11
+2026-06-25 01:00:00,2026-06-25 01:59:00,many_points_deviate,High,"uc_26_c_temp_rm,uc_27_ret_packout,uf_3_qfm,uf_4_qfm","4 points, 3 cold rooms >41F",1
+2026-06-25 01:00:00,2026-07-03 04:59:00,food_safety_over_41F,High,uc_6_ready_to_eat,"5 h above 41F, peak 44.3F",11
+2026-06-25 05:00:00,2026-06-25 07:59:00,many_points_deviate,High,"uc_26_c_temp_rm,uc_27_ret_packout,uc_3_4_pre_weigh,uc_5_ready_to_eat","4 points, 3 cold rooms >41F",1
+2026-06-25 12:00:00,2026-06-25 12:59:00,many_points_deviate,High,"uc_26_c_temp_rm,uf_3_qfm,uf_4_qfm","3 points, 2 cold rooms >41F",1
+2026-06-25 20:00:00,2026-06-25 20:59:00,many_points_deviate,Medium,"uc_11_12_cooler,uc_26_c_temp_rm,uc_27_ret_packout,uc_9_10_cooler","4 points, 1 cold rooms >41F",1
+2026-06-28 01:00:00,2026-06-28 05:59:00,many_points_deviate,High,"hpr_v1_level,uc_11_12_cooler,uc_26_c_temp_rm,uc_3_4_pre_weigh,uc_9_10_cooler,uf_3_qfm,uf_4_qfm","7 points, 3 cold rooms >41F",1
+2026-06-28 23:00:00,2026-06-28 23:59:00,many_points_deviate,Medium,"hpr_v1_level,uc_26_c_temp_rm,uc_9_10_cooler","3 points, 0 cold rooms >41F",1
+2026-06-30 00:00:00,2026-06-30 23:59:00,engine_room_vs_weather,High,uc_1_engine_room,+17.4F above expected for weather and load,1
+2026-06-30 01:00:00,2026-06-30 10:59:00,many_points_deviate,High,"uc_1_engine_room,uc_26_c_temp_rm,uc_27_ret_packout,uc_3_4_pre_weigh,uc_9_10_cooler,uf_3_qfm,uf_4_qfm","7 points, 4 cold rooms >41F",1
+2026-06-30 01:00:00,2026-07-03 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"4 h above 41F, peak 43.6F",4
+2026-06-30 13:00:00,2026-06-30 23:59:00,many_points_deviate,High,"discharge_pressure,uc_11_12_cooler,uc_1_engine_room,uc_26_c_temp_rm,uc_27_ret_packout,uc_9_10_cooler","6 points, 4 cold rooms >41F",1
+2026-06-30 13:00:00,2026-06-30 20:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 41.9F",2
+2026-07-06 07:00:00,2026-09-30 05:59:00,food_safety_over_41F,High,uc_3_4_pre_weigh,"3 h above 41F, peak 41.9F",129
+2026-07-06 12:00:00,2026-09-30 04:59:00,food_safety_over_41F,High,uc_6_ready_to_eat,"2 h above 41F, peak 41.3F",135
+2026-07-07 02:00:00,2026-07-11 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 42.2F",5
+2026-07-14 13:00:00,2026-07-16 15:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 42.5F",2
+2026-07-15 02:00:00,2026-07-18 03:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 42.6F",4
+2026-07-16 15:00:00,2026-07-16 15:59:00,many_points_deviate,High,"uc_11_12_cooler,uc_1_engine_room,uc_9_10_cooler","3 points, 2 cold rooms >41F",1
+2026-07-23 02:00:00,2026-07-24 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 42.3F",2
+2026-07-28 03:00:00,2026-08-07 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 42.2F",8
+2026-07-28 13:00:00,2026-07-30 14:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 41.3F",2
+2026-08-01 00:00:00,2026-09-30 00:00:00,drift_trend,Low,hpr_v1_level,Theil-Sen 28d change -1.8,2
+2026-08-11 02:00:00,2026-08-15 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.8F",5
+2026-08-13 00:00:00,2026-08-26 00:00:00,engine_room_vs_weather,Medium,uc_1_engine_room,up to +6.0F above expected for weather and load,1
+2026-08-19 02:00:00,2026-08-22 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"2 h above 41F, peak 41.7F",3
+2026-08-29 02:00:00,2026-09-03 03:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.9F",4
+2026-09-03 13:00:00,2026-09-03 14:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 43.6F",1
+2026-09-09 02:00:00,2026-09-09 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.8F",1
+2026-09-10 13:00:00,2026-09-10 14:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 42.0F",1
+2026-09-14 00:00:00,2026-09-30 00:00:00,drift_ewma,Low,hpr_v1_level,EWMA z 4.2,1
+2026-09-15 02:00:00,2026-09-15 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.7F",1
+2026-09-17 00:00:00,2026-09-30 00:00:00,drift_trend,Low,uf_4_qfm,Theil-Sen 28d change +4.4,2
+2026-09-17 00:00:00,2026-09-30 00:00:00,drift_trend,Low,uf_3_qfm,Theil-Sen 28d change +4.7,2
+2026-09-19 00:00:00,2026-09-30 00:00:00,drift_ewma,Low,uf_3_qfm,EWMA z 6.3,1
+2026-09-19 00:00:00,2026-09-30 00:00:00,drift_ewma,Low,uf_4_qfm,EWMA z 5.4,1
+2026-09-22 02:00:00,2026-09-25 04:59:00,food_safety_over_41F,High,uc_7_ready_to_eat,"3 h above 41F, peak 41.9F",2
+2026-09-22 13:00:00,2026-09-24 14:59:00,food_safety_over_41F,High,uc_9_10_cooler,"2 h above 41F, peak 41.2F",2

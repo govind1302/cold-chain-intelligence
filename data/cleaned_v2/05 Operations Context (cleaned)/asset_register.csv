@@ -1,0 +1,93 @@
+asset_id,plant,asset_type,description,location,serves,install_year,pm_program
+A-C1,Plant A,Compressor,High-stage screw compressor #1,Engine room,System,2012,Oil sample 30d; oil filter 90d; vibration 90d
+A-C2,Plant A,Compressor,High-stage screw compressor #2,Engine room,System,2012,Oil sample 30d; oil filter 90d; vibration 90d
+A-B1,Plant A,Compressor,Booster screw compressor,Engine room,System,2012,Oil sample 30d; oil filter 90d; vibration 90d
+A-COND-1,Plant A,Evaporative condenser,"Evaporative condenser, roof",Roof,System,2012,Water treatment 30d; coil/basin cleaning 90d
+A-COND-2,Plant A,Evaporative condenser,"Evaporative condenser, roof",Roof,System,2012,Water treatment 30d; coil/basin cleaning 90d
+A-V1,Plant A,Pressure vessel,High-pressure receiver (HPR V1),Engine room,System,2012,PSM MI inspection 365d
+A-V2,Plant A,Pressure vessel,Intercooler (V2),Engine room,System,2012,PSM MI inspection 365d
+A-V4,Plant A,Pressure vessel,Low-temp recirculator (V4),Engine room,System,2012,PSM MI inspection 365d
+A-EF-1,Plant A,Exhaust fan,Engine room exhaust fan 1,Engine room,Engine room,2012,Belt/bearing inspection 90d
+A-EF-2,Plant A,Exhaust fan,Engine room exhaust fan 2,Engine room,Engine room,2015,Belt/bearing inspection 90d
+A-EVAP-UC-3/4,Plant A,Evaporator,Ceiling evaporator UC-3/4,UC-3/4,UC-3/4,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-5,Plant A,Evaporator,Ceiling evaporator UC-5,UC-5,UC-5,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-6,Plant A,Evaporator,Ceiling evaporator UC-6,UC-6,UC-6,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-7,Plant A,Evaporator,Ceiling evaporator UC-7,UC-7,UC-7,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-8,Plant A,Evaporator,Ceiling evaporator UC-8,UC-8,UC-8,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-9/10,Plant A,Evaporator,Ceiling evaporator UC-9/10,UC-9/10,UC-9/10,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-11/12,Plant A,Evaporator,Ceiling evaporator UC-11/12,UC-11/12,UC-11/12,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-13/14,Plant A,Evaporator,Ceiling evaporator UC-13/14,UC-13/14,UC-13/14,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-15/16,Plant A,Evaporator,Ceiling evaporator UC-15/16,UC-15/16,UC-15/16,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-17/18,Plant A,Evaporator,Ceiling evaporator UC-17/18,UC-17/18,UC-17/18,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-19/20,Plant A,Evaporator,Ceiling evaporator UC-19/20,UC-19/20,UC-19/20,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-21/22,Plant A,Evaporator,Ceiling evaporator UC-21/22,UC-21/22,UC-21/22,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-23/24,Plant A,Evaporator,Ceiling evaporator UC-23/24,UC-23/24,UC-23/24,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-25,Plant A,Evaporator,Ceiling evaporator UC-25,UC-25,UC-25,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UC-26,Plant A,Evaporator,Ceiling evaporator UC-26,UC-26,UC-26,2012,Coil cleaning 90d; drain/heater check 30d
+A-EVAP-UF-3,Plant A,Evaporator,Quick-freeze (QFM) evaporator UF-3 with hot-gas defrost,UF-3,UF-3,2016,Defrost check 30d; coil cleaning 90d
+A-EVAP-UF-4,Plant A,Evaporator,Quick-freeze (QFM) evaporator UF-4 with hot-gas defrost,UF-4,UF-4,2016,Defrost check 30d; coil cleaning 90d
+A-D1,Plant A,Dock door,Dock door D1 with leveler and seal,Dock,Dock,2012,Door/seal inspection 30d
+A-D2,Plant A,Dock door,Dock door D2 with leveler and seal,Dock,Dock,2012,Door/seal inspection 30d
+A-D3,Plant A,Dock door,Dock door D3 with leveler and seal,Dock,Dock,2012,Door/seal inspection 30d
+A-D4,Plant A,Dock door,Dock door D4 with leveler and seal,Dock,UC-9/10 (adjacent),2012,Door/seal inspection 30d
+A-D5,Plant A,Dock door,Dock door D5 with leveler and seal,Dock,Dock,2012,Door/seal inspection 30d
+A-D6,Plant A,Dock door,Dock door D6 with leveler and seal,Dock,Dock,2012,Door/seal inspection 30d
+GD-A-01,Plant A,Ammonia detector,"NH3 detector, Engine room (north)",Engine room (north),Engine room (north),2019,Bump test 30d; calibration 180d
+GD-A-02,Plant A,Ammonia detector,"NH3 detector, Engine room (south)",Engine room (south),Engine room (south),2019,Bump test 30d; calibration 180d
+GD-A-03,Plant A,Ammonia detector,"NH3 detector, UC-5/8 RTE corridor",UC-5/8 RTE corridor,UC-5/8 RTE corridor,2019,Bump test 30d; calibration 180d
+GD-A-04,Plant A,Ammonia detector,"NH3 detector, UC-13/14 evaporator",UC-13/14 evaporator,UC-13/14 evaporator,2019,Bump test 30d; calibration 180d
+GD-A-05,Plant A,Ammonia detector,"NH3 detector, Roof condenser",Roof condenser,Roof condenser,2019,Bump test 30d; calibration 180d
+GD-A-06,Plant A,Ammonia detector,"NH3 detector, Dock",Dock,Dock,2019,Bump test 30d; calibration 180d
+A-CTRL,Plant A,Controller,Refrigeration controller / HMI,Engine room,System,2018,Backup 90d
+B-C-1,Plant B,Compressor,High-stage screw compressor C01 (lead/lag),Engine room,System,2009,Oil sample 30d; oil filter 90d; vibration 90d; standby exercise weekly (C-4)
+B-C-2,Plant B,Compressor,High-stage screw compressor C02 (lead/lag),Engine room,System,2014,Oil sample 30d; oil filter 90d; vibration 90d; standby exercise weekly (C-4)
+B-C-3,Plant B,Compressor,Booster screw compressor C03 (B-1),Engine room,System,2009,Oil sample 30d; oil filter 90d; vibration 90d; standby exercise weekly (C-4)
+B-C-4,Plant B,Compressor,"Booster screw compressor C04 (B-2, standby)",Engine room,System,2014,Oil sample 30d; oil filter 90d; vibration 90d; standby exercise weekly (C-4)
+B-COND-1,Plant B,Evaporative condenser,"Evaporative condenser, roof",Roof,System,2009,Water treatment 30d; coil/basin cleaning 90d
+B-COND-2,Plant B,Evaporative condenser,"Evaporative condenser, roof",Roof,System,2009,Water treatment 30d; coil/basin cleaning 90d
+B-V2,Plant B,Pressure vessel,Intercooler (V-2),Engine room,System,2009,PSM MI inspection 365d
+B-V4,Plant B,Pressure vessel,Recirculator (V-4),Engine room,System,2009,PSM MI inspection 365d
+B-SF-1,Plant B,Spiral freezer,Spiral freezer SF-1 with hot-gas defrost,SF-1,SF-1,2017,Defrost check 30d; coil inspection 90d
+B-SF-2,Plant B,Spiral freezer,Spiral freezer SF-2 with hot-gas defrost,SF-2,SF-2,2017,Defrost check 30d; coil inspection 90d
+B-EVAP-UF-1,Plant B,Evaporator,Evaporator UF-1,UF-1,UF-1,2009,Coil cleaning 90d
+B-EVAP-UF-2,Plant B,Evaporator,Evaporator UF-2,UF-2,UF-2,2009,Coil cleaning 90d
+B-EVAP-UF-3,Plant B,Evaporator,Evaporator UF-3,UF-3,UF-3,2009,Coil cleaning 90d
+B-EVAP-UF-4,Plant B,Evaporator,Evaporator UF-4,UF-4,UF-4,2009,Coil cleaning 90d
+B-EVAP-UC-8,Plant B,Evaporator,Evaporator UC-8,UC-8,UC-8,2009,Coil cleaning 90d
+B-EVAP-UC-9,Plant B,Evaporator,Evaporator UC-9,UC-9,UC-9,2009,Coil cleaning 90d
+B-EVAP-UC-10,Plant B,Evaporator,Evaporator UC-10,UC-10,UC-10,2009,Coil cleaning 90d
+B-EVAP-UC-11,Plant B,Evaporator,Evaporator UC-11,UC-11,UC-11,2009,Coil cleaning 90d
+B-EVAP-UC-1,Plant B,Evaporator,Evaporator UC-1,UC-1,UC-1,2009,Coil cleaning 90d
+B-EVAP-UC-2,Plant B,Evaporator,Evaporator UC-2,UC-2,UC-2,2009,Coil cleaning 90d
+B-D1,Plant B,Dock door,Dock door D1 (Receiving (frozen)),Dock,UF-1/UF-2,2009,Door/seal inspection 30d
+B-D2,Plant B,Dock door,Dock door D2 (Receiving (frozen)),Dock,UF-1/UF-2,2009,Door/seal inspection 30d
+B-D3,Plant B,Dock door,Dock door D3 (Receiving (dry/cooler)),Dock,UC-10/UC-11,2009,Door/seal inspection 30d
+B-D4,Plant B,Dock door,Dock door D4 (Receiving (dry/cooler)),Dock,UC-10/UC-11,2009,Door/seal inspection 30d
+B-D5,Plant B,Dock door,Dock door D5 (Shipping),Dock,UC-6 dock,2009,Door/seal inspection 30d
+B-D6,Plant B,Dock door,Dock door D6 (Shipping),Dock,UC-6 dock,2009,Door/seal inspection 30d
+GD-B-01,Plant B,Ammonia detector,"NH3 detector, Engine room (east)",Engine room (east),Engine room (east),2018,Bump test 30d; calibration 180d
+GD-B-02,Plant B,Ammonia detector,"NH3 detector, Engine room (west)",Engine room (west),Engine room (west),2018,Bump test 30d; calibration 180d
+GD-B-03,Plant B,Ammonia detector,"NH3 detector, Spiral freezer area",Spiral freezer area,Spiral freezer area,2018,Bump test 30d; calibration 180d
+GD-B-04,Plant B,Ammonia detector,"NH3 detector, Cook rooms",Cook rooms,Cook rooms,2018,Bump test 30d; calibration 180d
+GD-B-05,Plant B,Ammonia detector,"NH3 detector, Roof condenser",Roof condenser,Roof condenser,2018,Bump test 30d; calibration 180d
+GD-B-06,Plant B,Ammonia detector,"NH3 detector, Dock",Dock,Dock,2018,Bump test 30d; calibration 180d
+B-CTRL,Plant B,Controller,Refrigeration controller / HMI,Engine room,System,2016,Backup 90d; firmware per vendor
+C-CU-1,Plant C,Condensing unit,Ammonia condensing unit CU-1,Mechanical yard,Bulk coolers / Front coolers,2011,Oil sample 30d; coil cleaning 90d
+C-CU-2,Plant C,Condensing unit,Ammonia condensing unit CU-2,Mechanical yard,Freezer / Blast freezer,2011,Oil sample 30d; coil cleaning 90d
+C-CU-3,Plant C,Condensing unit,Ammonia condensing unit CU-3,Mechanical yard,"Chillers (3 Lane, Queso Cup) / Ice builder",2011,Oil sample 30d; coil cleaning 90d
+C-CU-4,Plant C,Condensing unit,Ammonia condensing unit CU-4,Mechanical yard,Protein rooms / process areas,2011,Oil sample 30d; coil cleaning 90d
+C-EVAP-Freezer,Plant C,Evaporator,"Evaporator, Freezer",Freezer,Freezer,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-BlastFreezer,Plant C,Evaporator,"Evaporator, Blast Freezer",Blast Freezer,Blast Freezer,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-QuesoCupChiller,Plant C,Evaporator,"Evaporator, Queso Cup Chiller",Queso Cup Chiller,Queso Cup Chiller,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-3LaneChiller,Plant C,Evaporator,"Evaporator, 3 Lane Chiller",3 Lane Chiller,3 Lane Chiller,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-ProteinRoomFront,Plant C,Evaporator,"Evaporator, Protein Room Front",Protein Room Front,Protein Room Front,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-ProteinRoomBack,Plant C,Evaporator,"Evaporator, Protein Room Back",Protein Room Back,Protein Room Back,2011,Coil cleaning 90d; defrost check 30d
+C-EVAP-BulkCooler1/2,Plant C,Evaporator,"Evaporator, Bulk Cooler 1/2",Bulk Cooler 1/2,Bulk Cooler 1/2,2011,Coil cleaning 90d; defrost check 30d
+C-FZ-DOOR,Plant C,Freezer door,"Freezer insulated sliding door, heated frame, gasket",Freezer,Freezer,2011,Gasket/heater inspection 90d
+C-D1,Plant C,Dock door,Dock door D1,Dock,Back dock,2011,Door/seal inspection 30d
+C-D2,Plant C,Dock door,Dock door D2,Dock,Back dock,2011,Door/seal inspection 30d
+C-D3,Plant C,Dock door,Dock door D3,Dock,Back dock,2011,Door/seal inspection 30d
+GD-C-01,Plant C,Ammonia detector,"NH3 detector, Mechanical yard",Mechanical yard,Mechanical yard,2020,Bump test 30d; calibration 180d
+GD-C-02,Plant C,Ammonia detector,"NH3 detector, Freezer vestibule",Freezer vestibule,Freezer vestibule,2020,Bump test 30d; calibration 180d
+GD-C-03,Plant C,Ammonia detector,"NH3 detector, Protein rooms",Protein rooms,Protein rooms,2020,Bump test 30d; calibration 180d
+GD-C-04,Plant C,Ammonia detector,"NH3 detector, Dock",Dock,Dock,2020,Bump test 30d; calibration 180d

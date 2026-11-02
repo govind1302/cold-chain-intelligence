@@ -1,0 +1,696 @@
+alarm_start,alarm_clear,plant,point,alarm,peak_value,acknowledged_by,acknowledged,duration_min,alarm_threshold_F,alarm_offset_over_setpoint_F
+2026-04-01 00:45,2026-04-01 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.2,Day Refrigeration Tech,True,270,,7
+2026-04-01 01:00,2026-04-01 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.4,Shift Supervisor,True,225,,7
+2026-04-01 10:00,2026-04-01 11:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),35.0,Shift Supervisor,True,75,32,
+2026-04-01 14:45,2026-04-01 16:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),42.8,Day Refrigeration Tech,True,105,32,
+2026-04-01 14:45,2026-04-01 15:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),37.0,,False,45,32,
+2026-04-01 16:15,2026-04-01 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.8,Night Operator,True,30,43,
+2026-04-01 17:15,2026-04-01 17:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.1,Day Refrigeration Tech,True,30,32,
+2026-04-02 00:45,2026-04-02 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.3,,False,270,,7
+2026-04-02 02:30,2026-04-02 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.7,Night Operator,True,135,,7
+2026-04-02 08:00,2026-04-02 08:30,Plant C,Front Middle Cooler,Cooler high temp (43F),45.8,Day Refrigeration Tech,True,30,43,
+2026-04-02 11:30,2026-04-02 12:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.9,Day Refrigeration Tech,True,30,43,
+2026-04-02 13:30,2026-04-02 14:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.6,,False,30,32,
+2026-04-03 00:45,2026-04-03 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Night Operator,True,270,,7
+2026-04-03 01:00,2026-04-03 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,Night Operator,True,240,,7
+2026-04-03 20:30,2026-04-03 21:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,Day Refrigeration Tech,True,30,43,
+2026-04-04 00:45,2026-04-04 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.3,Night Operator,True,270,,7
+2026-04-04 01:00,2026-04-04 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Night Operator,True,225,,7
+2026-04-06 08:30,2026-04-06 10:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),40.0,Shift Supervisor,True,105,32,
+2026-04-06 08:30,2026-04-06 09:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.4,Shift Supervisor,True,30,32,
+2026-04-06 09:00,2026-04-06 09:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.9,,False,30,43,
+2026-04-06 13:00,2026-04-06 16:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),44.1,,False,225,32,
+2026-04-06 13:00,2026-04-06 14:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),39.1,Shift Supervisor,True,105,32,
+2026-04-06 14:00,2026-04-06 14:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.3,Day Refrigeration Tech,True,30,43,
+2026-04-06 17:30,2026-04-06 18:00,Plant C,Front Middle Cooler,Cooler high temp (43F),48.6,Day Refrigeration Tech,True,30,43,
+2026-04-06 18:00,2026-04-06 18:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,45,,7
+2026-04-06 19:00,2026-04-06 20:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Night Operator,True,75,,7
+2026-04-07 00:45,2026-04-07 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Day Refrigeration Tech,True,270,,7
+2026-04-07 01:00,2026-04-07 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,Day Refrigeration Tech,True,225,,7
+2026-04-07 03:30,2026-04-07 04:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,Shift Supervisor,True,45,,7
+2026-04-07 19:00,2026-04-07 20:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,Day Refrigeration Tech,True,60,43,
+2026-04-08 00:45,2026-04-08 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,,False,270,,7
+2026-04-08 01:00,2026-04-08 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.5,Night Operator,True,225,,7
+2026-04-08 06:30,2026-04-08 08:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),37.6,Shift Supervisor,True,105,32,
+2026-04-08 07:00,2026-04-08 07:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),32.6,Shift Supervisor,True,30,32,
+2026-04-08 08:30,2026-04-08 09:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Night Operator,True,30,43,
+2026-04-08 10:30,2026-04-08 13:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),43.1,Night Operator,True,165,32,
+2026-04-08 10:30,2026-04-08 11:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),35.2,Night Operator,True,60,32,
+2026-04-08 15:45,2026-04-08 16:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.5,,False,30,43,
+2026-04-08 16:15,2026-04-08 18:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),39.1,Shift Supervisor,True,135,32,
+2026-04-08 16:15,2026-04-08 16:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),33.9,Night Operator,True,30,32,
+2026-04-09 00:45,2026-04-09 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Day Refrigeration Tech,True,270,,7
+2026-04-09 01:15,2026-04-09 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.6,Day Refrigeration Tech,True,225,,7
+2026-04-09 06:30,2026-04-09 07:00,Plant C,Front Middle Cooler,Cooler high temp (43F),44.3,Day Refrigeration Tech,True,30,43,
+2026-04-09 10:30,2026-04-09 11:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Night Operator,True,60,,7
+2026-04-09 11:45,2026-04-09 12:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,,False,45,,7
+2026-04-09 13:00,2026-04-09 13:30,Plant C,Front Middle Cooler,Cooler high temp (43F),48.4,Night Operator,True,30,43,
+2026-04-09 17:00,2026-04-09 17:30,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Night Operator,True,30,43,
+2026-04-09 19:45,2026-04-09 20:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.4,,False,30,43,
+2026-04-10 00:45,2026-04-10 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Night Operator,True,270,,7
+2026-04-10 01:00,2026-04-10 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.1,Night Operator,True,225,,7
+2026-04-10 10:45,2026-04-10 11:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.8,Day Refrigeration Tech,True,60,,7
+2026-04-10 16:00,2026-04-10 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),55.7,Day Refrigeration Tech,True,45,43,
+2026-04-11 00:45,2026-04-11 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.2,Night Operator,True,270,,7
+2026-04-11 01:00,2026-04-11 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.9,Shift Supervisor,True,225,,7
+2026-04-13 07:00,2026-04-13 07:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.2,Day Refrigeration Tech,True,30,43,
+2026-04-13 11:45,2026-04-13 12:15,Plant C,Front Middle Cooler,Cooler high temp (43F),44.4,Night Operator,True,30,43,
+2026-04-14 00:45,2026-04-14 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,Day Refrigeration Tech,True,270,,7
+2026-04-14 01:00,2026-04-14 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.7,Shift Supervisor,True,240,,7
+2026-04-14 07:45,2026-04-14 08:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.4,,False,30,43,
+2026-04-14 11:30,2026-04-14 13:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),37.0,,False,120,32,
+2026-04-14 12:45,2026-04-14 13:30,Plant C,Front Middle Cooler,Cooler high temp (43F),55.4,,False,45,43,
+2026-04-14 15:00,2026-04-14 15:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),33.0,Night Operator,True,45,32,
+2026-04-15 00:45,2026-04-15 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.8,Night Operator,True,270,,7
+2026-04-15 01:15,2026-04-15 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.7,Night Operator,True,210,,7
+2026-04-15 14:00,2026-04-15 18:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),50.7,Shift Supervisor,True,240,32,
+2026-04-15 14:00,2026-04-15 17:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),44.5,Day Refrigeration Tech,True,195,32,
+2026-04-15 19:30,2026-04-15 20:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.0,Night Operator,True,30,43,
+2026-04-16 00:45,2026-04-16 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.3,Night Operator,True,270,,7
+2026-04-16 01:00,2026-04-16 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.5,Day Refrigeration Tech,True,240,,7
+2026-04-16 12:00,2026-04-16 12:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Shift Supervisor,True,30,43,
+2026-04-17 00:45,2026-04-17 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Shift Supervisor,True,270,,7
+2026-04-17 01:00,2026-04-17 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Night Operator,True,240,,7
+2026-04-17 15:00,2026-04-17 15:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Shift Supervisor,True,30,,7
+2026-04-17 19:15,2026-04-17 19:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.9,Night Operator,True,30,43,
+2026-04-18 00:45,2026-04-18 05:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Shift Supervisor,True,255,,7
+2026-04-18 01:00,2026-04-18 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Day Refrigeration Tech,True,240,,7
+2026-04-18 03:45,2026-04-18 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.6,Shift Supervisor,True,60,,7
+2026-04-20 08:30,2026-04-20 09:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,,False,30,43,
+2026-04-20 10:00,2026-04-20 17:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),62.5,Night Operator,True,420,32,
+2026-04-20 10:15,2026-04-20 14:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),53.9,Shift Supervisor,True,270,32,
+2026-04-20 12:00,2026-04-20 13:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Night Operator,True,90,,7
+2026-04-20 16:45,2026-04-20 17:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.3,Night Operator,True,60,,7
+2026-04-21 00:45,2026-04-21 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.0,Shift Supervisor,True,270,,7
+2026-04-21 01:15,2026-04-21 04:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.7,Night Operator,True,195,,7
+2026-04-21 08:45,2026-04-21 09:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,Night Operator,True,30,43,
+2026-04-22 00:45,2026-04-22 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Night Operator,True,270,,7
+2026-04-22 01:00,2026-04-22 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Day Refrigeration Tech,True,225,,7
+2026-04-22 13:30,2026-04-22 14:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.2,,False,30,43,
+2026-04-22 20:00,2026-04-22 20:30,Plant C,Front Middle Cooler,Cooler high temp (43F),48.0,Day Refrigeration Tech,True,30,43,
+2026-04-23 00:45,2026-04-23 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.2,Day Refrigeration Tech,True,270,,7
+2026-04-23 01:00,2026-04-23 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Shift Supervisor,True,240,,7
+2026-04-23 17:30,2026-04-23 18:00,Plant C,Front Middle Cooler,Cooler high temp (43F),48.0,Day Refrigeration Tech,True,30,43,
+2026-04-23 19:00,2026-04-23 19:30,Plant C,Front Middle Cooler,Cooler high temp (43F),47.2,Shift Supervisor,True,30,43,
+2026-04-24 00:45,2026-04-24 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.9,Day Refrigeration Tech,True,270,,7
+2026-04-24 01:15,2026-04-24 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.7,Day Refrigeration Tech,True,210,,7
+2026-04-24 06:45,2026-04-24 07:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Day Refrigeration Tech,True,60,,7
+2026-04-24 07:45,2026-04-24 08:15,Plant C,Front Middle Cooler,Cooler high temp (43F),44.9,Day Refrigeration Tech,True,30,43,
+2026-04-24 12:30,2026-04-24 13:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Night Operator,True,45,,7
+2026-04-24 13:15,2026-04-24 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Day Refrigeration Tech,True,30,43,
+2026-04-25 00:45,2026-04-25 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.8,Night Operator,True,270,,7
+2026-04-25 01:00,2026-04-25 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Night Operator,True,240,,7
+2026-04-27 08:45,2026-04-27 09:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),33.8,Day Refrigeration Tech,True,30,32,
+2026-04-27 12:45,2026-04-27 15:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),42.6,,False,165,32,
+2026-04-27 12:45,2026-04-27 14:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),37.1,Shift Supervisor,True,90,32,
+2026-04-27 17:45,2026-04-27 18:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Night Operator,True,30,,7
+2026-04-28 00:45,2026-04-28 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.9,Day Refrigeration Tech,True,270,,7
+2026-04-28 01:15,2026-04-28 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,Day Refrigeration Tech,True,210,,7
+2026-04-28 11:45,2026-04-28 12:15,Plant C,Front Middle Cooler,Cooler high temp (43F),43.4,Night Operator,True,30,43,
+2026-04-28 14:30,2026-04-28 15:00,Plant C,Front Middle Cooler,Cooler high temp (43F),44.2,Shift Supervisor,True,30,43,
+2026-04-28 20:45,2026-04-28 21:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.0,Shift Supervisor,True,30,43,
+2026-04-29 00:45,2026-04-29 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.3,Night Operator,True,270,,7
+2026-04-29 01:15,2026-04-29 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,Night Operator,True,225,,7
+2026-04-29 10:45,2026-04-29 16:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),51.2,Day Refrigeration Tech,True,315,32,
+2026-04-29 11:45,2026-04-29 14:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),43.6,,False,180,32,
+2026-04-29 18:15,2026-04-29 18:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Shift Supervisor,True,30,43,
+2026-04-30 00:45,2026-04-30 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Shift Supervisor,True,270,,7
+2026-04-30 01:00,2026-04-30 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,Night Operator,True,225,,7
+2026-05-01 00:45,2026-05-01 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.6,Day Refrigeration Tech,True,270,,7
+2026-05-01 01:15,2026-05-01 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.1,Night Operator,True,225,,7
+2026-05-01 08:00,2026-05-01 08:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,,False,30,,7
+2026-05-01 12:30,2026-05-01 13:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Night Operator,True,30,43,
+2026-05-01 13:00,2026-05-01 13:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.6,Shift Supervisor,True,30,32,
+2026-05-01 15:15,2026-05-01 15:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Day Refrigeration Tech,True,30,43,
+2026-05-02 00:45,2026-05-02 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Day Refrigeration Tech,True,270,,7
+2026-05-02 01:00,2026-05-02 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.1,Shift Supervisor,True,225,,7
+2026-05-04 07:15,2026-05-04 07:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.2,Shift Supervisor,True,30,,7
+2026-05-04 10:00,2026-05-04 12:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),40.4,Day Refrigeration Tech,True,165,32,
+2026-05-04 14:15,2026-05-04 14:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.3,,False,30,43,
+2026-05-04 15:00,2026-05-04 15:30,Plant C,Front Middle Cooler,Cooler high temp (43F),49.5,Shift Supervisor,True,30,43,
+2026-05-05 00:45,2026-05-05 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.3,Day Refrigeration Tech,True,270,,7
+2026-05-05 01:00,2026-05-05 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Night Operator,True,225,,7
+2026-05-05 07:00,2026-05-05 08:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.1,Day Refrigeration Tech,True,60,,7
+2026-05-05 17:30,2026-05-05 18:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Shift Supervisor,True,30,,7
+2026-05-06 00:45,2026-05-06 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Shift Supervisor,True,270,,7
+2026-05-06 01:00,2026-05-06 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.5,Shift Supervisor,True,225,,7
+2026-05-06 06:30,2026-05-06 07:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,45,,7
+2026-05-06 16:15,2026-05-06 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Night Operator,True,30,43,
+2026-05-06 19:00,2026-05-06 20:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),35.4,Day Refrigeration Tech,True,105,32,
+2026-05-07 00:45,2026-05-07 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Shift Supervisor,True,270,,7
+2026-05-07 01:00,2026-05-07 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.6,,False,240,,7
+2026-05-07 07:00,2026-05-07 07:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,45,,7
+2026-05-07 08:00,2026-05-07 08:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.1,Day Refrigeration Tech,True,30,,7
+2026-05-07 13:00,2026-05-07 13:30,Plant C,Front Middle Cooler,Cooler high temp (43F),46.9,Night Operator,True,30,43,
+2026-05-07 15:30,2026-05-07 16:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.7,Day Refrigeration Tech,True,30,43,
+2026-05-08 00:45,2026-05-08 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.1,Night Operator,True,270,,7
+2026-05-08 01:15,2026-05-08 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.4,Day Refrigeration Tech,True,225,,7
+2026-05-08 06:00,2026-05-08 06:30,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Day Refrigeration Tech,True,30,43,
+2026-05-11 09:00,2026-05-11 11:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),42.0,,False,120,32,
+2026-05-11 09:00,2026-05-11 10:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),40.8,Shift Supervisor,True,75,32,
+2026-05-11 11:45,2026-05-11 15:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),47.7,Day Refrigeration Tech,True,210,32,
+2026-05-11 11:45,2026-05-11 14:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),40.6,Night Operator,True,150,32,
+2026-05-11 15:45,2026-05-11 16:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.6,Shift Supervisor,True,45,,7
+2026-05-11 18:30,2026-05-11 19:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.1,Day Refrigeration Tech,True,30,,7
+2026-05-12 00:45,2026-05-12 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,,False,270,,7
+2026-05-12 01:00,2026-05-12 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.7,,False,240,,7
+2026-05-12 03:00,2026-05-12 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.9,Night Operator,True,105,,7
+2026-05-12 07:00,2026-05-12 07:30,Plant C,Front Middle Cooler,Cooler high temp (43F),45.6,Day Refrigeration Tech,True,30,43,
+2026-05-12 15:15,2026-05-12 15:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.5,Shift Supervisor,True,30,43,
+2026-05-12 16:15,2026-05-12 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.5,,False,30,43,
+2026-05-12 19:45,2026-05-12 20:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.8,,False,30,43,
+2026-05-13 00:45,2026-05-13 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Day Refrigeration Tech,True,270,,7
+2026-05-13 01:00,2026-05-13 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.0,Shift Supervisor,True,240,,7
+2026-05-13 05:00,2026-05-13 11:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),50.6,Day Refrigeration Tech,True,390,32,
+2026-05-13 05:00,2026-05-13 05:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),37.9,,False,45,32,
+2026-05-13 06:00,2026-05-13 06:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.5,Day Refrigeration Tech,True,30,32,
+2026-05-13 06:30,2026-05-13 07:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Night Operator,True,30,43,
+2026-05-13 07:15,2026-05-13 10:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),45.4,Shift Supervisor,True,165,32,
+2026-05-13 13:45,2026-05-13 14:30,Plant C,Front Middle Cooler,Cooler high temp (43F),56.7,Night Operator,True,45,43,
+2026-05-13 16:30,2026-05-13 17:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-05-14 00:45,2026-05-14 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.5,,False,270,,7
+2026-05-14 01:00,2026-05-14 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.0,Night Operator,True,240,,7
+2026-05-14 06:15,2026-05-14 06:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.8,Night Operator,True,30,43,
+2026-05-14 11:30,2026-05-14 12:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Night Operator,True,30,,7
+2026-05-14 13:15,2026-05-14 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),47.2,Night Operator,True,30,43,
+2026-05-15 00:45,2026-05-15 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.7,Day Refrigeration Tech,True,270,,7
+2026-05-15 01:00,2026-05-15 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,Night Operator,True,240,,7
+2026-05-15 18:45,2026-05-15 19:15,Plant C,Front Middle Cooler,Cooler high temp (43F),50.1,Shift Supervisor,True,30,43,
+2026-05-16 00:45,2026-05-16 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.4,Day Refrigeration Tech,True,270,,7
+2026-05-16 00:45,2026-05-16 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.3,,False,255,,7
+2026-05-18 09:45,2026-05-18 15:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),53.5,Shift Supervisor,True,345,32,
+2026-05-18 09:45,2026-05-18 10:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),37.9,Day Refrigeration Tech,True,30,32,
+2026-05-18 10:30,2026-05-18 13:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),44.2,Day Refrigeration Tech,True,165,32,
+2026-05-18 14:15,2026-05-18 14:45,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Day Refrigeration Tech,True,30,43,
+2026-05-18 16:15,2026-05-18 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.2,Day Refrigeration Tech,True,30,43,
+2026-05-18 19:30,2026-05-18 20:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.2,Night Operator,True,30,43,
+2026-05-19 00:45,2026-05-19 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.9,,False,270,,7
+2026-05-19 01:15,2026-05-19 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,,False,210,,7
+2026-05-20 00:45,2026-05-20 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.1,Shift Supervisor,True,270,,7
+2026-05-20 01:15,2026-05-20 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.6,,False,225,,7
+2026-05-20 07:45,2026-05-20 08:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.4,Night Operator,True,45,,7
+2026-05-20 15:30,2026-05-20 16:00,Plant C,Front Middle Cooler,Cooler high temp (43F),49.6,,False,30,43,
+2026-05-20 18:30,2026-05-20 19:00,Plant C,Front Middle Cooler,Cooler high temp (43F),44.9,Night Operator,True,30,43,
+2026-05-21 00:45,2026-05-21 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.4,Day Refrigeration Tech,True,270,,7
+2026-05-21 01:00,2026-05-21 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Shift Supervisor,True,240,,7
+2026-05-21 08:45,2026-05-21 10:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.0,Night Operator,True,75,,7
+2026-05-21 12:15,2026-05-21 12:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.2,,False,30,43,
+2026-05-21 14:30,2026-05-21 15:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Night Operator,True,30,43,
+2026-05-22 00:45,2026-05-22 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Night Operator,True,270,,7
+2026-05-22 01:15,2026-05-22 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Shift Supervisor,True,240,,7
+2026-05-22 12:00,2026-05-22 12:30,Plant C,Front Middle Cooler,Cooler high temp (43F),43.8,Day Refrigeration Tech,True,30,43,
+2026-05-22 13:15,2026-05-22 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),43.2,,False,30,43,
+2026-05-22 14:45,2026-05-22 15:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Night Operator,True,45,,7
+2026-05-23 00:45,2026-05-23 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.1,Day Refrigeration Tech,True,270,,7
+2026-05-23 01:00,2026-05-23 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Night Operator,True,240,,7
+2026-05-23 01:45,2026-05-23 02:30,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.1,Night Operator,True,45,,7
+2026-05-26 06:00,2026-05-26 06:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.9,Night Operator,True,30,,7
+2026-05-26 12:45,2026-05-26 13:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.4,Night Operator,True,30,43,
+2026-05-26 19:00,2026-05-26 19:45,Plant C,Front Middle Cooler,Cooler high temp (43F),58.4,Shift Supervisor,True,45,43,
+2026-05-27 00:45,2026-05-27 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.3,Day Refrigeration Tech,True,270,,7
+2026-05-27 01:00,2026-05-27 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.5,,False,240,,7
+2026-05-27 06:00,2026-05-27 06:30,Plant C,Front Middle Cooler,Cooler high temp (43F),47.0,Night Operator,True,30,43,
+2026-05-27 10:30,2026-05-27 11:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),33.7,Shift Supervisor,True,45,32,
+2026-05-27 11:30,2026-05-27 22:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),73.8,Shift Supervisor,True,660,32,
+2026-05-27 11:30,2026-05-27 20:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),69.9,Night Operator,True,540,32,
+2026-05-27 14:30,2026-05-27 15:00,Plant C,Front Middle Cooler,Cooler high temp (43F),49.8,Night Operator,True,30,43,
+2026-05-28 00:45,2026-05-28 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Day Refrigeration Tech,True,270,,7
+2026-05-28 01:00,2026-05-28 02:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,Night Operator,True,75,,7
+2026-05-28 02:30,2026-05-28 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.4,Day Refrigeration Tech,True,150,,7
+2026-05-28 02:30,2026-05-28 03:00,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.0,Shift Supervisor,True,30,,7
+2026-05-29 00:45,2026-05-29 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.8,,False,270,,7
+2026-05-29 01:15,2026-05-29 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.4,Night Operator,True,225,,7
+2026-05-29 08:00,2026-05-29 08:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.9,Night Operator,True,45,43,
+2026-05-29 11:00,2026-05-29 11:30,Plant C,Front Middle Cooler,Cooler high temp (43F),54.1,Shift Supervisor,True,30,43,
+2026-05-29 12:45,2026-05-29 13:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Day Refrigeration Tech,True,30,,7
+2026-05-29 15:45,2026-05-29 16:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.9,Day Refrigeration Tech,True,30,,7
+2026-05-30 00:45,2026-05-30 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.8,Shift Supervisor,True,270,,7
+2026-05-30 01:00,2026-05-30 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.6,Day Refrigeration Tech,True,240,,7
+2026-05-30 10:30,2026-05-30 11:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,Night Operator,True,30,,7
+2026-07-01 00:45,2026-07-01 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,,False,270,,7
+2026-07-01 01:00,2026-07-01 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Day Refrigeration Tech,True,240,,7
+2026-07-01 01:15,2026-07-01 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),43.2,,False,210,,7
+2026-07-01 02:30,2026-07-01 03:15,Plant A,UF-4 QFM,High temp (SP+7F),46.7,Night Operator,True,45,,7
+2026-07-01 02:30,2026-07-01 03:30,Plant A,UF-3 QFM,High temp (SP+7F),49.0,Day Refrigeration Tech,True,60,,7
+2026-07-01 09:45,2026-07-01 10:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.5,Day Refrigeration Tech,True,30,43,
+2026-07-01 12:30,2026-07-01 13:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Day Refrigeration Tech,True,30,43,
+2026-07-01 13:00,2026-07-01 13:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Day Refrigeration Tech,True,30,,7
+2026-07-01 14:30,2026-07-01 15:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.1,,False,30,43,
+2026-07-02 00:45,2026-07-02 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.7,Night Operator,True,270,,7
+2026-07-02 00:45,2026-07-02 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,Night Operator,True,255,,7
+2026-07-02 02:30,2026-07-02 03:15,Plant A,UF-4 QFM,High temp (SP+7F),42.0,Shift Supervisor,True,45,,7
+2026-07-02 02:30,2026-07-02 03:15,Plant A,UF-3 QFM,High temp (SP+7F),44.3,Shift Supervisor,True,45,,7
+2026-07-02 06:00,2026-07-02 06:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,30,,7
+2026-07-02 11:30,2026-07-02 12:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.0,,False,30,32,
+2026-07-02 13:15,2026-07-02 13:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.1,Day Refrigeration Tech,True,30,,7
+2026-07-02 17:15,2026-07-02 17:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Night Operator,True,30,43,
+2026-07-03 00:45,2026-07-03 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Day Refrigeration Tech,True,270,,7
+2026-07-03 01:00,2026-07-03 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.6,Day Refrigeration Tech,True,240,,7
+2026-07-03 02:30,2026-07-03 03:30,Plant A,UF-4 QFM,High temp (SP+7F),45.1,Day Refrigeration Tech,True,60,,7
+2026-07-03 02:30,2026-07-03 03:30,Plant A,UF-3 QFM,High temp (SP+7F),47.4,Night Operator,True,60,,7
+2026-07-04 02:30,2026-07-04 03:15,Plant A,UF-3 QFM,High temp (SP+7F),42.0,Night Operator,True,45,,7
+2026-07-04 02:45,2026-07-04 03:15,Plant A,UF-4 QFM,High temp (SP+7F),39.3,Day Refrigeration Tech,True,30,,7
+2026-07-05 02:30,2026-07-05 03:15,Plant A,UF-4 QFM,High temp (SP+7F),42.2,Night Operator,True,45,,7
+2026-07-05 02:30,2026-07-05 03:30,Plant A,UF-3 QFM,High temp (SP+7F),44.3,Night Operator,True,60,,7
+2026-07-06 02:30,2026-07-06 03:30,Plant A,UF-4 QFM,High temp (SP+7F),47.2,Night Operator,True,60,,7
+2026-07-06 02:30,2026-07-06 03:30,Plant A,UF-3 QFM,High temp (SP+7F),49.6,Day Refrigeration Tech,True,60,,7
+2026-07-06 06:30,2026-07-06 07:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.8,,False,30,43,
+2026-07-06 09:45,2026-07-06 10:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.9,Day Refrigeration Tech,True,30,43,
+2026-07-06 11:00,2026-07-06 17:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),58.5,,False,360,32,
+2026-07-06 11:00,2026-07-06 15:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),54.4,Day Refrigeration Tech,True,270,32,
+2026-07-06 14:45,2026-07-06 16:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Day Refrigeration Tech,True,105,,7
+2026-07-06 18:15,2026-07-06 18:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.1,Day Refrigeration Tech,True,30,,7
+2026-07-07 00:45,2026-07-07 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.7,Shift Supervisor,True,270,,7
+2026-07-07 01:00,2026-07-07 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.6,Day Refrigeration Tech,True,240,,7
+2026-07-07 01:15,2026-07-07 01:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.4,Day Refrigeration Tech,True,30,,7
+2026-07-07 02:00,2026-07-07 03:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.7,Night Operator,True,75,,7
+2026-07-07 02:30,2026-07-07 03:15,Plant A,UF-4 QFM,High temp (SP+7F),43.9,Night Operator,True,45,,7
+2026-07-07 02:30,2026-07-07 03:15,Plant A,UF-3 QFM,High temp (SP+7F),46.0,,False,45,,7
+2026-07-07 09:00,2026-07-07 10:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.9,Day Refrigeration Tech,True,90,32,
+2026-07-07 12:15,2026-07-07 12:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.9,,False,30,43,
+2026-07-07 12:30,2026-07-07 13:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.3,Shift Supervisor,True,45,32,
+2026-07-07 16:30,2026-07-07 19:00,Plant A,UC-1 Engine Room,Engine room high temp (90F),91.4,Night Operator,True,150,90,
+2026-07-07 20:45,2026-07-07 21:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Night Operator,True,30,,7
+2026-07-08 00:45,2026-07-08 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.3,Night Operator,True,270,,7
+2026-07-08 01:00,2026-07-08 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,Day Refrigeration Tech,True,240,,7
+2026-07-08 02:30,2026-07-08 03:15,Plant A,UF-4 QFM,High temp (SP+7F),44.9,Night Operator,True,45,,7
+2026-07-08 02:30,2026-07-08 03:30,Plant A,UF-3 QFM,High temp (SP+7F),47.5,Day Refrigeration Tech,True,60,,7
+2026-07-08 12:30,2026-07-08 21:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),58.7,Day Refrigeration Tech,True,525,32,
+2026-07-08 12:30,2026-07-08 19:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),56.1,Day Refrigeration Tech,True,405,32,
+2026-07-08 14:00,2026-07-08 16:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.6,Shift Supervisor,True,120,,7
+2026-07-09 00:45,2026-07-09 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.8,,False,270,,7
+2026-07-09 01:00,2026-07-09 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Shift Supervisor,True,240,,7
+2026-07-09 02:30,2026-07-09 03:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,Shift Supervisor,True,45,,7
+2026-07-09 02:30,2026-07-09 03:15,Plant A,UF-4 QFM,High temp (SP+7F),45.2,Night Operator,True,45,,7
+2026-07-09 02:30,2026-07-09 03:30,Plant A,UF-3 QFM,High temp (SP+7F),47.1,Night Operator,True,60,,7
+2026-07-09 03:30,2026-07-09 04:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.6,Shift Supervisor,True,45,,7
+2026-07-09 09:00,2026-07-09 09:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.2,,False,30,43,
+2026-07-09 11:15,2026-07-09 11:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.4,Night Operator,True,30,43,
+2026-07-09 14:30,2026-07-09 15:00,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.4,Night Operator,True,30,,7
+2026-07-10 00:45,2026-07-10 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.1,Day Refrigeration Tech,True,270,,7
+2026-07-10 01:00,2026-07-10 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.3,Night Operator,True,255,,7
+2026-07-10 02:15,2026-07-10 02:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.1,Shift Supervisor,True,30,,7
+2026-07-10 02:30,2026-07-10 03:15,Plant A,UF-3 QFM,High temp (SP+7F),41.8,Night Operator,True,45,,7
+2026-07-10 02:45,2026-07-10 03:15,Plant A,UF-4 QFM,High temp (SP+7F),39.3,Shift Supervisor,True,30,,7
+2026-07-10 03:00,2026-07-10 03:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.3,Night Operator,True,45,,7
+2026-07-10 07:15,2026-07-10 07:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Day Refrigeration Tech,True,30,,7
+2026-07-10 13:45,2026-07-10 14:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.8,,False,30,43,
+2026-07-10 16:45,2026-07-10 17:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,,False,30,,7
+2026-07-10 20:45,2026-07-10 21:15,Plant C,Front Middle Cooler,Cooler high temp (43F),44.1,Shift Supervisor,True,30,43,
+2026-07-11 00:45,2026-07-11 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.1,,False,270,,7
+2026-07-11 01:15,2026-07-11 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,Day Refrigeration Tech,True,225,,7
+2026-07-11 01:15,2026-07-11 04:00,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.7,Day Refrigeration Tech,True,165,,7
+2026-07-11 02:30,2026-07-11 03:15,Plant A,UF-4 QFM,High temp (SP+7F),40.6,,False,45,,7
+2026-07-11 02:30,2026-07-11 03:15,Plant A,UF-3 QFM,High temp (SP+7F),42.7,Shift Supervisor,True,45,,7
+2026-07-12 02:30,2026-07-12 03:15,Plant A,UF-4 QFM,High temp (SP+7F),45.7,Night Operator,True,45,,7
+2026-07-12 02:30,2026-07-12 03:30,Plant A,UF-3 QFM,High temp (SP+7F),48.2,Day Refrigeration Tech,True,60,,7
+2026-07-13 02:30,2026-07-13 03:15,Plant A,UF-3 QFM,High temp (SP+7F),45.5,Shift Supervisor,True,45,,7
+2026-07-13 02:45,2026-07-13 03:15,Plant A,UF-4 QFM,High temp (SP+7F),43.3,Night Operator,True,30,,7
+2026-07-13 06:30,2026-07-13 14:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),60.7,Shift Supervisor,True,450,32,
+2026-07-13 06:45,2026-07-13 11:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),53.4,,False,300,32,
+2026-07-13 09:30,2026-07-13 10:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Shift Supervisor,True,30,,7
+2026-07-13 10:45,2026-07-13 12:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,Night Operator,True,90,43,
+2026-07-13 18:45,2026-07-13 19:15,Plant C,Front Middle Cooler,Cooler high temp (43F),48.7,Night Operator,True,30,43,
+2026-07-14 00:45,2026-07-14 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Day Refrigeration Tech,True,270,,7
+2026-07-14 00:45,2026-07-14 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Night Operator,True,255,,7
+2026-07-14 02:30,2026-07-14 03:30,Plant A,UF-3 QFM,High temp (SP+7F),42.4,Night Operator,True,60,,7
+2026-07-14 02:45,2026-07-14 03:15,Plant A,UF-4 QFM,High temp (SP+7F),40.3,Day Refrigeration Tech,True,30,,7
+2026-07-14 05:00,2026-07-14 05:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.0,Night Operator,True,45,32,
+2026-07-14 07:30,2026-07-14 08:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.8,Night Operator,True,30,43,
+2026-07-14 08:00,2026-07-14 08:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.0,Shift Supervisor,True,45,,7
+2026-07-14 09:00,2026-07-14 11:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),40.9,Shift Supervisor,True,120,32,
+2026-07-14 09:00,2026-07-14 10:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.2,Shift Supervisor,True,60,32,
+2026-07-14 10:45,2026-07-14 11:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Night Operator,True,30,43,
+2026-07-14 13:15,2026-07-14 14:00,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.8,Night Operator,True,45,,7
+2026-07-14 17:00,2026-07-14 17:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Day Refrigeration Tech,True,45,,7
+2026-07-15 00:45,2026-07-15 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.8,Night Operator,True,270,,7
+2026-07-15 00:45,2026-07-15 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.9,Night Operator,True,255,,7
+2026-07-15 03:00,2026-07-15 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),43.3,Night Operator,True,105,,7
+2026-07-15 10:00,2026-07-15 15:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),50.4,Day Refrigeration Tech,True,330,32,
+2026-07-15 10:00,2026-07-15 14:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),47.4,Day Refrigeration Tech,True,255,32,
+2026-07-15 14:00,2026-07-15 14:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Night Operator,True,30,,7
+2026-07-15 14:30,2026-07-15 15:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Day Refrigeration Tech,True,30,,7
+2026-07-15 14:45,2026-07-15 15:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.1,,False,30,,7
+2026-07-15 16:00,2026-07-15 19:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),92.4,Night Operator,True,210,90,
+2026-07-15 16:00,2026-07-15 16:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.2,Shift Supervisor,True,30,32,
+2026-07-15 16:00,2026-07-15 16:30,Plant C,Front Middle Cooler,Cooler high temp (43F),49.5,Night Operator,True,30,43,
+2026-07-15 17:00,2026-07-15 17:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.1,Day Refrigeration Tech,True,30,,7
+2026-07-16 00:45,2026-07-16 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,,False,270,,7
+2026-07-16 00:45,2026-07-16 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.7,Day Refrigeration Tech,True,255,,7
+2026-07-16 06:00,2026-07-16 06:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,,False,30,,7
+2026-07-16 09:00,2026-07-16 09:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),33.6,,False,45,32,
+2026-07-16 14:15,2026-07-16 15:30,Plant A,UC-9/10 Cooler,High temp (SP+7F),44.3,Day Refrigeration Tech,True,75,,7
+2026-07-16 16:15,2026-07-16 18:15,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.5,,False,120,90,
+2026-07-16 19:45,2026-07-16 20:15,Plant C,Front Middle Cooler,Cooler high temp (43F),48.2,Day Refrigeration Tech,True,30,43,
+2026-07-17 00:45,2026-07-17 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,Night Operator,True,270,,7
+2026-07-17 01:15,2026-07-17 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.4,Night Operator,True,225,,7
+2026-07-17 07:00,2026-07-17 07:30,Plant C,Front Middle Cooler,Cooler high temp (43F),46.2,Day Refrigeration Tech,True,30,43,
+2026-07-17 11:45,2026-07-17 12:30,Plant C,Front Middle Cooler,Cooler high temp (43F),55.6,Day Refrigeration Tech,True,45,43,
+2026-07-17 13:30,2026-07-17 14:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.7,,False,30,43,
+2026-07-17 16:45,2026-07-17 17:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,30,,7
+2026-07-18 00:45,2026-07-18 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,Day Refrigeration Tech,True,270,,7
+2026-07-18 01:00,2026-07-18 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.6,Night Operator,True,240,,7
+2026-07-18 01:15,2026-07-18 02:00,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.1,Shift Supervisor,True,45,,7
+2026-07-20 08:00,2026-07-20 17:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),67.9,Day Refrigeration Tech,True,570,32,
+2026-07-20 08:15,2026-07-20 08:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.3,Shift Supervisor,True,30,43,
+2026-07-20 10:00,2026-07-20 15:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),59.4,,False,315,32,
+2026-07-20 15:00,2026-07-20 15:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Day Refrigeration Tech,True,30,,7
+2026-07-20 16:30,2026-07-20 17:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,45,,7
+2026-07-21 01:00,2026-07-21 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.4,Day Refrigeration Tech,True,255,,7
+2026-07-21 01:00,2026-07-21 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.3,Day Refrigeration Tech,True,240,,7
+2026-07-21 10:00,2026-07-21 10:30,Plant C,Front Middle Cooler,Cooler high temp (43F),48.2,Night Operator,True,30,43,
+2026-07-21 10:45,2026-07-21 11:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.5,Night Operator,True,30,43,
+2026-07-21 15:00,2026-07-21 15:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,30,,7
+2026-07-21 16:45,2026-07-21 17:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Night Operator,True,30,43,
+2026-07-22 00:00,2026-07-22 11:30,Plant C,Queso Cup Chiller,Cooler high temp (43F),47.6,Night Operator,True,690,43,
+2026-07-22 00:45,2026-07-22 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Night Operator,True,270,,7
+2026-07-22 01:00,2026-07-22 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Day Refrigeration Tech,True,240,,7
+2026-07-22 01:15,2026-07-22 01:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.1,Shift Supervisor,True,30,,7
+2026-07-22 06:45,2026-07-22 07:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.1,Night Operator,True,30,,7
+2026-07-22 17:45,2026-07-22 18:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Day Refrigeration Tech,True,30,43,
+2026-07-22 20:45,2026-07-22 21:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.7,Night Operator,True,30,43,
+2026-07-23 00:45,2026-07-23 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.9,Night Operator,True,270,,7
+2026-07-23 00:45,2026-07-23 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.3,Day Refrigeration Tech,True,255,,7
+2026-07-23 02:45,2026-07-23 04:30,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.6,Day Refrigeration Tech,True,105,,7
+2026-07-23 06:30,2026-07-23 07:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.5,Day Refrigeration Tech,True,30,43,
+2026-07-23 15:00,2026-07-23 15:30,Plant C,Front Middle Cooler,Cooler high temp (43F),46.1,Night Operator,True,30,43,
+2026-07-23 16:00,2026-07-23 16:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Shift Supervisor,True,30,,7
+2026-07-24 00:45,2026-07-24 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Day Refrigeration Tech,True,270,,7
+2026-07-24 01:00,2026-07-24 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.4,,False,240,,7
+2026-07-24 01:15,2026-07-24 01:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.4,Day Refrigeration Tech,True,30,,7
+2026-07-24 03:45,2026-07-24 05:00,Plant A,UC-7 Ready To Eat,High temp (SP+7F),43.5,Night Operator,True,75,,7
+2026-07-24 09:00,2026-07-24 09:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Night Operator,True,45,,7
+2026-07-24 15:45,2026-07-24 16:15,Plant C,Front Middle Cooler,Cooler high temp (43F),43.4,Night Operator,True,30,43,
+2026-07-24 20:15,2026-07-24 20:45,Plant C,Front Middle Cooler,Cooler high temp (43F),43.5,Day Refrigeration Tech,True,30,43,
+2026-07-25 00:45,2026-07-25 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.4,,False,270,,7
+2026-07-25 01:00,2026-07-25 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,,False,240,,7
+2026-07-26 13:45,2026-07-26 14:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.5,,False,60,,7
+2026-07-26 15:00,2026-07-26 15:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,30,,7
+2026-07-27 07:00,2026-07-27 09:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.7,Shift Supervisor,True,135,,7
+2026-07-27 08:00,2026-07-27 08:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.8,Day Refrigeration Tech,True,30,43,
+2026-07-27 09:15,2026-07-27 10:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),35.4,Night Operator,True,45,32,
+2026-07-27 10:30,2026-07-27 11:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.6,Day Refrigeration Tech,True,30,43,
+2026-07-27 14:30,2026-07-27 15:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.5,Shift Supervisor,True,30,43,
+2026-07-27 16:30,2026-07-27 17:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.9,Day Refrigeration Tech,True,30,43,
+2026-07-27 17:15,2026-07-27 17:45,Plant C,Front Middle Cooler,Cooler high temp (43F),47.8,Shift Supervisor,True,30,43,
+2026-07-27 20:30,2026-07-27 21:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Night Operator,True,60,,7
+2026-07-28 00:45,2026-07-28 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Shift Supervisor,True,270,,7
+2026-07-28 00:45,2026-07-28 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.0,Night Operator,True,255,,7
+2026-07-28 04:00,2026-07-28 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,45,,7
+2026-07-28 06:30,2026-07-28 07:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.8,Shift Supervisor,True,30,43,
+2026-07-28 07:30,2026-07-28 08:00,Plant C,Front Middle Cooler,Cooler high temp (43F),48.6,Day Refrigeration Tech,True,30,43,
+2026-07-28 09:00,2026-07-28 09:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,Night Operator,True,45,,7
+2026-07-28 11:00,2026-07-28 12:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.8,Shift Supervisor,True,105,,7
+2026-07-28 12:15,2026-07-28 12:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.6,Day Refrigeration Tech,True,30,43,
+2026-07-28 14:00,2026-07-28 14:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,30,,7
+2026-07-28 16:45,2026-07-28 17:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Day Refrigeration Tech,True,30,,7
+2026-07-29 00:45,2026-07-29 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.0,Shift Supervisor,True,270,,7
+2026-07-29 00:45,2026-07-29 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),46.1,Shift Supervisor,True,270,,7
+2026-07-29 01:15,2026-07-29 02:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.7,Day Refrigeration Tech,True,60,,7
+2026-07-29 10:15,2026-07-29 11:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Day Refrigeration Tech,True,45,,7
+2026-07-29 12:00,2026-07-29 12:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Day Refrigeration Tech,True,30,,7
+2026-07-29 13:00,2026-07-29 13:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-07-30 00:45,2026-07-30 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.6,Day Refrigeration Tech,True,270,,7
+2026-07-30 01:00,2026-07-30 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.7,Night Operator,True,240,,7
+2026-07-30 02:15,2026-07-30 03:30,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.8,Day Refrigeration Tech,True,75,,7
+2026-07-30 03:45,2026-07-30 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,Day Refrigeration Tech,True,60,,7
+2026-07-30 10:45,2026-07-30 11:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.0,Night Operator,True,30,43,
+2026-07-30 13:00,2026-07-30 13:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,30,,7
+2026-07-30 13:30,2026-07-30 14:00,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.4,Shift Supervisor,True,30,,7
+2026-07-30 14:45,2026-07-30 16:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.9,,False,105,,7
+2026-07-31 00:45,2026-07-31 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.0,Day Refrigeration Tech,True,270,,7
+2026-07-31 01:00,2026-07-31 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Day Refrigeration Tech,True,240,,7
+2026-07-31 09:30,2026-07-31 10:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.5,Day Refrigeration Tech,True,30,43,
+2026-07-31 13:15,2026-07-31 15:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.3,Shift Supervisor,True,105,,7
+2026-08-01 00:45,2026-08-01 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,Night Operator,True,270,,7
+2026-08-01 01:00,2026-08-01 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,,False,240,,7
+2026-08-02 18:15,2026-08-02 18:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.3,Night Operator,True,30,,7
+2026-08-03 10:30,2026-08-03 11:00,Plant C,Front Middle Cooler,Cooler high temp (43F),47.6,Shift Supervisor,True,30,43,
+2026-08-03 15:45,2026-08-03 17:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Shift Supervisor,True,105,,7
+2026-08-03 16:00,2026-08-03 17:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,90,,7
+2026-08-03 16:15,2026-08-03 19:00,Plant A,UC-1 Engine Room,Engine room high temp (90F),91.6,Day Refrigeration Tech,True,165,90,
+2026-08-03 18:15,2026-08-03 18:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.1,Night Operator,True,30,,7
+2026-08-03 19:45,2026-08-03 22:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.3,Day Refrigeration Tech,True,150,,7
+2026-08-04 00:45,2026-08-04 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.0,Shift Supervisor,True,270,,7
+2026-08-04 01:00,2026-08-04 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,,False,240,,7
+2026-08-04 04:15,2026-08-04 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.0,Shift Supervisor,True,30,,7
+2026-08-04 09:45,2026-08-04 10:15,Plant C,Front Middle Cooler,Cooler high temp (43F),43.5,,False,30,43,
+2026-08-04 11:45,2026-08-04 13:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),39.2,Shift Supervisor,True,105,32,
+2026-08-04 11:45,2026-08-04 12:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),33.4,Day Refrigeration Tech,True,60,32,
+2026-08-05 00:45,2026-08-05 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,,False,270,,7
+2026-08-05 01:00,2026-08-05 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Day Refrigeration Tech,True,240,,7
+2026-08-05 06:00,2026-08-05 06:30,Plant C,Front Middle Cooler,Cooler high temp (43F),43.4,Day Refrigeration Tech,True,30,43,
+2026-08-05 06:45,2026-08-05 07:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.5,Night Operator,True,60,32,
+2026-08-05 09:00,2026-08-05 19:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),55.3,Day Refrigeration Tech,True,615,32,
+2026-08-05 09:00,2026-08-05 10:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),35.5,Day Refrigeration Tech,True,75,32,
+2026-08-05 10:30,2026-08-05 14:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),50.7,Shift Supervisor,True,240,32,
+2026-08-05 15:15,2026-08-05 18:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),45.4,Shift Supervisor,True,180,32,
+2026-08-05 18:00,2026-08-05 18:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.5,Day Refrigeration Tech,True,30,,7
+2026-08-06 00:45,2026-08-06 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Night Operator,True,270,,7
+2026-08-06 01:00,2026-08-06 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.0,Shift Supervisor,True,240,,7
+2026-08-06 03:30,2026-08-06 04:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.3,Night Operator,True,45,,7
+2026-08-06 11:45,2026-08-06 12:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.4,Day Refrigeration Tech,True,60,32,
+2026-08-06 15:00,2026-08-06 16:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),35.9,Night Operator,True,105,32,
+2026-08-06 17:45,2026-08-06 18:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.1,Day Refrigeration Tech,True,45,90,
+2026-08-07 00:45,2026-08-07 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.0,Night Operator,True,270,,7
+2026-08-07 01:00,2026-08-07 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Night Operator,True,240,,7
+2026-08-07 01:15,2026-08-07 03:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),43.1,Night Operator,True,120,,7
+2026-08-07 06:00,2026-08-07 06:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,Shift Supervisor,True,30,,7
+2026-08-07 10:30,2026-08-07 11:00,Plant C,Front Middle Cooler,Cooler high temp (43F),52.4,Shift Supervisor,True,30,43,
+2026-08-07 15:30,2026-08-07 16:15,Plant C,Front Middle Cooler,Cooler high temp (43F),54.2,Shift Supervisor,True,45,43,
+2026-08-07 17:00,2026-08-07 18:15,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.1,Night Operator,True,75,90,
+2026-08-07 17:30,2026-08-07 20:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.8,Night Operator,True,150,,7
+2026-08-08 00:45,2026-08-08 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.3,Night Operator,True,270,,7
+2026-08-08 01:00,2026-08-08 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,,False,240,,7
+2026-08-10 17:00,2026-08-10 17:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.1,Night Operator,True,30,90,
+2026-08-10 19:15,2026-08-10 20:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.9,Shift Supervisor,True,75,,7
+2026-08-10 21:15,2026-08-10 22:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Night Operator,True,45,,7
+2026-08-11 00:45,2026-08-11 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.9,Shift Supervisor,True,270,,7
+2026-08-11 00:45,2026-08-11 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.3,Shift Supervisor,True,255,,7
+2026-08-11 06:45,2026-08-11 07:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Day Refrigeration Tech,True,30,,7
+2026-08-11 08:00,2026-08-11 08:30,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Day Refrigeration Tech,True,30,43,
+2026-08-11 12:30,2026-08-11 13:00,Plant C,Front Middle Cooler,Cooler high temp (43F),44.3,Day Refrigeration Tech,True,30,43,
+2026-08-12 00:45,2026-08-12 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Shift Supervisor,True,270,,7
+2026-08-12 00:45,2026-08-12 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.0,Day Refrigeration Tech,True,255,,7
+2026-08-12 07:00,2026-08-12 09:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),41.0,Night Operator,True,120,32,
+2026-08-12 07:00,2026-08-12 07:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),37.0,Day Refrigeration Tech,True,45,32,
+2026-08-12 14:15,2026-08-12 14:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.8,Night Operator,True,30,43,
+2026-08-12 14:30,2026-08-12 15:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.7,,False,60,,7
+2026-08-12 17:00,2026-08-12 17:30,Plant C,Front Middle Cooler,Cooler high temp (43F),45.7,,False,30,43,
+2026-08-12 17:30,2026-08-12 18:00,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.3,Shift Supervisor,True,30,90,
+2026-08-12 18:15,2026-08-12 19:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.4,Night Operator,True,60,,7
+2026-08-12 18:15,2026-08-12 18:45,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.3,Shift Supervisor,True,30,90,
+2026-08-13 00:45,2026-08-13 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.9,Day Refrigeration Tech,True,270,,7
+2026-08-13 01:00,2026-08-13 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.6,Night Operator,True,240,,7
+2026-08-13 01:45,2026-08-13 03:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.6,Day Refrigeration Tech,True,90,,7
+2026-08-13 06:45,2026-08-13 07:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Night Operator,True,30,43,
+2026-08-13 14:45,2026-08-13 20:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),92.6,Day Refrigeration Tech,True,345,90,
+2026-08-13 18:15,2026-08-13 18:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Night Operator,True,30,,7
+2026-08-14 00:45,2026-08-14 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Day Refrigeration Tech,True,270,,7
+2026-08-14 01:00,2026-08-14 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.6,Night Operator,True,255,,7
+2026-08-14 03:45,2026-08-14 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,,False,60,,7
+2026-08-14 09:45,2026-08-14 17:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),48.7,Shift Supervisor,True,480,32,
+2026-08-14 10:00,2026-08-14 12:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),39.2,Night Operator,True,120,32,
+2026-08-14 12:15,2026-08-14 14:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),42.7,Day Refrigeration Tech,True,120,32,
+2026-08-14 12:45,2026-08-14 21:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),96.8,Shift Supervisor,True,525,90,
+2026-08-14 15:30,2026-08-14 16:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.7,Night Operator,True,75,,7
+2026-08-14 15:45,2026-08-14 16:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),33.4,Night Operator,True,30,32,
+2026-08-14 15:45,2026-08-14 16:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Shift Supervisor,True,30,43,
+2026-08-14 17:00,2026-08-14 17:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.6,Night Operator,True,30,,7
+2026-08-14 17:45,2026-08-14 18:30,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.1,Day Refrigeration Tech,True,45,,7
+2026-08-14 18:45,2026-08-14 20:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.8,Night Operator,True,120,,7
+2026-08-14 19:15,2026-08-14 19:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.5,Day Refrigeration Tech,True,30,43,
+2026-08-15 00:45,2026-08-15 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Shift Supervisor,True,270,,7
+2026-08-15 00:45,2026-08-15 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.9,Night Operator,True,255,,7
+2026-08-15 03:45,2026-08-15 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,Day Refrigeration Tech,True,60,,7
+2026-08-15 13:30,2026-08-15 21:00,Plant A,UC-1 Engine Room,Engine room high temp (90F),96.0,Night Operator,True,450,90,
+2026-08-16 13:30,2026-08-16 21:15,Plant A,UC-1 Engine Room,Engine room high temp (90F),96.1,Day Refrigeration Tech,True,465,90,
+2026-08-16 14:45,2026-08-16 15:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-08-17 08:15,2026-08-17 09:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),39.1,Shift Supervisor,True,90,32,
+2026-08-17 10:30,2026-08-17 11:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.9,Night Operator,True,30,43,
+2026-08-17 13:30,2026-08-17 14:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-08-17 15:30,2026-08-17 16:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.6,Day Refrigeration Tech,True,60,32,
+2026-08-17 17:00,2026-08-17 17:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.4,Night Operator,True,30,43,
+2026-08-17 18:45,2026-08-17 19:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.7,Night Operator,True,30,43,
+2026-08-18 00:45,2026-08-18 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.7,,False,270,,7
+2026-08-18 01:00,2026-08-18 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,Night Operator,True,240,,7
+2026-08-18 13:15,2026-08-18 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Shift Supervisor,True,30,43,
+2026-08-18 16:30,2026-08-18 19:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),91.2,Day Refrigeration Tech,True,180,90,
+2026-08-18 16:30,2026-08-18 17:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Shift Supervisor,True,30,43,
+2026-08-18 19:30,2026-08-18 20:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.9,Night Operator,True,30,43,
+2026-08-19 00:45,2026-08-19 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.1,Day Refrigeration Tech,True,270,,7
+2026-08-19 01:15,2026-08-19 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Day Refrigeration Tech,True,225,,7
+2026-08-19 08:15,2026-08-19 09:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.1,Shift Supervisor,True,60,43,
+2026-08-19 09:15,2026-08-19 11:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),39.4,,False,150,32,
+2026-08-19 09:15,2026-08-19 09:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.7,Shift Supervisor,True,30,32,
+2026-08-19 10:00,2026-08-19 10:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),33.9,Night Operator,True,30,32,
+2026-08-19 12:45,2026-08-19 19:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),56.3,Night Operator,True,405,32,
+2026-08-19 12:45,2026-08-19 18:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),49.2,Shift Supervisor,True,330,32,
+2026-08-19 14:30,2026-08-19 20:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),93.1,Night Operator,True,360,90,
+2026-08-19 14:45,2026-08-19 15:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Shift Supervisor,True,30,43,
+2026-08-19 15:30,2026-08-19 16:00,Plant B,UF-4 Fin. Goods Freez.,Freezer high temp (8F),11.2,Shift Supervisor,True,30,8,
+2026-08-20 00:45,2026-08-20 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.4,Night Operator,True,270,,7
+2026-08-20 01:00,2026-08-20 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.9,Night Operator,True,225,,7
+2026-08-20 06:00,2026-08-20 06:30,Plant C,Front Middle Cooler,Cooler high temp (43F),46.2,Night Operator,True,30,43,
+2026-08-20 15:00,2026-08-20 15:30,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.6,Night Operator,True,30,,7
+2026-08-20 15:45,2026-08-20 19:15,Plant A,UC-1 Engine Room,Engine room high temp (90F),92.6,Day Refrigeration Tech,True,210,90,
+2026-08-20 17:45,2026-08-20 18:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.2,,False,30,43,
+2026-08-20 18:30,2026-08-20 19:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Night Operator,True,30,43,
+2026-08-21 00:45,2026-08-21 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Day Refrigeration Tech,True,270,,7
+2026-08-21 01:00,2026-08-21 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.6,Night Operator,True,240,,7
+2026-08-21 12:30,2026-08-21 13:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,Shift Supervisor,True,45,,7
+2026-08-21 14:45,2026-08-21 15:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.3,Day Refrigeration Tech,True,30,43,
+2026-08-21 15:30,2026-08-21 16:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.9,Day Refrigeration Tech,True,75,,7
+2026-08-21 15:45,2026-08-21 18:00,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.7,Night Operator,True,135,90,
+2026-08-22 00:45,2026-08-22 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),56.6,Day Refrigeration Tech,True,270,,7
+2026-08-22 01:00,2026-08-22 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.4,Night Operator,True,255,,7
+2026-08-23 14:45,2026-08-23 19:30,Plant A,UC-1 Engine Room,Engine room high temp (90F),92.8,Night Operator,True,285,90,
+2026-08-24 09:15,2026-08-24 09:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Night Operator,True,30,43,
+2026-08-24 15:00,2026-08-24 15:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Night Operator,True,30,43,
+2026-08-24 15:45,2026-08-24 16:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.2,Day Refrigeration Tech,True,30,43,
+2026-08-25 00:45,2026-08-25 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Shift Supervisor,True,270,,7
+2026-08-25 01:15,2026-08-25 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.5,Night Operator,True,225,,7
+2026-08-25 12:30,2026-08-25 13:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.0,Day Refrigeration Tech,True,30,43,
+2026-08-25 17:00,2026-08-25 17:30,Plant C,Front Middle Cooler,Cooler high temp (43F),45.4,Night Operator,True,30,43,
+2026-08-26 00:45,2026-08-26 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.7,Shift Supervisor,True,270,,7
+2026-08-26 01:00,2026-08-26 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.8,Night Operator,True,240,,7
+2026-08-26 10:45,2026-08-26 11:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.7,Night Operator,True,30,43,
+2026-08-26 16:15,2026-08-26 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.9,Night Operator,True,30,43,
+2026-08-26 17:15,2026-08-26 17:45,Plant A,UC-1 Engine Room,Engine room high temp (90F),90.2,Night Operator,True,30,90,
+2026-08-27 00:45,2026-08-27 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.6,Day Refrigeration Tech,True,270,,7
+2026-08-27 01:00,2026-08-27 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Day Refrigeration Tech,True,225,,7
+2026-08-27 10:00,2026-08-27 10:30,Plant C,Front Middle Cooler,Cooler high temp (43F),43.6,Day Refrigeration Tech,True,30,43,
+2026-08-27 14:30,2026-08-27 15:00,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.2,Day Refrigeration Tech,True,30,,7
+2026-08-27 19:45,2026-08-27 20:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Shift Supervisor,True,30,,7
+2026-08-28 00:45,2026-08-28 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Day Refrigeration Tech,True,270,,7
+2026-08-28 01:00,2026-08-28 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.0,,False,240,,7
+2026-08-28 12:15,2026-08-28 13:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Shift Supervisor,True,45,,7
+2026-08-28 13:15,2026-08-28 13:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Day Refrigeration Tech,True,30,,7
+2026-08-29 00:45,2026-08-29 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.7,Night Operator,True,270,,7
+2026-08-29 01:00,2026-08-29 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Night Operator,True,240,,7
+2026-08-31 08:00,2026-08-31 09:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),37.0,Night Operator,True,75,32,
+2026-08-31 10:45,2026-08-31 11:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.7,Shift Supervisor,True,30,43,
+2026-09-01 00:45,2026-09-01 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.3,,False,270,,7
+2026-09-01 01:15,2026-09-01 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.7,Shift Supervisor,True,225,,7
+2026-09-01 12:45,2026-09-01 13:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.1,Shift Supervisor,True,30,43,
+2026-09-02 00:45,2026-09-02 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.5,Night Operator,True,270,,7
+2026-09-02 01:00,2026-09-02 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.5,,False,240,,7
+2026-09-02 02:00,2026-09-02 02:30,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-09-02 06:00,2026-09-02 07:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Day Refrigeration Tech,True,60,,7
+2026-09-02 09:30,2026-09-02 18:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),53.7,Night Operator,True,510,32,
+2026-09-02 09:30,2026-09-02 10:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),38.7,Day Refrigeration Tech,True,60,32,
+2026-09-02 11:45,2026-09-02 16:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),49.3,Day Refrigeration Tech,True,285,32,
+2026-09-03 00:45,2026-09-03 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Day Refrigeration Tech,True,270,,7
+2026-09-03 01:15,2026-09-03 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.9,Day Refrigeration Tech,True,240,,7
+2026-09-03 07:45,2026-09-03 08:15,Plant C,Front Middle Cooler,Cooler high temp (43F),47.1,Shift Supervisor,True,30,43,
+2026-09-03 13:45,2026-09-03 14:15,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.6,Shift Supervisor,True,30,,7
+2026-09-03 15:30,2026-09-03 16:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.0,Day Refrigeration Tech,True,30,43,
+2026-09-04 00:45,2026-09-04 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.2,Shift Supervisor,True,270,,7
+2026-09-04 01:15,2026-09-04 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Day Refrigeration Tech,True,225,,7
+2026-09-04 08:30,2026-09-04 09:00,Plant C,Front Middle Cooler,Cooler high temp (43F),43.8,Day Refrigeration Tech,True,30,43,
+2026-09-05 00:45,2026-09-05 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.8,Night Operator,True,270,,7
+2026-09-05 00:45,2026-09-05 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.2,Day Refrigeration Tech,True,255,,7
+2026-09-08 09:30,2026-09-08 10:00,Plant C,Front Middle Cooler,Cooler high temp (43F),48.4,Night Operator,True,30,43,
+2026-09-09 00:45,2026-09-09 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.8,Day Refrigeration Tech,True,270,,7
+2026-09-09 01:15,2026-09-09 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.7,Night Operator,True,210,,7
+2026-09-09 16:15,2026-09-09 16:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.7,Day Refrigeration Tech,True,30,43,
+2026-09-10 00:45,2026-09-10 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.2,Shift Supervisor,True,270,,7
+2026-09-10 01:00,2026-09-10 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.1,,False,225,,7
+2026-09-10 08:15,2026-09-10 08:45,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.5,Shift Supervisor,True,30,,7
+2026-09-10 13:30,2026-09-10 14:00,Plant A,UC-9/10 Cooler,High temp (SP+7F),43.3,Day Refrigeration Tech,True,30,,7
+2026-09-10 14:00,2026-09-10 14:30,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.0,,False,30,,7
+2026-09-10 17:15,2026-09-10 18:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,45,,7
+2026-09-10 17:30,2026-09-10 18:00,Plant C,Front Middle Cooler,Cooler high temp (43F),45.5,Day Refrigeration Tech,True,30,43,
+2026-09-11 00:45,2026-09-11 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.1,Shift Supervisor,True,270,,7
+2026-09-11 01:00,2026-09-11 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Day Refrigeration Tech,True,240,,7
+2026-09-11 04:00,2026-09-11 04:45,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.5,Night Operator,True,45,,7
+2026-09-11 10:15,2026-09-11 10:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Night Operator,True,30,43,
+2026-09-11 12:00,2026-09-11 13:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),43.3,Shift Supervisor,True,60,,7
+2026-09-11 14:00,2026-09-11 14:30,Plant C,Front Middle Cooler,Cooler high temp (43F),50.3,Shift Supervisor,True,30,43,
+2026-09-12 00:45,2026-09-12 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.1,Day Refrigeration Tech,True,270,,7
+2026-09-12 01:00,2026-09-12 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,Night Operator,True,240,,7
+2026-09-12 04:00,2026-09-12 04:30,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.2,Night Operator,True,30,,7
+2026-09-14 12:15,2026-09-14 13:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.4,Day Refrigeration Tech,True,60,32,
+2026-09-14 12:15,2026-09-14 12:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.2,Day Refrigeration Tech,True,30,43,
+2026-09-14 13:30,2026-09-14 21:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),59.6,Night Operator,True,480,32,
+2026-09-14 13:30,2026-09-14 20:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),52.3,,False,390,32,
+2026-09-14 13:45,2026-09-14 14:15,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Shift Supervisor,True,30,43,
+2026-09-15 00:45,2026-09-15 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.9,Night Operator,True,270,,7
+2026-09-15 01:00,2026-09-15 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.2,Shift Supervisor,True,225,,7
+2026-09-15 08:30,2026-09-15 09:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,,False,30,,7
+2026-09-15 09:15,2026-09-15 09:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),34.0,Night Operator,True,30,32,
+2026-09-15 10:45,2026-09-15 14:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),39.3,Night Operator,True,225,32,
+2026-09-15 15:00,2026-09-15 19:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),43.3,Night Operator,True,285,32,
+2026-09-15 15:00,2026-09-15 16:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),35.0,Day Refrigeration Tech,True,60,32,
+2026-09-15 16:45,2026-09-15 17:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),38.0,Day Refrigeration Tech,True,60,32,
+2026-09-16 00:45,2026-09-16 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,Night Operator,True,270,,7
+2026-09-16 01:15,2026-09-16 05:15,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.8,Shift Supervisor,True,240,,7
+2026-09-16 06:00,2026-09-16 06:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Day Refrigeration Tech,True,30,43,
+2026-09-16 08:30,2026-09-16 09:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),33.9,Night Operator,True,30,32,
+2026-09-16 10:30,2026-09-16 11:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.7,Night Operator,True,45,,7
+2026-09-16 11:00,2026-09-16 19:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),62.4,Night Operator,True,510,32,
+2026-09-16 11:00,2026-09-16 18:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),55.7,Shift Supervisor,True,420,32,
+2026-09-16 13:45,2026-09-16 14:15,Plant C,Front Middle Cooler,Cooler high temp (43F),45.3,Night Operator,True,30,43,
+2026-09-17 00:45,2026-09-17 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.8,Night Operator,True,270,,7
+2026-09-17 01:00,2026-09-17 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.6,Day Refrigeration Tech,True,240,,7
+2026-09-17 10:30,2026-09-17 11:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.6,Night Operator,True,30,,7
+2026-09-17 12:15,2026-09-17 13:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.3,Night Operator,True,45,,7
+2026-09-17 20:30,2026-09-17 21:00,Plant C,Front Middle Cooler,Cooler high temp (43F),44.0,Day Refrigeration Tech,True,30,43,
+2026-09-18 00:45,2026-09-18 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.0,Day Refrigeration Tech,True,270,,7
+2026-09-18 01:00,2026-09-18 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.1,Night Operator,True,240,,7
+2026-09-18 11:45,2026-09-18 13:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),36.7,Night Operator,True,105,32,
+2026-09-18 15:30,2026-09-18 16:00,Plant C,Front Middle Cooler,Cooler high temp (43F),46.4,Shift Supervisor,True,30,43,
+2026-09-18 16:15,2026-09-18 17:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),38.2,Night Operator,True,75,32,
+2026-09-18 16:15,2026-09-18 16:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),33.6,Day Refrigeration Tech,True,30,32,
+2026-09-19 00:45,2026-09-19 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,Night Operator,True,270,,7
+2026-09-19 01:15,2026-09-19 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,Day Refrigeration Tech,True,225,,7
+2026-09-21 08:00,2026-09-21 08:30,Plant C,Front Middle Cooler,Cooler high temp (43F),44.4,Day Refrigeration Tech,True,30,43,
+2026-09-21 09:00,2026-09-21 11:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),40.3,Night Operator,True,150,32,
+2026-09-21 12:00,2026-09-21 20:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),69.8,,False,495,32,
+2026-09-21 12:00,2026-09-21 19:00,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),63.9,Night Operator,True,420,32,
+2026-09-22 00:45,2026-09-22 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,Day Refrigeration Tech,True,270,,7
+2026-09-22 01:00,2026-09-22 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.3,,False,240,,7
+2026-09-22 09:15,2026-09-22 09:45,Plant C,Front Middle Cooler,Cooler high temp (43F),44.3,Day Refrigeration Tech,True,30,43,
+2026-09-22 09:30,2026-09-22 10:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.4,Shift Supervisor,True,30,,7
+2026-09-22 18:15,2026-09-22 18:45,Plant C,Front Middle Cooler,Cooler high temp (43F),45.4,Day Refrigeration Tech,True,30,43,
+2026-09-23 00:45,2026-09-23 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.5,Shift Supervisor,True,270,,7
+2026-09-23 00:45,2026-09-23 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.7,Day Refrigeration Tech,True,255,,7
+2026-09-23 03:45,2026-09-23 04:15,Plant A,UC-7 Ready To Eat,High temp (SP+7F),42.3,Night Operator,True,30,,7
+2026-09-23 10:15,2026-09-23 10:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.6,Shift Supervisor,True,30,43,
+2026-09-23 13:15,2026-09-23 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),46.0,Day Refrigeration Tech,True,30,43,
+2026-09-23 15:30,2026-09-23 16:15,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),37.4,Day Refrigeration Tech,True,45,32,
+2026-09-23 16:30,2026-09-23 17:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),32.4,Night Operator,True,30,32,
+2026-09-23 17:30,2026-09-23 18:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.8,Day Refrigeration Tech,True,45,,7
+2026-09-24 00:45,2026-09-24 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),55.6,Shift Supervisor,True,270,,7
+2026-09-24 01:00,2026-09-24 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),45.5,Shift Supervisor,True,240,,7
+2026-09-24 02:45,2026-09-24 03:15,Plant A,UF-4 QFM,High temp (SP+7F),28.7,Night Operator,True,30,,7
+2026-09-24 02:45,2026-09-24 03:15,Plant A,UF-3 QFM,High temp (SP+7F),29.9,Shift Supervisor,True,30,,7
+2026-09-24 12:45,2026-09-24 13:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.3,Night Operator,True,30,,7
+2026-09-24 13:00,2026-09-24 13:45,Plant C,Front Middle Cooler,Cooler high temp (43F),57.8,Shift Supervisor,True,45,43,
+2026-09-24 14:15,2026-09-24 14:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),42.5,,False,30,,7
+2026-09-24 20:30,2026-09-24 21:00,Plant C,Front Middle Cooler,Cooler high temp (43F),56.4,Day Refrigeration Tech,True,30,43,
+2026-09-25 00:45,2026-09-25 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.6,Night Operator,True,270,,7
+2026-09-25 01:00,2026-09-25 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.7,Shift Supervisor,True,240,,7
+2026-09-25 02:45,2026-09-25 03:15,Plant A,UF-4 QFM,High temp (SP+7F),31.3,Day Refrigeration Tech,True,30,,7
+2026-09-25 02:45,2026-09-25 03:15,Plant A,UF-3 QFM,High temp (SP+7F),32.8,Shift Supervisor,True,30,,7
+2026-09-26 00:45,2026-09-26 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.7,Day Refrigeration Tech,True,270,,7
+2026-09-26 01:15,2026-09-26 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),43.2,Night Operator,True,225,,7
+2026-09-26 02:45,2026-09-26 03:15,Plant A,UF-3 QFM,High temp (SP+7F),30.8,Night Operator,True,30,,7
+2026-09-28 02:45,2026-09-28 03:15,Plant A,UF-3 QFM,High temp (SP+7F),32.1,Shift Supervisor,True,30,,7
+2026-09-28 07:15,2026-09-28 07:45,Plant C,Front Middle Cooler,Cooler high temp (43F),57.5,Night Operator,True,30,43,
+2026-09-28 10:15,2026-09-28 12:00,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),40.0,Shift Supervisor,True,105,32,
+2026-09-28 10:15,2026-09-28 11:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.0,Night Operator,True,60,32,
+2026-09-28 12:45,2026-09-28 19:45,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),57.9,Night Operator,True,420,32,
+2026-09-28 12:45,2026-09-28 13:15,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),34.9,Night Operator,True,30,32,
+2026-09-28 13:30,2026-09-28 17:30,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),50.3,Night Operator,True,240,32,
+2026-09-29 00:45,2026-09-29 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),53.8,Shift Supervisor,True,270,,7
+2026-09-29 01:15,2026-09-29 04:45,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.1,Night Operator,True,210,,7
+2026-09-29 02:45,2026-09-29 03:15,Plant A,UF-3 QFM,High temp (SP+7F),31.6,Night Operator,True,30,,7
+2026-09-29 09:15,2026-09-29 10:00,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),42.6,Day Refrigeration Tech,True,45,,7
+2026-09-29 20:00,2026-09-29 20:30,Plant C,Front Middle Cooler,Cooler high temp (43F),46.8,Night Operator,True,30,43,
+2026-09-30 00:45,2026-09-30 05:15,Plant A,UC-3/4 Pre-Weigh,High temp (SP+7F),54.7,Day Refrigeration Tech,True,270,,7
+2026-09-30 01:00,2026-09-30 05:00,Plant A,UC-6 Ready To Eat,High temp (SP+7F),44.7,Shift Supervisor,True,240,,7
+2026-09-30 10:15,2026-09-30 18:30,Plant B,UF-1 Ingr. Freezer,Freezer high temp (32F),64.3,Shift Supervisor,True,495,32,
+2026-09-30 10:45,2026-09-30 16:45,Plant B,UF-2 Ingr. Freezer,Freezer high temp (32F),60.3,Night Operator,True,360,32,
+2026-09-30 13:45,2026-09-30 14:15,Plant C,Front Middle Cooler,Cooler high temp (43F),44.4,Shift Supervisor,True,30,43,
+2026-09-30 15:00,2026-09-30 15:30,Plant C,Front Middle Cooler,Cooler high temp (43F),48.2,Shift Supervisor,True,30,43,

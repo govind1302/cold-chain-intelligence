@@ -1,0 +1,86 @@
+plant,point_id,point,point_label,report,unit,is_setpoint,measures_point,first_date,last_date,n_days,n_hours,n_flagged,clean_median,clean_p05,clean_p95,pct_flagged
+Plant B,discharge_pres_c01,Discharge Pres. C01,Discharge Pres. C01,Compressor 1 Readings,psig,False,,2026-04-01,2026-09-30,155,3720,0,143.3,23.99,167.4,0.0
+Plant B,discharge_pres_c02,Discharge Pres. C02,Discharge Pres. C02,Compressor 2,psig,False,,2026-04-01,2026-09-30,154,3696,0,148.8,27.9,167.12,0.0
+Plant B,discharge_pres_c03,Discharge Pres. C03,Discharge Pres. C03,Compressor 3,psig,False,,2026-04-01,2026-09-30,154,3696,0,26.4,24.2,28.52,0.0
+Plant B,discharge_pres_c04,Discharge Pres. C04,Discharge Pres. C04,Compressor 4,psig,False,,2026-04-01,2026-09-30,154,3696,0,27.0,24.6,29.1,0.0
+Plant B,discharge_pressure,Discharge Pressure,Discharge Pressure,Area Temperatures And Vessels,psig,False,,2026-04-01,2026-09-30,160,3840,0,152.0,139.0,164.8,0.0
+Plant B,discharge_temp_c01,Discharge Temp. C01,Discharge Temp. C01,Compressor 1 Readings,degF,False,,2026-04-01,2026-09-30,155,3720,0,169.5,77.1,185.6,0.0
+Plant B,discharge_temp_c02,Discharge Temp. C02,Discharge Temp. C02,Compressor 2,degF,False,,2026-04-01,2026-09-30,154,3696,0,173.5,78.4,187.4,0.0
+Plant B,discharge_temp_c03,Discharge Temp. C03,Discharge Temp. C03,Compressor 3,degF,False,,2026-04-01,2026-09-30,154,3696,0,141.7,137.9,146.2,0.0
+Plant B,discharge_temp_c04,Discharge Temp. C04,Discharge Temp. C04,Compressor 4,degF,False,,2026-04-01,2026-09-30,154,3696,0,85.2,76.3,97.43,0.0
+Plant B,engine_room_temp,Engine Room Temp.,Engine Room Temp.,Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,158,3792,0,76.6,67.66,86.34,0.0
+Plant B,filter_diff_pres_c01,Filter Diff. Pres. C01,Filter Diff. Pres. C01,Compressor 1 Readings,psid,False,,2026-04-01,2026-09-30,155,3720,0,1.2,0.0,1.6,0.0
+Plant B,filter_diff_pres_c02,Filter Diff. Pres. C02,Filter Diff. Pres. C02,Compressor 2,psid,False,,2026-04-01,2026-09-30,154,3696,0,1.3,0.0,7.6,0.0
+Plant B,filter_diff_pres_c03,Filter Diff. Pres. C03,Filter Diff. Pres. C03,Compressor 3,psid,False,,2026-04-01,2026-09-30,154,3696,0,1.1,0.9,1.3,0.0
+Plant B,filter_diff_pres_c04,Filter Diff. Pres. C04,Filter Diff. Pres. C04,Compressor 4,psid,False,,2026-04-01,2026-09-30,154,3696,0,0.1,0.0,0.2,0.0
+Plant B,motor_load_c01,Motor Load C01,Motor Load C01,Compressor 1 Readings,pct_FLA,False,,2026-04-01,2026-09-30,155,3720,0,47.6,0.0,91.9,0.0
+Plant B,motor_load_c02,Motor Load C02,Motor Load C02,Compressor 2,pct_FLA,False,,2026-04-01,2026-09-30,154,3696,0,57.8,0.0,92.6,0.0
+Plant B,motor_load_c03,Motor Load C03,Motor Load C03,Compressor 3,pct_FLA,False,,2026-04-01,2026-09-30,154,3696,0,87.8,78.0,95.82,0.0
+Plant B,motor_load_c04,Motor Load C04,Motor Load C04,Compressor 4,pct_FLA,False,,2026-04-01,2026-09-30,154,3696,0,0.0,0.0,0.0,0.0
+Plant B,oil_pump_pres_c01,Oil Pump Pres. C01,Oil Pump Pres. C01,Compressor 1 Readings,psig,False,,2026-04-01,2026-09-30,155,3720,0,135.9,24.2,160.3,0.0
+Plant B,oil_pump_pres_c02,Oil Pump Pres. C02,Oil Pump Pres. C02,Compressor 2,psig,False,,2026-04-01,2026-09-30,154,3696,0,140.35,28.2,159.4,0.0
+Plant B,oil_pump_pres_c03,Oil Pump Pres. C03,Oil Pump Pres. C03,Compressor 3,psig,False,,2026-04-01,2026-09-30,154,3696,0,54.3,51.2,57.1,0.0
+Plant B,oil_pump_pres_c04,Oil Pump Pres. C04,Oil Pump Pres. C04,Compressor 4,psig,False,,2026-04-01,2026-09-30,154,3696,0,27.4,25.0,29.6,0.0
+Plant B,oil_sep_temp_c01,Oil Sep. Temp. C01,Oil Sep. Temp. C01,Compressor 1 Readings,degF,False,,2026-04-01,2026-09-30,155,3720,0,159.6,82.1,167.0,0.0
+Plant B,oil_sep_temp_c02,Oil Sep. Temp. C02,Oil Sep. Temp. C02,Compressor 2,degF,False,,2026-04-01,2026-09-30,154,3696,0,160.2,84.2,164.9,0.0
+Plant B,oil_sep_temp_c03,Oil Sep. Temp. C03,Oil Sep. Temp. C03,Compressor 3,degF,False,,2026-04-01,2026-09-30,154,3696,0,120.0,116.6,124.1,0.0
+Plant B,oil_sep_temp_c04,Oil Sep. Temp. C04,Oil Sep. Temp. C04,Compressor 4,degF,False,,2026-04-01,2026-09-30,154,3696,0,92.4,83.4,105.9,0.0
+Plant B,oil_temp_c01,Oil Temp. C01,Oil Temp. C01,Compressor 1 Readings,degF,False,,2026-04-01,2026-09-30,155,3720,0,124.8,70.3,129.1,0.0
+Plant B,oil_temp_c02,Oil Temp. C02,Oil Temp. C02,Compressor 2,degF,False,,2026-04-01,2026-09-30,154,3696,0,125.7,70.8,129.2,0.0
+Plant B,oil_temp_c03,Oil Temp. C03,Oil Temp. C03,Compressor 3,degF,False,,2026-04-01,2026-09-30,154,3696,0,112.0,109.9,114.4,0.0
+Plant B,oil_temp_c04,Oil Temp. C04,Oil Temp. C04,Compressor 4,degF,False,,2026-04-01,2026-09-30,154,3696,0,77.35,68.4,88.6,0.0
+Plant B,sf_1_spiral_freezer_1,SF-1 Spiral Freezer 1,SF-1 Spiral Freezer 1,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,-27.0,-34.4,67.4,0.0
+Plant B,sf_2_spiral_freezer_2,SF-2 Spiral Freezer 2,SF-2 Spiral Freezer 2,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,-26.5,-32.7,67.3,0.0
+Plant B,slide_valve_c01,Slide Valve *C01,Slide Valve *C01,Compressor 1 Readings,pct_open,False,,2026-04-01,2026-09-30,155,3720,0,39.9,0.0,100.0,0.0
+Plant B,slide_valve_c02,Slide Valve *C02,Slide Valve *C02,Compressor 2,pct_open,False,,2026-04-01,2026-09-30,154,3696,0,53.95,0.0,100.0,0.0
+Plant B,slide_valve_c03,Slide Valve *C03,Slide Valve *C03,Compressor 3,pct_open,False,,2026-04-01,2026-09-30,154,3696,0,92.2,80.18,100.0,0.0
+Plant B,slide_valve_c04,Slide Valve *C04,Slide Valve *C04,Compressor 4,pct_open,False,,2026-04-01,2026-09-30,154,3696,0,0.0,0.0,0.0,0.0
+Plant B,spt_engine_room_temp,SPT Engine Room Temp.,SPT Engine Room Temp.,Valve Group Report w/Setpoints,degF,True,Engine Room Temp.,2026-04-01,2026-09-30,158,3792,3696,74.0,74.0,74.0,97.47
+Plant B,spt_sf_1_spiral_freeze,SPT SF-1 Spiral Freeze,SPT SF-1 Spiral Freeze,Valve Group Report w/Setpoints,degF,True,SF-1 Spiral Freezer 1,2026-04-01,2026-09-30,158,3792,3696,-40.0,-40.0,-40.0,97.47
+Plant B,spt_sf_2_spiral_freeze,SPT SF-2 Spiral Freeze,SPT SF-2 Spiral Freeze,Valve Group Report w/Setpoints,degF,True,SF-2 Spiral Freezer 2,2026-04-01,2026-09-30,158,3792,3696,-40.0,-40.0,-40.0,97.47
+Plant B,spt_uc_10_ingred_cool,SPT UC-10 Ingred. Cool,SPT UC-10 Ingred. Cool,Valve Group Report w/Setpoints,degF,True,UC-10 Ingred. Cooler,2026-04-01,2026-09-30,158,3792,3696,34.0,34.0,34.0,97.47
+Plant B,spt_uc_11_ingred_cool,SPT UC-11 Ingred. Cool,SPT UC-11 Ingred. Cool,Valve Group Report w/Setpoints,degF,True,UC-11 Ingred. Cooler,2026-04-01,2026-09-30,158,3792,3696,34.0,34.0,34.0,97.47
+Plant B,spt_uc_12_maint_shop,SPT UC-12 Maint. Shop,SPT UC-12 Maint. Shop,Valve Group Report w/Setpoints,degF,True,UC-12 Maint. Shop,2026-04-01,2026-09-30,158,3792,3696,68.0,68.0,68.0,97.47
+Plant B,spt_uc_1_cook_room,SPT UC-1 Cook Room,SPT UC-1 Cook Room,Valve Group Report w/Setpoints,degF,True,UC-1 Cook Room,2026-04-01,2026-09-30,158,3792,3696,47.0,47.0,47.0,97.47
+Plant B,spt_uc_2_cook_room,SPT UC-2 Cook Room,SPT UC-2 Cook Room,Valve Group Report w/Setpoints,degF,True,UC-2 Cook Room,2026-04-01,2026-09-30,158,3792,3696,47.0,47.0,47.0,97.47
+Plant B,spt_uc_3_filling_room,SPT UC-3 Filling Room,SPT UC-3 Filling Room,Valve Group Report w/Setpoints,degF,True,UC-3 Filling Room,2026-04-01,2026-09-30,158,3792,3696,55.0,45.0,55.0,97.47
+Plant B,spt_uc_4_filling_room,SPT UC-4 Filling Room,SPT UC-4 Filling Room,Valve Group Report w/Setpoints,degF,True,UC-4 Filling Room,2026-04-01,2026-09-30,158,3792,3696,50.0,45.0,55.0,97.47
+Plant B,spt_uc_5_packing,SPT UC-5 Packing,SPT UC-5 Packing,Valve Group Report w/Setpoints,degF,True,UC-5 Packing,2026-04-01,2026-09-30,158,3792,3696,55.0,55.0,60.0,97.47
+Plant B,spt_uc_6_boxing_and_do,SPT UC-6 Boxing and Do,SPT UC-6 Boxing and Do,Valve Group Report w/Setpoints,degF,True,UC-6 Boxing and Dock,2026-04-01,2026-09-30,158,3792,3696,70.0,70.0,90.0,97.47
+Plant B,spt_uc_7_boxing_and_do,SPT UC-7 Boxing And Do,SPT UC-7 Boxing And Do,Valve Group Report w/Setpoints,degF,True,UC-7 Boxing And Dock,2026-04-01,2026-09-30,158,3792,3696,70.0,70.0,90.0,97.47
+Plant B,spt_uc_8_fin_goods_co,SPT UC-8 Fin. Goods Co,SPT UC-8 Fin. Goods Co,Valve Group Report w/Setpoints,degF,True,UC-8 Fin. Goods Cooler,2026-04-01,2026-09-30,158,3792,3696,34.0,34.0,34.0,97.47
+Plant B,spt_uc_9_fin_goods_co,SPT UC-9 Fin. Goods Co,SPT UC-9 Fin. Goods Co,Valve Group Report w/Setpoints,degF,True,UC-9 Fin. Goods Cooler,2026-04-01,2026-09-30,158,3792,3696,34.0,34.0,34.0,97.47
+Plant B,spt_uf_1_ingr_freezer,SPT UF-1 Ingr. Freezer,SPT UF-1 Ingr. Freezer,Valve Group Report w/Setpoints,degF,True,UF-1 Ingr. Freezer,2026-04-01,2026-09-30,158,3792,3696,-5.0,-5.0,-5.0,97.47
+Plant B,spt_uf_2_ingr_freezer,SPT UF-2 Ingr. Freezer,SPT UF-2 Ingr. Freezer,Valve Group Report w/Setpoints,degF,True,UF-2 Ingr. Freezer,2026-04-01,2026-09-30,158,3792,3696,-5.0,-5.0,-5.0,97.47
+Plant B,spt_uf_3_fin_goods_fr,SPT UF-3 Fin. Goods Fr,SPT UF-3 Fin. Goods Fr,Valve Group Report w/Setpoints,degF,True,UF-3 Fin. Goods Freez.,2026-04-01,2026-09-30,158,3792,3696,-5.0,-5.0,-5.0,97.47
+Plant B,spt_uf_4_fin_goods_fr,SPT UF-4 Fin. Goods Fr,SPT UF-4 Fin. Goods Fr,Valve Group Report w/Setpoints,degF,True,UF-4 Fin. Goods Freez.,2026-04-01,2026-09-30,158,3792,3696,-5.0,-5.0,-5.0,97.47
+Plant B,suction_pres_c01,Suction Pres. C01,Suction Pres. C01,Compressor 1 Readings,psig,False,,2026-04-01,2026-09-30,155,3720,0,25.9,21.2,29.2,0.0
+Plant B,suction_pres_c02,Suction Pres. C02,Suction Pres. C02,Compressor 2,psig,False,,2026-04-01,2026-09-30,154,3696,0,25.7,22.8,29.2,0.0
+Plant B,suction_pres_c03,Suction Pres. C03,Suction Pres. C03,Compressor 3,psig,False,,2026-04-01,2026-09-30,154,3696,0,-4.8,-6.2,-3.4,0.0
+Plant B,suction_pres_c04,Suction Pres. C04,Suction Pres. C04,Compressor 4,psig,False,,2026-04-01,2026-09-30,154,3696,0,27.0,17.27,29.0,0.0
+Plant B,suction_temp_c01,Suction Temp. C01,Suction Temp. C01,Compressor 1 Readings,degF,False,,2026-04-01,2026-09-30,155,3720,0,17.6,15.6,79.9,0.0
+Plant B,suction_temp_c02,Suction Temp. C02,Suction Temp. C02,Compressor 2,degF,False,,2026-04-01,2026-09-30,154,3696,0,17.1,15.58,79.43,0.0
+Plant B,suction_temp_c03,Suction Temp. C03,Suction Temp. C03,Compressor 3,degF,False,,2026-04-01,2026-09-30,154,3696,0,-22.0,-23.8,-20.2,0.0
+Plant B,suction_temp_c04,Suction Temp. C04,Suction Temp. C04,Compressor 4,degF,False,,2026-04-01,2026-09-30,154,3696,0,73.6,63.8,83.6,0.0
+Plant B,uc_10_ingred_cooler,UC-10 Ingred. Cooler,UC-10 Ingred. Cooler,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,35.3,34.4,36.5,0.0
+Plant B,uc_11_ingred_cooler,UC-11 Ingred. Cooler,UC-11 Ingred. Cooler,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,34.3,33.4,35.4,0.0
+Plant B,uc_12_maint_shop,UC-12 Maint. Shop,UC-12 Maint. Shop,Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,158,3792,0,71.2,67.9,74.7,0.0
+Plant B,uc_1_cook_room,UC-1 Cook Room,UC-1 Cook Room,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,70.4,65.8,75.1,0.0
+Plant B,uc_2_cook_room,UC-2 Cook Room,UC-2 Cook Room,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,68.6,63.9,73.5,0.0
+Plant B,uc_3_filling_room,UC-3 Filling Room,UC-3 Filling Room,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,54.1,49.8,58.2,0.0
+Plant B,uc_4_filling_room,UC-4 Filling Room,UC-4 Filling Room,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,528,56.2,51.7,60.7,6.92
+Plant B,uc_5_packing,UC-5 Packing,UC-5 Packing,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,65.7,63.0,68.4,0.0
+Plant B,uc_6_boxing_and_dock,UC-6 Boxing and Dock,UC-6 Boxing and Dock,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,69.5,64.1,75.3,0.0
+Plant B,uc_7_boxing_and_dock,UC-7 Boxing And Dock,UC-7 Boxing And Dock,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,7536,70.0,68.6,78.0,98.74
+Plant B,uc_8_fin_goods_cooler,UC-8 Fin. Goods Cooler,UC-8 Fin. Goods Cooler,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,34.2,33.1,36.9,0.0
+Plant B,uc_9_fin_goods_cooler,UC-9 Fin. Goods Cooler,UC-9 Fin. Goods Cooler,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,34.2,33.2,37.1,0.0
+Plant B,uf_1_ingr_freezer,UF-1 Ingr. Freezer,UF-1 Ingr. Freezer,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,12.2,7.8,33.8,0.0
+Plant B,uf_2_ingr_freezer,UF-2 Ingr. Freezer,UF-2 Ingr. Freezer,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,6.5,0.8,27.84,0.0
+Plant B,uf_3_fin_goods_freez,UF-3 Fin. Goods Freez.,UF-3 Fin. Goods Freez.,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,-2.8,-5.0,4.4,0.0
+Plant B,uf_4_fin_goods_freez,UF-4 Fin. Goods Freez.,UF-4 Fin. Goods Freez.,Area Temperatures And Vessels; Valve Group Report w/Setpoints,degF,False,,2026-04-01,2026-09-30,160,7632,0,-0.4,-2.6,6.84,0.0
+Plant B,v_2_intercooler_pres,V-2 Intercooler Pres.,V-2 Intercooler Pres.,Area Temperatures And Vessels,psig,False,,2026-04-01,2026-09-30,160,3840,0,25.6,23.7,27.6,0.0
+Plant B,v_2_liquid_level,V-2 Liquid level,V-2 Liquid level,Area Temperatures And Vessels,pct_level,False,,2026-04-01,2026-09-30,160,3840,0,38.1,33.9,42.3,0.0
+Plant B,v_2_transfer_count,V-2 Transfer Count,V-2 Transfer Count,Area Temperatures And Vessels,cycles,False,,2026-04-01,2026-09-30,160,3840,0,0.0,0.0,1.0,0.0
+Plant B,v_4_liquid_level,V-4 Liquid Level,V-4 Liquid Level,Area Temperatures And Vessels,pct_level,False,,2026-04-01,2026-09-30,160,3840,0,30.0,27.6,32.6,0.0
+Plant B,v_4_recirculator_pres,V-4 Recirculator Pres.,V-4 Recirculator Pres.,Area Temperatures And Vessels,psig,False,,2026-04-01,2026-09-30,160,3840,0,-4.8,-6.1,-3.4,0.0
+Plant B,v_4_transfer_count,V-4 Transfer Count,V-4 Transfer Count,Area Temperatures And Vessels,cycles,False,,2026-04-01,2026-09-30,160,3840,0,0.0,0.0,2.0,0.0

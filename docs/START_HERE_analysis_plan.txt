@@ -1,0 +1,52 @@
+WHERE TO START
+==============
+1. UNDERSTAND WHAT YOU HAVE (30 minutes)
+   - Real data: June 2026 only. 8 days (A, B), 6 days (C). Six human reviews exist for it.
+   - Simulated data: Apr-May and Jul-Sep. The ops records (work orders, shift log, detectors,
+     dock, receiving, schedule, weather, energy) describe THESE months, not June.
+   - So June is your realism check; the simulated months are where you have ground truth
+     (known_events_from_ops_records.csv, 26 events) to score detection (PRD R12 / success criteria).
+
+2. RECONCILE BEFORE MODELING (first day)
+   - Read source_conflicts_and_review_errors.csv. Two errors in the 06-09 review (report count,
+     a psig value written as degF at the wrong hour), and several seams where June and the
+     simulated months disagree. Decide which source wins in each case (suggested: controller data).
+   - Read review_claims_check.csv: 309 numbers quoted in the reviews were checked; all match raw
+     data (296 exactly; 13 more once review rounding, hourly-vs-summary quoting and a 4-minute time
+     difference are allowed for). That is the PRD "every number has a
+     source" test, already run for numbers; the 2 errors above are text/count errors.
+
+3. EXPLORATORY ANALYSIS (days 1-3), in this order
+   a. *_coverage.csv + cleaning_log.csv: how much is missing/flagged, per plant.
+   b. *_point_inventory.csv: pick the ~15 points per plant that matter (rooms, freezers, HPR,
+      engine room, discharge pressure, compressors). Plant B and C have no usable setpoints.
+   c. Hour-of-day profiles per point from value_clean. Check regime points separately
+      (spiral freezers on/off, compressor lead/lag weeks, defrost/sanitation windows).
+   d. Overlay ops records on the profiles: work orders, shift log, dock events, production
+      schedule, weather. Reproduce events E03, E06, E10, E21, E23, E25 by eye first.
+
+4. BASELINE MODELS (week 2, matches PRD scope: rolling median + spread by hour)
+   - Train on Apr-May, validate on real June, test on Jul-Sep.
+   - Add context features: engine room minus ambient, dock door open minutes near each cooler,
+     scheduled production/sanitation, lead compressor.
+   - Score against the 26 events: sudden (E01, E02, E05), slow (E03, E04, E10, E25), sensor
+     faults to suppress (E07, E12, E13, E21, E22), data gaps to suppress (E08, E14, E26),
+     planned work to suppress (E15, E19).
+
+5. THE TRAPS (things that look like problems but are not, or the reverse)
+   - 459.6 / -459.67 = dead sensor. Zero-fill after a controller outage = data gap, not a cold room.
+   - A flat line for a whole day on a temperature = stuck sensor (UC-25), not a healthy room.
+   - Back Dock 150-283 F = failing sensor. Compressor idle values during lead/lag swaps = normal.
+   - Chronic offsets (UC-3/4 Pre-Weigh ~+7 F all year) vanish if "normal" is learned from history.
+   - Engine room hot in a heat wave is weather; hot when ambient is falling is EF-2 (E06).
+   - Ammonia: detector readings far below alarm but rising (GD-A-04) plus smell reports plus a
+     falling receiver level (E10) is the highest-risk story, and nothing ever alarms.
+
+6. NOT WORTH TIME YET
+   - Folder 03 (OEE): different dates (2025, and 06-15..06-21), no mapping of Lines 1-5 to plants.
+   - Forecasting before the baseline/anomaly layer works (PRD week 4).
+
+7. ASK THE CLIENT
+   - Plant C setpoints and Plant B setpoint history; June ops records; which evaporators are off
+     during the 06-09 leak; the five-part review format; on-call roster and channels; whether the
+     41 F / 30 minute thresholds are final; Plant B detector calibration date.

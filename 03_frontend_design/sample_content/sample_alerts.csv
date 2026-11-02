@@ -1,0 +1,9 @@
+alert_id,priority,plant,location,title,detail,status,started,owner
+A-001,Critical,Plant A,HPR receiver,Receiver level at 0% during production,9:00 a.m. to 1:00 p.m.; discharge pressure fell from 154 to 77 psig; every cooler warmed 4-8 F,Open,2026-06-09 09:00,
+A-002,High,Plant A,"UC-5, UC-6, UC-7, UC-8",Four coolers above 41 F at the same time,52-55 F around 10:30 a.m.,Notified,2026-06-09 10:00,
+B-001,High,Plant B,Compressor C-1,Compressor C-1 shut down after an oil leak,C-1 load dropped to 0%; backup compressors restarted from 9:17 p.m.,Acknowledged,2026-06-09 20:00,Refrigeration tech
+B-002,Medium,Plant B,UC-4 Filling Room,Filling room temperature sensor not reading,Reports -459.67 F (disconnected); work order open,Open,2026-06-25 00:00,
+A-003,Low,Plant A,UF-3 / UF-4,Freezers spike every night at 2:45 a.m.,Peaks grew from about 24 F to 49 F against an 18 F setpoint,Open,2026-06-01 02:45,
+C-001,Low,Plant C,Freezer,Freezer slowly warming over about 9 weeks,Weekly average rose from about -4 F to about 0 F,Open,2026-08-01 00:00,
+B-003,Suppressed,Plant B,All compressors,"Utility power interruption, Aug 19",Known cause: utility power blip; compressors restarted by 3:20 p.m.,Suppressed,2026-08-19 14:05,
+A-004,Data issue,Plant A,Controller,"Controller data missing after 2:00 p.m., Sep 15",Export wrote zeros; controller lost communication,Open,2026-09-15 14:00,

@@ -1,0 +1,17 @@
+detector_id,plant,location,last_calibration,calibration_due,last_bump_test,alarm_setpoints_warning_alarm,warning_ppm,alarm_ppm
+GD-A-01,Plant A,Engine room (north),2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-A-02,Plant A,Engine room (south),2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-A-03,Plant A,UC-5/8 RTE corridor,2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-A-04,Plant A,UC-13/14 evaporator,2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-A-05,Plant A,Roof condenser,2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-A-06,Plant A,Dock,2026-06-16,2026-12-13,2026-09-18,25 / 150 ppm,25,150
+GD-B-01,Plant B,Engine room (east),2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-B-02,Plant B,Engine room (west),2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-B-03,Plant B,Spiral freezer area,2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-B-04,Plant B,Cook rooms,2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-B-05,Plant B,Roof condenser,2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-B-06,Plant B,Dock,2026-03-02,2026-08-29,2026-08-20,25 / 150 ppm,25,150
+GD-C-01,Plant C,Mechanical yard,2026-06-23,2026-12-20,2026-09-11,25 / 150 ppm,25,150
+GD-C-02,Plant C,Freezer vestibule,2026-06-23,2026-12-20,2026-09-11,25 / 150 ppm,25,150
+GD-C-03,Plant C,Protein rooms,2026-06-23,2026-12-20,2026-09-11,25 / 150 ppm,25,150
+GD-C-04,Plant C,Dock,2026-06-23,2026-12-20,2026-09-11,25 / 150 ppm,25,150
