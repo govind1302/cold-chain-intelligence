@@ -1,0 +1,25 @@
+plant,point_id,label,hours,hours_over_41,pct_over_41,median,p95
+Plant A,uc_3_4_pre_weigh,UC-3/4 Pre-Weigh,3806,1160,30.48,40.3,53.8
+Plant A,uc_6_ready_to_eat,UC-6 Ready To Eat,3806,938,24.65,40.3,43.9
+Plant C,queso_cup_chiller,Queso Cup Chiller,3672,541,14.73,37.0,47.4
+Plant A,uc_7_ready_to_eat,UC-7 Ready To Eat,3806,197,5.18,37.9,41.1
+Plant C,front_middle_cooler,Front Middle Cooler,3672,137,3.73,36.3,39.2
+Plant A,uc_26_c_temp_rm,UC-26 C. Temp. Rm,3806,50,1.31,38.1,39.4
+Plant A,uc_9_10_cooler,UC-9/10 Cooler,3806,49,1.29,37.8,39.5
+Plant C,bulk_cooler_1,Bulk Cooler 1,3672,46,1.25,37.6,40.1
+Plant C,bulk_cooler_2,Bulk Cooler 2,3672,39,1.06,37.5,40.0
+Plant A,uc_5_ready_to_eat,UC-5 Ready To Eat,3806,7,0.18,35.8,38.8
+Plant A,uc_8_ready_to_eat,UC-8 Ready To Eat,3806,3,0.08,35.3,38.0
+Plant A,uc_21_22_cooler,UC-21/22 Cooler,3806,2,0.05,37.3,39.0
+Plant A,uc_13_14_cooler,UC-13/14 Cooler,3806,1,0.03,36.8,37.9
+Plant A,uc_15_16_cooler,UC-15/16 Cooler,3806,1,0.03,36.6,37.7
+Plant A,uc_11_12_cooler,UC-11/12 Cooler,3806,1,0.03,37.1,38.4
+Plant A,uc_25,UC-25,3638,1,0.03,34.8,36.7
+Plant B,uc_10_ingred_cooler,UC-10 Ingred. Cooler,3840,1,0.03,35.3,36.5
+Plant A,uc_23_24_cooler,UC-23/24 Cooler,3806,0,0.0,35.5,37.1
+Plant A,uc_17_18_cooler,UC-17/18 Cooler,3806,0,0.0,36.2,37.4
+Plant A,uc_19_20_cooler,UC-19/20 Cooler,3806,0,0.0,35.4,36.7
+Plant B,uc_9_fin_goods_cooler,UC-9 Fin. Goods Cooler,3840,0,0.0,34.2,37.1
+Plant B,uc_8_fin_goods_cooler,UC-8 Fin. Goods Cooler,3840,0,0.0,34.2,36.9
+Plant B,uc_11_ingred_cooler,UC-11 Ingred. Cooler,3840,0,0.0,34.3,35.4
+Plant C,front_left_cooler,Front Left Cooler,3672,0,0.0,34.6,36.1

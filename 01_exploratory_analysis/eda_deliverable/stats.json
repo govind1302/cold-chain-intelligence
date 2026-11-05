@@ -1,0 +1,740 @@
+{
+  "overview": [
+    {
+      "plant": "Plant A",
+      "hourly_rows": 257664,
+      "measured_rows": 186072,
+      "points": 50,
+      "measured_points": 31,
+      "setpoints": 19,
+      "days_with_data": 159,
+      "report_groups": 2,
+      "full_month_groups_present": "300/306",
+      "june_groups_present": "16/60",
+      "pct_measured_flagged": 0.43
+    },
+    {
+      "plant": "Plant B",
+      "hourly_rows": 384336,
+      "measured_rows": 312288,
+      "points": 85,
+      "measured_points": 66,
+      "setpoints": 19,
+      "days_with_data": 160,
+      "report_groups": 6,
+      "full_month_groups_present": "896/918",
+      "june_groups_present": "39/180",
+      "pct_measured_flagged": 2.58
+    },
+    {
+      "plant": "Plant C",
+      "hourly_rows": 73440,
+      "measured_rows": 73440,
+      "points": 20,
+      "measured_points": 20,
+      "setpoints": 0,
+      "days_with_data": 153,
+      "report_groups": 1,
+      "full_month_groups_present": "147/153",
+      "june_groups_present": "6/30",
+      "pct_measured_flagged": 0.51
+    }
+  ],
+  "totals": {
+    "hourly_rows": 715440,
+    "measured_points": 117,
+    "all_points": 155,
+    "days": "2026-04-01 to 2026-09-30 (183 days)"
+  },
+  "flags_measured": {
+    "export_truncated_zero_fill": {
+      "Plant A": 490,
+      "Plant B": 0,
+      "Plant C": 0
+    },
+    "implausible_value": {
+      "Plant A": 1,
+      "Plant B": 0,
+      "Plant C": 372
+    },
+    "sensor_disconnected": {
+      "Plant A": 0,
+      "Plant B": 8064,
+      "Plant C": 0
+    },
+    "stuck_value": {
+      "Plant A": 312,
+      "Plant B": 0,
+      "Plant C": 0
+    }
+  },
+  "setpoint_unavailable_rows_B": 70224,
+  "missing_report_groups_full_months": {
+    "Plant A": 6,
+    "Plant B": 22,
+    "Plant C": 6
+  },
+  "cold_rooms": {
+    "n": 24,
+    "total_hours": 90642,
+    "hours_over_41": 3174,
+    "pct_over_41": 3.5,
+    "top3_share": 83.1,
+    "top3": [
+      {
+        "plant": "Plant A",
+        "label": "UC-3/4 Pre-Weigh",
+        "pct_over_41": 30.48
+      },
+      {
+        "plant": "Plant A",
+        "label": "UC-6 Ready To Eat",
+        "pct_over_41": 24.65
+      },
+      {
+        "plant": "Plant C",
+        "label": "Queso Cup Chiller",
+        "pct_over_41": 14.73
+      }
+    ],
+    "rooms_never_over": 7
+  },
+  "bad_readings": [
+    {
+      "issue": "Dead sensor reads 459.6 \u00b0F",
+      "plant": "Plant B",
+      "readings": 8064
+    },
+    {
+      "issue": "Outage wrote zeros (Sep 15)",
+      "plant": "Plant A",
+      "readings": 680
+    },
+    {
+      "issue": "Impossible values (Back Dock, tank level)",
+      "plant": "Plant A, C",
+      "readings": 373
+    },
+    {
+      "issue": "Stuck sensor, flat for 7 days",
+      "plant": "Plant A",
+      "readings": 312
+    }
+  ],
+  "bad_readings_total": 9429,
+  "june9": {
+    "receiver_zero_hours": 5,
+    "first_zero_hour": 9,
+    "discharge_08_09_10": [
+      154.1,
+      96.2,
+      77.1
+    ],
+    "rooms_over_41_at_10": 4,
+    "peak_hourly": 52.8,
+    "peak_summary": 54.55,
+    "peak_summary_point": "UC-6 Ready To Eat",
+    "peak_summary_time": "10:46"
+  },
+  "qfm": {
+    "days": 159,
+    "days_high_at_0245": 150,
+    "june": [
+      {
+        "date": "2026-06-01",
+        "high_raw": 24.46,
+        "hourly_max_clean": 23.8
+      },
+      {
+        "date": "2026-06-02",
+        "high_raw": 40.22,
+        "hourly_max_clean": 32.6
+      },
+      {
+        "date": "2026-06-04",
+        "high_raw": 34.27,
+        "hourly_max_clean": 27.1
+      },
+      {
+        "date": "2026-06-09",
+        "high_raw": 49.29,
+        "hourly_max_clean": 40.0
+      },
+      {
+        "date": "2026-06-10",
+        "high_raw": 38.28,
+        "hourly_max_clean": 30.9
+      },
+      {
+        "date": "2026-06-25",
+        "high_raw": 37.77,
+        "hourly_max_clean": 32.4
+      },
+      {
+        "date": "2026-06-28",
+        "high_raw": 49.54,
+        "hourly_max_clean": 47.7
+      },
+      {
+        "date": "2026-06-30",
+        "high_raw": 37.17,
+        "hourly_max_clean": 31.9
+      }
+    ],
+    "mean_gap_summary_vs_hourly": 3.0,
+    "apr_may_mean_high": 22.3,
+    "weekly_mean_high": {
+      "2026-03-30": 21.8,
+      "2026-04-06": 22.5,
+      "2026-04-13": 21.7,
+      "2026-04-20": 22.3,
+      "2026-04-27": 21.8,
+      "2026-05-04": 23.1,
+      "2026-05-11": 22.1,
+      "2026-05-18": 22.2,
+      "2026-05-25": 22.9,
+      "2026-06-01": 33.0,
+      "2026-06-08": 43.8,
+      "2026-06-22": 43.7,
+      "2026-06-29": 44.0,
+      "2026-07-06": 46.1,
+      "2026-07-13": 28.0,
+      "2026-07-20": 21.5,
+      "2026-07-27": 20.7,
+      "2026-08-03": 21.4,
+      "2026-08-10": 21.4,
+      "2026-08-17": 21.8,
+      "2026-08-24": 21.2,
+      "2026-08-31": 21.3,
+      "2026-09-07": 23.5,
+      "2026-09-14": 27.5,
+      "2026-09-21": 29.7,
+      "2026-09-28": 31.0
+    }
+  },
+  "engine": {
+    "gap_apr_may_median": 4.0,
+    "gap_apr_may_p95": 5.5,
+    "gap_0813": 2.6,
+    "gap_0820": 7.3,
+    "gap_0824": 8.3,
+    "ambient_0813": 83.8,
+    "ambient_0820": 74.1,
+    "corr_engine_ambient_apr_may": 0.99
+  },
+  "alarms": {
+    "total": 695,
+    "unacknowledged": 83,
+    "per_week": 26.6,
+    "per_plant_week": {
+      "Plant A": 15.9,
+      "Plant B": 4.4,
+      "Plant C": 6.4
+    },
+    "top3_share": 69.6,
+    "top3": [
+      {
+        "plant": "Plant A",
+        "point": "UC-3/4 Pre-Weigh",
+        "n": 176
+      },
+      {
+        "plant": "Plant C",
+        "point": "Front Middle Cooler",
+        "n": 165
+      },
+      {
+        "plant": "Plant A",
+        "point": "UC-6 Ready To Eat",
+        "n": 143
+      }
+    ],
+    "median_duration_min": 60.0,
+    "n_points": 12
+  },
+  "events": {
+    "total": 26,
+    "types": {
+      "real fault - sudden": 3,
+      "slow build": 3,
+      "slow build (weak)": 2,
+      "sensor fault (drift)": 2,
+      "slow build (recurrence)": 1,
+      "slow build + weather confound": 1,
+      "sensor fault (stuck)": 1,
+      "data gap (not a real event)": 1,
+      "combined-source fault": 1,
+      "slow build - highest risk": 1,
+      "chronic condition": 1,
+      "sensor fault": 1,
+      "sensor fault (long-standing)": 1,
+      "real event + data gap": 1,
+      "planned maintenance": 1,
+      "normal operation (looks like a fault)": 1,
+      "compliance risk": 1,
+      "slow/step fault": 1,
+      "chronic fault": 1,
+      "data gap": 1
+    },
+    "fault_events": 15,
+    "fault_events_with_alarm": 6,
+    "fault_events_no_alarm": [
+      "E01",
+      "E02",
+      "E05",
+      "E10",
+      "E16",
+      "E17",
+      "E18",
+      "E24",
+      "E25"
+    ],
+    "fault_events_alarmed": [
+      "E03",
+      "E04",
+      "E06",
+      "E09",
+      "E11",
+      "E23"
+    ],
+    "fault_events_outside_june": 12,
+    "fault_events_outside_june_no_alarm": [
+      "E10",
+      "E16",
+      "E17",
+      "E18",
+      "E24",
+      "E25"
+    ]
+  },
+  "dock": {
+    "events": 4882,
+    "median_open_min": 21.2,
+    "p95_open_min": 37.9,
+    "carrierK_D4_before": 19.3,
+    "carrierK_D4_after": 59.5
+  },
+  "work_orders": {
+    "total": 671,
+    "by_type": {
+      "PM": 496,
+      "CM": 175
+    },
+    "open": 19
+  },
+  "shift_log_entries": 951,
+  "detectors": {
+    "events": 47,
+    "max_ppm": 17.5,
+    "any_over_warning": 0,
+    "gd_a_04_by_month": {
+      "2026-04": 2,
+      "2026-07": 1,
+      "2026-08": 5,
+      "2026-09": 18
+    }
+  },
+  "receiving": {
+    "receipts": 2107,
+    "temp_checked": 1548,
+    "disposition": {
+      "Accepted": 2106,
+      "Rejected": 1
+    }
+  },
+  "weather": {
+    "Plant A": {
+      "mean": 73.9,
+      "max": 98.2
+    },
+    "Plant B": {
+      "mean": 76.4,
+      "max": 104.3
+    },
+    "Plant C": {
+      "mean": 72.9,
+      "max": 104.2
+    }
+  },
+  "reviews": {
+    "numbers_checked": 309,
+    "exact": 296,
+    "approx": 13,
+    "text_errors": 2
+  },
+  "ops_files": {
+    "ammonia_detector_calibration_status_2026-09-30.csv": 16,
+    "ammonia_detector_events_2026-04_to_09.csv": 47,
+    "asset_register.csv": 92,
+    "cmms_work_orders_2026-04_to_09.csv": 671,
+    "controller_alarm_history_2026-04_to_09.csv": 695,
+    "dock_door_events_2026-04_to_09.csv": 4882,
+    "field_rounds_handheld_2026-04_to_09.csv": 4912,
+    "operator_shift_log_2026-04_to_09.csv": 951,
+    "production_and_sanitation_schedule_2026-04_to_09.csv": 592,
+    "receiving_log_2026-04_to_09.csv": 2107,
+    "utility_energy_daily_2026-04_to_09.csv": 459,
+    "weather_service_hourly_2026-04_to_09.csv": 11016
+  },
+  "key_points": [
+    {
+      "plant": "Plant A",
+      "point": "UC-5 Ready To Eat",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 36.0,
+      "sd": 1.4,
+      "min": 32.9,
+      "p05": 34.1,
+      "median": 35.8,
+      "p95": 38.8,
+      "max": 52.2
+    },
+    {
+      "plant": "Plant A",
+      "point": "UC-6 Ready To Eat",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 40.6,
+      "sd": 1.5,
+      "min": 37.4,
+      "p05": 38.8,
+      "median": 40.3,
+      "p95": 43.9,
+      "max": 52.8
+    },
+    {
+      "plant": "Plant A",
+      "point": "UC-3/4 Pre-Weigh",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 41.6,
+      "sd": 4.4,
+      "min": 35.0,
+      "p05": 38.1,
+      "median": 40.3,
+      "p95": 53.8,
+      "max": 56.3
+    },
+    {
+      "plant": "Plant A",
+      "point": "UF-3 QFM",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 17.7,
+      "sd": 2.0,
+      "min": 13.5,
+      "p05": 15.8,
+      "median": 17.5,
+      "p95": 19.6,
+      "max": 47.7
+    },
+    {
+      "plant": "Plant A",
+      "point": "HPR V1 Level",
+      "unit": "pct_level",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 26.7,
+      "sd": 3.8,
+      "min": -0.0,
+      "p05": 20.0,
+      "median": 27.6,
+      "p95": 31.4,
+      "max": 40.3
+    },
+    {
+      "plant": "Plant A",
+      "point": "Discharge Pressure",
+      "unit": "psig",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 150.2,
+      "sd": 8.7,
+      "min": 77.1,
+      "p05": 135.1,
+      "median": 150.6,
+      "p95": 163.8,
+      "max": 173.2
+    },
+    {
+      "plant": "Plant A",
+      "point": "UC-1 Engine Room",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 76.1,
+      "sd": 6.7,
+      "min": 61.7,
+      "p05": 65.1,
+      "median": 75.6,
+      "p95": 87.7,
+      "max": 105.9
+    },
+    {
+      "plant": "Plant A",
+      "point": "Ambient Temperature",
+      "unit": "degF",
+      "n": 3806,
+      "pct_valid": 99.7,
+      "mean": 74.1,
+      "sd": 8.9,
+      "min": 53.5,
+      "p05": 58.6,
+      "median": 74.2,
+      "p95": 89.8,
+      "max": 98.3
+    },
+    {
+      "plant": "Plant B",
+      "point": "UC-8 Fin. Goods Cooler",
+      "unit": "degF",
+      "n": 3840,
+      "pct_valid": 100.0,
+      "mean": 34.3,
+      "sd": 1.0,
+      "min": 31.7,
+      "p05": 33.1,
+      "median": 34.2,
+      "p95": 36.9,
+      "max": 39.9
+    },
+    {
+      "plant": "Plant B",
+      "point": "UF-1 Ingr. Freezer",
+      "unit": "degF",
+      "n": 3840,
+      "pct_valid": 100.0,
+      "mean": 15.4,
+      "sd": 8.9,
+      "min": -5.9,
+      "p05": 7.8,
+      "median": 12.2,
+      "p95": 33.8,
+      "max": 69.5
+    },
+    {
+      "plant": "Plant B",
+      "point": "SF-1 Spiral Freezer 1",
+      "unit": "degF",
+      "n": 3840,
+      "pct_valid": 100.0,
+      "mean": -4.8,
+      "sd": 40.8,
+      "min": -40.6,
+      "p05": -34.4,
+      "median": -27.0,
+      "p95": 67.4,
+      "max": 79.2
+    },
+    {
+      "plant": "Plant B",
+      "point": "Discharge Pressure",
+      "unit": "psig",
+      "n": 3840,
+      "pct_valid": 100.0,
+      "mean": 151.9,
+      "sd": 7.8,
+      "min": 116.1,
+      "p05": 139.0,
+      "median": 152.0,
+      "p95": 164.8,
+      "max": 177.4
+    },
+    {
+      "plant": "Plant B",
+      "point": "Engine Room Temp.",
+      "unit": "degF",
+      "n": 3792,
+      "pct_valid": 100.0,
+      "mean": 76.9,
+      "sd": 5.6,
+      "min": 62.4,
+      "p05": 67.7,
+      "median": 76.6,
+      "p95": 86.3,
+      "max": 103.7
+    },
+    {
+      "plant": "Plant B",
+      "point": "Motor Load C01",
+      "unit": "pct_FLA",
+      "n": 3720,
+      "pct_valid": 100.0,
+      "mean": 38.8,
+      "sd": 37.6,
+      "min": 0.0,
+      "p05": 0.0,
+      "median": 47.6,
+      "p95": 91.9,
+      "max": 98.1
+    },
+    {
+      "plant": "Plant B",
+      "point": "Motor Load C03",
+      "unit": "pct_FLA",
+      "n": 3696,
+      "pct_valid": 100.0,
+      "mean": 86.9,
+      "sd": 9.3,
+      "min": 0.0,
+      "p05": 78.0,
+      "median": 87.8,
+      "p95": 95.8,
+      "max": 105.5
+    },
+    {
+      "plant": "Plant C",
+      "point": "Bulk Cooler 1",
+      "unit": "degF",
+      "n": 3672,
+      "pct_valid": 100.0,
+      "mean": 37.6,
+      "sd": 1.5,
+      "min": 31.6,
+      "p05": 35.1,
+      "median": 37.6,
+      "p95": 40.1,
+      "max": 42.6
+    },
+    {
+      "plant": "Plant C",
+      "point": "Queso Cup Chiller",
+      "unit": "degF",
+      "n": 3672,
+      "pct_valid": 100.0,
+      "mean": 38.4,
+      "sd": 3.7,
+      "min": 34.8,
+      "p05": 36.1,
+      "median": 37.0,
+      "p95": 47.4,
+      "max": 51.3
+    },
+    {
+      "plant": "Plant C",
+      "point": "Protein Room Front",
+      "unit": "degF",
+      "n": 3672,
+      "pct_valid": 100.0,
+      "mean": 52.5,
+      "sd": 6.4,
+      "min": 40.1,
+      "p05": 45.3,
+      "median": 50.5,
+      "p95": 65.1,
+      "max": 78.1
+    },
+    {
+      "plant": "Plant C",
+      "point": "Freezer",
+      "unit": "degF",
+      "n": 3672,
+      "pct_valid": 100.0,
+      "mean": -3.2,
+      "sd": 2.9,
+      "min": -10.6,
+      "p05": -7.1,
+      "median": -3.7,
+      "p95": 1.8,
+      "max": 18.2
+    },
+    {
+      "plant": "Plant C",
+      "point": "Ambient Air",
+      "unit": "degF",
+      "n": 3672,
+      "pct_valid": 100.0,
+      "mean": 75.4,
+      "sd": 11.5,
+      "min": 50.3,
+      "p05": 57.2,
+      "median": 74.0,
+      "p95": 96.0,
+      "max": 111.1
+    }
+  ],
+  "cold_room_monthly_mean": {
+    "2026-04": {
+      "Plant A": 36.8,
+      "Plant B": 34.6,
+      "Plant C": 36.4
+    },
+    "2026-05": {
+      "Plant A": 37.1,
+      "Plant B": 34.6,
+      "Plant C": 36.6
+    },
+    "2026-06": {
+      "Plant A": 37.4,
+      "Plant B": 34.6,
+      "Plant C": 36.7
+    },
+    "2026-07": {
+      "Plant A": 37.5,
+      "Plant B": 34.6,
+      "Plant C": 38.2
+    },
+    "2026-08": {
+      "Plant A": 37.4,
+      "Plant B": 34.6,
+      "Plant C": 36.7
+    },
+    "2026-09": {
+      "Plant A": 37.1,
+      "Plant B": 34.6,
+      "Plant C": 36.6
+    }
+  },
+  "weather_monthly_mean": {
+    "2026-04": {
+      "Plant A": 64.7,
+      "Plant B": 66.8,
+      "Plant C": 64.1
+    },
+    "2026-05": {
+      "Plant A": 71.9,
+      "Plant B": 74.2,
+      "Plant C": 69.8
+    },
+    "2026-07": {
+      "Plant A": 80.2,
+      "Plant B": 81.5,
+      "Plant C": 79.2
+    },
+    "2026-08": {
+      "Plant A": 78.7,
+      "Plant B": 82.4,
+      "Plant C": 79.0
+    },
+    "2026-09": {
+      "Plant A": 73.7,
+      "Plant B": 76.9,
+      "Plant C": 72.1
+    }
+  },
+  "raw_to_clean": {
+    "raw_values": 726816,
+    "duplicates_removed": 11376,
+    "clean_values": 715440,
+    "usable": 635787,
+    "usable_pct": 88.9,
+    "blanked": 79653,
+    "blanked_pct": 11.1,
+    "blanked_setpoints": 70224,
+    "blanked_by_plant": {
+      "Plant A": 993,
+      "Plant B": 78288,
+      "Plant C": 372
+    },
+    "raw_blocks": 30284,
+    "clean_blocks": 29810,
+    "raw_files": 511,
+    "clean_files": 12,
+    "ops_rows": 26440
+  }
+}

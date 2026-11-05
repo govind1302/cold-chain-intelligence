@@ -1,0 +1,51 @@
+{
+  "fig0_raw_to_clean": {
+    "read": "Each bar is a count of hourly readings. The top bar is everything the controllers exported; each bar below shows what is left after one cleaning step.",
+    "plain": "The controllers exported about 727,000 hourly readings. About 11,000 were exact copies of other readings, so we removed them. Another 80,000 were kept but marked as unusable, and almost 9 in 10 of those are Plant B setpoints that were never exported at all. What remains, about 636,000 readings (89%), is good data.",
+    "why": "Everyone can trust the numbers in the rest of the report: nothing was made up or filled in, every original value is still stored, and each unusable reading carries a label saying why. The low usable rate at Plant B is missing setpoints, not missing sensor readings.",
+    "short_plain": "727k readings exported; 11k exact copies removed; 80k marked unusable (most are setpoints never exported).",
+    "short_why": "89% is good data, nothing was guessed, and every original value is kept."
+  },
+  "fig1_bad_data": {
+    "read": "Each bar is one kind of bad data; its length is how many hourly readings it ruined.",
+    "plain": "Some sensors report nonsense. One disconnected sensor at Plant B says 459.6 °F every hour, which is impossible for a room. Another sensor got stuck on one number for a week, and on Sept 15 a controller lost connection and wrote zeros.",
+    "why": "An alarm system that believed these would treat them as emergencies and page people for nothing. It has to recognize “this sensor is broken” before deciding “this room is in trouble.”",
+    "short_plain": "One disconnected sensor says 459.6 °F every hour; another was stuck for a week; an outage wrote zeros.",
+    "short_why": "Believed as-is, these page people for nothing. Spot broken sensors first."
+  },
+  "fig2_june9_sudden": {
+    "read": "One day at Plant A, hour by hour. Top: the main ammonia supply tank (the receiver). Bottom: four coolers holding ready-to-eat food; the red dashed line is the 41 °F safe limit.",
+    "plain": "At 9 a.m. the tank ran empty and stayed empty until about 1 p.m. (shaded). Within an hour every cooler warmed past 41 °F, one to about 53 °F. When the tank refilled, the coolers cooled back down.",
+    "why": "This was a real, serious problem, and nobody saw it until the next morning’s report. An automatic check would have raised it at 9 a.m.",
+    "short_plain": "At 9 a.m. the ammonia tank ran empty; within an hour all four food coolers passed 41 °F.",
+    "short_why": "A real problem seen only the next morning. An automatic check would flag it at 9 a.m."
+  },
+  "fig3_qfm_0245_spike": {
+    "read": "Each dot is one day: the warmest the freezer got that day. Blue dots are real June data; gray dots are the simulated months.",
+    "plain": "Every night at 2:45 a.m. the freezer briefly warms. In spring the spike reached about 22 °F; in June it jumped to 40–49 °F. A part was replaced in mid-July and it went back to normal, then in September it started creeping up again.",
+    "why": "No single night looks dramatic, so it is easy to miss. You only see it by watching the trend over several days, using the controller’s daily summary, because hourly readings mostly miss the short spike.",
+    "short_plain": "A nightly 2:45 a.m. warm-up doubled in June, was fixed in July, then crept back in September.",
+    "short_why": "No single night looks bad. You only catch it by watching the trend over days."
+  },
+  "fig4_engine_vs_weather": {
+    "read": "Top: outdoor temperature. Bottom: how much hotter the engine room was than outside.",
+    "plain": "The engine room normally runs a little warmer than outside, so hot days are fine. In the mid-August heat wave the gap stayed normal. A week later it cooled off outside, but the engine room stayed hot and the gap shot up to 7–8 °F: a failing exhaust fan. After the fan was fixed on Aug 26 the gap went back to normal.",
+    "why": "Watching raw temperature gives false alarms every heat wave and can miss a real fault on a mild day. The useful number is the gap: is the engine room hotter than the weather explains?",
+    "short_plain": "In the heat wave the gap stayed normal. On cooler days it jumped: a failing exhaust fan.",
+    "short_why": "Watch the gap, not the raw temperature, or heat waves cause false alarms."
+  },
+  "fig5_alarm_fatigue": {
+    "read": "Each bar is one room or freezer; its length is how many alarms it set off over five months.",
+    "plain": "Today’s alarm system goes off about 27 times a week, mostly from three rooms that are always a bit warm and keep going off. Staff have stopped reacting: 83 alarms were never acknowledged.",
+    "why": "It is the “boy who cried wolf” problem. Meanwhile half of the real problems we know about, including a possible ammonia leak, never set off an alarm on their own sensor. More alarms will not help; knowing what is normal, what explains a reading, and which slow trends matter will.",
+    "short_plain": "About 27 alarms a week, mostly from three always-warm rooms; 83 were never acknowledged.",
+    "short_why": "“Boy who cried wolf”: real problems, like a possible leak, never alarmed at all."
+  },
+  "fig6_cold_rooms_over_41F": {
+    "read": "Each bar is a cold room; its length is the share of hours it spent above the 41 °F safe limit.",
+    "plain": "Most cold rooms almost never go above 41 °F. Three rooms account for most of the time over the limit; one pre-weigh room is over about 30% of the time.",
+    "why": "The food-safety risk is concentrated in a few rooms. A system that learns “normal” from the past would decide these rooms are fine because they are always warm, so keep a fixed 41 °F rule and flag chronic rooms once as an ongoing issue, not as a daily alarm.",
+    "short_plain": "Most cold rooms almost never pass 41 °F; three rooms account for most of the time over it.",
+    "short_why": "Risk is concentrated. Keep a fixed 41 °F rule so “always warm” is not treated as normal."
+  }
+}
